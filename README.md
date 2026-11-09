@@ -3,13 +3,13 @@
 Sito statico (Jekyll nativo + GitHub Pages) che documenta la germinazione, il salvataggio e
 la memoria dei dieci fagioli borlotti scampati alla pentola rossa.
 
-Dominio di produzione: **https://pardonabean.it** (vedi `CNAME`).
+Indirizzo attuale: **https://cripantea.github.io/pardonabean/**
+Dominio previsto: `pardonabean.it` (non ancora registrato).
 
 ## Struttura
 
 ```
-_config.yml      configurazione Jekyll (kramdown, permalink /diario/:year/:month/:day/:title/)
-CNAME            dominio personalizzato
+_config.yml      configurazione Jekyll (kramdown, permalink, url + baseurl)
 _layouts/
   default.html   scheletro HTML5: head, header + nav, footer, segnaposto AdSense
   page.html      pagine statiche (titolo, occhiello, lead)
@@ -27,16 +27,40 @@ diario.md        /diario/    archivio completo per anno
 
 ## Pubblicazione
 
-Push su `main`, poi in *Settings → Pages* selezionare il branch `main` (cartella `/`) e
-impostare `pardonabean.it` come dominio personalizzato. Nessuna dipendenza esterna: il sito
-usa solo plugin inclusi nel parser standard di GitHub Pages.
+Push su `main`, poi in *Settings → Pages* selezionare il branch `main` e la cartella `/ (root)`.
+Nessuna dipendenza esterna: il sito usa solo quanto incluso nel parser standard di GitHub Pages.
 
-### DNS richiesto
+### Configurazione attuale: sito di progetto su github.io
+
+Il sito è servito da una sottocartella, quindi `_config.yml` imposta:
+
+```yaml
+url: "https://cripantea.github.io"
+baseurl: "/pardonabean"
+```
+
+Tutti i percorsi interni usano il filtro `relative_url`, perciò si adattano automaticamente
+al `baseurl`: non ci sono URL assoluti scritti a mano da correggere.
+
+### Passaggio al dominio pardonabean.it
+
+Quando il dominio sarà registrato:
+
+1. in `_config.yml` → `url: "https://pardonabean.it"` e `baseurl: ""`
+2. ricreare il file CNAME → `echo pardonabean.it > CNAME`
+3. in *Settings → Pages* impostare il dominio personalizzato e, a certificato emesso,
+   attivare *Enforce HTTPS*
+
+Record DNS da configurare presso il registrar:
 
 | Tipo | Nome | Valore |
 |------|------|--------|
 | A | `@` | `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` |
-| CNAME | `www` | `<utente>.github.io` |
+| CNAME | `www` | `cripantea.github.io` |
+
+> Il file `CNAME` va tenuto fuori dal repo finché il dominio non risolve: la sua sola presenza
+> fa sì che GitHub Pages reindirizzi l'URL github.io al dominio personalizzato, rendendo il
+> sito irraggiungibile.
 
 ## Anteprima locale (facoltativa)
 
