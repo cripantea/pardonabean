@@ -52,10 +52,8 @@ della Tragedia:
 
 - `assets/img/disastro-pentola.jpg` — la pentola rossa con il fondo carbonizzato, il sacchetto
   dei 390 grammi perduti e la bacinella dell'acqua di filtraggio
-- `assets/img/conclave.jpg` — la pentola accanto allo scolapasta con i superstiti recuperati
-
-**Manca ancora** la foto dei Dieci sul tovagliolo umido. Quando sarà disponibile, caricarla come
-`assets/img/tovagliolo.jpg` e aggiungere una `<figure>` nel post di lancio.
+- `assets/img/conclave.jpg` — i Dieci sul tovagliolo umido, ore 23:48 (formato verticale:
+  la `<figure>` usa la classe `.figure-ritratto`, che ne limita la larghezza a 440px)
 
 Per i segnaposto dei prossimi articoli è disponibile la classe `.img-placeholder`:
 

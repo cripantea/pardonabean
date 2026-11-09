@@ -67,11 +67,11 @@ funzione di setaccio fra ciò che era ancora fagiolo e ciò che non lo era più.
 l'esperienza *«indegna»*. Mary Poppins l'ha definita *«mal organizzata ma efficace»*.
 Ugo Fantocci è caduto due volte attraverso i fori ed è stato ripescato entrambe le volte.
 
-<figure>
+<figure class="figure-ritratto">
   <img src="{{ '/assets/img/conclave.jpg' | relative_url }}"
-       alt="A sinistra la pentola rossa con il fondo nero, a destra lo scolapasta con i fagioli recuperati ancora immersi nell'acqua di cottura."
-       width="2000" height="1668" loading="lazy" decoding="async">
-  <figcaption>Le ore 23:44: da una parte la materia carbonizzata, dall'altra lo scolapasta con quanto restava ancora identificabile come fagiolo. Da qui sono usciti i Dieci.</figcaption>
+       alt="I dieci fagioli borlotti disposti sopra un tovagliolo di carta inumidito, appoggiato su un piatto bianco: Bud al centro, gli altri nove intorno."
+       width="1416" height="2048" loading="lazy" decoding="async">
+  <figcaption>Le ore 23:48: i dieci superstiti deposti sul tovagliolo umido. Bud al centro, Patrocle un passo avanti, Don Vito sul bordo. Da questa disposizione non si sono più mossi.</figcaption>
 </figure>
 
 ## Responsabilità

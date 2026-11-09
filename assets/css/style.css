@@ -678,6 +678,14 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 .callout p:last-child { margin-bottom: 0; }
 .callout-warning { background: var(--terra-chiara); }
 
+/* Figure in formato ritratto: si limita la larghezza per non occupare
+   un'altezza eccessiva nella colonna di lettura. */
+.figure-ritratto img {
+  max-width: 440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .img-placeholder {
   display: flex;
   align-items: center;

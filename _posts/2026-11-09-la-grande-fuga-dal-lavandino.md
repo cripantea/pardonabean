@@ -76,11 +76,11 @@ Don Vito ha scelto il bordo. Josef l'angolo. Mata Hari si è posizionata in obli
 Mata Hari fa sempre così. Don Matteo si è messo accanto a Onofrio, che è una scelta pastorale
 e non casuale. Mary Poppins ha allineato sé stessa, e poi ha iniziato a riallineare gli altri.
 
-<figure>
+<figure class="figure-ritratto">
   <img src="{{ '/assets/img/conclave.jpg' | relative_url }}"
-       alt="A sinistra la pentola rossa con il fondo nero, a destra lo scolapasta con i fagioli recuperati ancora immersi nell'acqua di cottura."
-       width="2000" height="1668" loading="lazy" decoding="async">
-  <figcaption>Lo scolapasta alle 23:44, con i superstiti ancora immersi nell'acqua di cottura. Il conclave sul tovagliolo verrà fotografato quattro minuti dopo.</figcaption>
+       alt="I dieci fagioli borlotti disposti sopra un tovagliolo di carta inumidito, appoggiato su un piatto bianco: Bud al centro, gli altri nove intorno."
+       width="1416" height="2048" loading="lazy" decoding="async">
+  <figcaption>Il primo conclave, ore 23:48. Bud al centro, Patrocle un passo avanti; Don Vito ha già scelto il bordo e Mary Poppins ha già iniziato a riallineare gli altri.</figcaption>
 </figure>
 
 ## 00:40 — La decisione
