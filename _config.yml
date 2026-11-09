@@ -5,17 +5,10 @@
 title: "Pardon a Bean"
 description: "Cronaca di salvataggio, germinazione e memoria dei Dieci Legumi Supremi"
 # --- Indirizzo del sito -----------------------------------------
-# Configurazione ATTUALE: sito di progetto su github.io, servito
-# dalla sottocartella /pardonabean/.
-url: "https://cripantea.github.io"
-baseurl: "/pardonabean"
-#
-# Quando pardonabean.it sara' registrato e i DNS propagati:
-#   1. sostituire le due righe qui sopra con:
-#        url: "https://pardonabean.it"
-#        baseurl: ""
-#   2. ripristinare il file CNAME:  echo pardonabean.it > CNAME
-#   3. in Settings > Pages impostare il dominio personalizzato
+# Dominio personalizzato pardonabean.it, servito dalla radice.
+# Il file CNAME nella root del repo deve contenere lo stesso dominio.
+url: "https://pardonabean.it"
+baseurl: ""
 # -----------------------------------------------------------------
 
 # Motore Markdown supportato nativamente da GitHub Pages

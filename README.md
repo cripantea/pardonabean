@@ -3,8 +3,7 @@
 Sito statico (Jekyll nativo + GitHub Pages) che documenta la germinazione, il salvataggio e
 la memoria dei dieci fagioli borlotti scampati alla pentola rossa.
 
-Indirizzo attuale: **https://cripantea.github.io/pardonabean/**
-Dominio previsto: `pardonabean.it` (non ancora registrato).
+Dominio di produzione: **https://pardonabean.it** (vedi `CNAME`).
 
 ## Struttura
 
@@ -30,26 +29,18 @@ diario.md        /diario/    archivio completo per anno
 Push su `main`, poi in *Settings → Pages* selezionare il branch `main` e la cartella `/ (root)`.
 Nessuna dipendenza esterna: il sito usa solo quanto incluso nel parser standard di GitHub Pages.
 
-### Configurazione attuale: sito di progetto su github.io
+### Dominio e percorsi
 
-Il sito è servito da una sottocartella, quindi `_config.yml` imposta:
+Il sito è servito dalla radice del dominio personalizzato:
 
 ```yaml
-url: "https://cripantea.github.io"
-baseurl: "/pardonabean"
+url: "https://pardonabean.it"
+baseurl: ""
 ```
 
 Tutti i percorsi interni usano il filtro `relative_url`, perciò si adattano automaticamente
-al `baseurl`: non ci sono URL assoluti scritti a mano da correggere.
-
-### Passaggio al dominio pardonabean.it
-
-Quando il dominio sarà registrato:
-
-1. in `_config.yml` → `url: "https://pardonabean.it"` e `baseurl: ""`
-2. ricreare il file CNAME → `echo pardonabean.it > CNAME`
-3. in *Settings → Pages* impostare il dominio personalizzato e, a certificato emesso,
-   attivare *Enforce HTTPS*
+al `baseurl`: per servire il sito da una sottocartella (es. `cripantea.github.io/pardonabean/`)
+basta impostare `baseurl: "/pardonabean"` e rimuovere il file `CNAME`, senza toccare i link.
 
 Record DNS da configurare presso il registrar. **Attenzione:** i quattro indirizzi IPv4 sono
 quattro record A separati, tutti con nome `@`, un solo IP per record. Non vanno inseriti come
