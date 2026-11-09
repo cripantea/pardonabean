@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="post wrap-narrow" itemscope itemtype="https://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <p class="post-kicker">Diario di germinazione</p>
+    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% include data-it.html date=page.date %}
+      </time>
+      <span class="sep" aria-hidden="true">&middot;</span>
+      <span itemprop="author">{{ page.author | default: site.author }}</span>
+      {% if page.tags.size > 0 %}
+      <span class="sep" aria-hidden="true">&middot;</span>
+      <span class="post-tags">
+        {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+      </span>
+      {% endif %}
+    </p>
+    {% if page.description %}<p class="post-lead">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    <nav class="post-nav" aria-label="Navigazione tra gli articoli">
+      <div class="post-nav-item post-nav-prev">
+        {% if page.previous %}
+          <span class="post-nav-label">&larr; Precedente</span>
+          <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+        {% else %}
+          <span class="post-nav-label">&larr; Precedente</span>
+          <span class="post-nav-empty">Nessun antefatto: qui inizia tutto.</span>
+        {% endif %}
+      </div>
+      <div class="post-nav-item post-nav-next">
+        {% if page.next %}
+          <span class="post-nav-label">Successivo &rarr;</span>
+          <a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+        {% else %}
+          <span class="post-nav-label">Successivo &rarr;</span>
+          <span class="post-nav-empty">Il futuro &egrave; ancora sotto terra.</span>
+        {% endif %}
+      </div>
+    </nav>
+
+    <p class="post-back">
+      <a class="btn btn-ghost" href="{{ '/diario/' | relative_url }}">Torna all&rsquo;archivio del Diario</a>
+    </p>
+  </footer>
+
+</article>

@@ -1,0 +1,762 @@
+/* ==========================================================================
+   Pardon a Bean — foglio di stile
+   Botanico / retrò contemporaneo: terra, salvia, carta avorio.
+   ========================================================================== */
+
+/* --------------------------------------------------------------
+   1. Token di design
+   -------------------------------------------------------------- */
+:root {
+  /* Colori */
+  --carta:        #faf8f5;
+  --carta-scura:  #f2eee6;
+  --crema:        #fffdfa;
+  --inchiostro:   #23251f;
+  --inchiostro-soft: #4a4d44;
+  --grigio-tenue: #8b8d83;
+  --salvia:       #7f9471;
+  --salvia-scura: #5c6f51;
+  --salvia-chiara:#dbe4d4;
+  --terra:        #8c5a3c;
+  --terra-scura:  #6b4229;
+  --terra-chiara: #e8d8cc;
+  --borlotto:     #9e3b3b;
+  --bordo:        #e3dcd0;
+
+  /* Tipografia */
+  --serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Misure */
+  --misura: 1140px;
+  --misura-stretta: 760px;
+  --raggio: 14px;
+  --raggio-sm: 8px;
+  --ombra: 0 1px 2px rgba(35, 37, 31, .04), 0 8px 24px rgba(35, 37, 31, .06);
+  --ombra-hover: 0 2px 4px rgba(35, 37, 31, .06), 0 16px 36px rgba(35, 37, 31, .10);
+  --transizione: 180ms ease;
+}
+
+/* --------------------------------------------------------------
+   2. Reset essenziale
+   -------------------------------------------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--carta);
+  background-image:
+    radial-gradient(circle at 15% 8%, rgba(127, 148, 113, .07), transparent 42%),
+    radial-gradient(circle at 85% 0%, rgba(140, 90, 60, .06), transparent 38%);
+  background-attachment: fixed;
+  color: var(--inchiostro);
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.72;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+img, svg, video { max-width: 100%; height: auto; }
+img { border-radius: var(--raggio); display: block; }
+
+/* --------------------------------------------------------------
+   3. Tipografia
+   -------------------------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--serif);
+  line-height: 1.22;
+  color: var(--inchiostro);
+  margin: 2.2rem 0 .8rem;
+  letter-spacing: -.012em;
+  font-weight: 700;
+}
+
+h1 { font-size: clamp(2rem, 1.3rem + 2.6vw, 3rem); margin-top: 0; }
+h2 { font-size: clamp(1.5rem, 1.15rem + 1.4vw, 2.05rem); }
+h3 { font-size: 1.32rem; }
+h4 { font-size: 1.12rem; }
+
+p { margin: 0 0 1.25rem; }
+
+a {
+  color: var(--terra-scura);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+  transition: color var(--transizione);
+}
+a:hover, a:focus { color: var(--borlotto); }
+
+:focus-visible {
+  outline: 2px solid var(--salvia-scura);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+strong { font-weight: 700; }
+em { font-style: italic; }
+small { font-size: .85em; color: var(--inchiostro-soft); }
+
+blockquote {
+  margin: 2rem 0;
+  padding: .4rem 0 .4rem 1.4rem;
+  border-left: 3px solid var(--salvia);
+  color: var(--inchiostro-soft);
+  font-style: italic;
+}
+blockquote p:last-child { margin-bottom: 0; }
+
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--bordo) 18%, var(--bordo) 82%, transparent);
+  margin: 3rem 0;
+}
+
+code, pre, kbd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .9em;
+}
+code {
+  background: var(--carta-scura);
+  padding: .14em .42em;
+  border-radius: 5px;
+}
+pre {
+  background: var(--carta-scura);
+  border: 1px solid var(--bordo);
+  border-radius: var(--raggio-sm);
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+}
+pre code { background: none; padding: 0; }
+
+ul, ol { padding-left: 1.35rem; margin: 0 0 1.25rem; }
+li { margin-bottom: .45rem; }
+li::marker { color: var(--salvia-scura); }
+
+figure { margin: 2rem 0; }
+figcaption {
+  font-family: var(--sans);
+  font-size: .85rem;
+  color: var(--grigio-tenue);
+  text-align: center;
+  margin-top: .6rem;
+  font-style: italic;
+}
+
+/* --------------------------------------------------------------
+   4. Tabelle
+   -------------------------------------------------------------- */
+.page-content table,
+.post-content table,
+table.tabella {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-family: var(--sans);
+  font-size: .94rem;
+  background: var(--crema);
+  border: 1px solid var(--bordo);
+  border-radius: var(--raggio-sm);
+  overflow: hidden;
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
+}
+
+th, td {
+  padding: .85rem 1.1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--bordo);
+  vertical-align: top;
+}
+
+thead th {
+  background: var(--salvia-chiara);
+  color: var(--salvia-scura);
+  font-weight: 700;
+  font-size: .78rem;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+tbody tr:last-child td { border-bottom: 0; }
+tbody tr:nth-child(even) { background: var(--carta-scura); }
+
+/* --------------------------------------------------------------
+   5. Impalcatura
+   -------------------------------------------------------------- */
+.wrap {
+  width: 100%;
+  max-width: var(--misura);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.wrap-narrow {
+  width: 100%;
+  max-width: var(--misura-stretta);
+  margin: 0 auto;
+  padding: 3.5rem 1.25rem 4rem;
+}
+
+.site-main { display: block; min-height: 55vh; }
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: var(--salvia-scura);
+  color: #fff;
+  padding: .7rem 1.1rem;
+  z-index: 100;
+  border-radius: 0 0 var(--raggio-sm) 0;
+  font-family: var(--sans);
+  text-decoration: none;
+}
+.skip-link:focus { left: 0; color: #fff; }
+
+/* --------------------------------------------------------------
+   6. Header e navigazione
+   -------------------------------------------------------------- */
+.site-header {
+  background: rgba(250, 248, 245, .92);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+  border-bottom: 1px solid var(--bordo);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.header-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+  text-decoration: none;
+  color: inherit;
+}
+.brand-mark { font-size: 1.7rem; line-height: 1; }
+.brand-text { display: flex; flex-direction: column; }
+.brand-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -.02em;
+  line-height: 1.15;
+}
+.brand-tagline {
+  font-family: var(--sans);
+  font-size: .72rem;
+  letter-spacing: .04em;
+  color: var(--grigio-tenue);
+  text-transform: uppercase;
+  max-width: 34ch;
+}
+
+.site-nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .25rem .4rem;
+  margin: 0;
+  padding: 0;
+}
+.site-nav li { margin: 0; }
+.site-nav a {
+  display: block;
+  font-family: var(--sans);
+  font-size: .9rem;
+  font-weight: 500;
+  color: var(--inchiostro-soft);
+  text-decoration: none;
+  padding: .45rem .8rem;
+  border-radius: 999px;
+  transition: background var(--transizione), color var(--transizione);
+}
+.site-nav a:hover,
+.site-nav a:focus { background: var(--salvia-chiara); color: var(--salvia-scura); }
+.site-nav a.is-active {
+  background: var(--salvia-scura);
+  color: #fff;
+}
+
+/* --------------------------------------------------------------
+   7. Hero
+   -------------------------------------------------------------- */
+.hero {
+  position: relative;
+  padding: 5rem 0 4.5rem;
+  background:
+    linear-gradient(170deg, rgba(219, 228, 212, .55) 0%, rgba(250, 248, 245, 0) 70%);
+  border-bottom: 1px solid var(--bordo);
+  overflow: hidden;
+}
+
+.hero-inner { position: relative; max-width: 820px; }
+
+.hero-eyebrow {
+  font-family: var(--sans);
+  font-size: .76rem;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--salvia-scura);
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.hero-title {
+  font-size: clamp(2.3rem, 1.3rem + 4.2vw, 4.1rem);
+  line-height: 1.04;
+  margin: 0 0 1.2rem;
+  letter-spacing: -.028em;
+}
+.hero-title em {
+  font-style: italic;
+  color: var(--terra);
+}
+
+.hero-sub {
+  font-size: clamp(1.05rem, .98rem + .4vw, 1.3rem);
+  color: var(--inchiostro-soft);
+  max-width: 62ch;
+  margin-bottom: 2rem;
+}
+
+.hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; }
+
+.hero-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px dashed var(--bordo);
+}
+.hero-stat strong {
+  display: block;
+  font-size: 2.1rem;
+  line-height: 1.1;
+  color: var(--terra-scura);
+  letter-spacing: -.02em;
+}
+.hero-stat span {
+  font-family: var(--sans);
+  font-size: .74rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--grigio-tenue);
+}
+
+/* --------------------------------------------------------------
+   8. Pulsanti
+   -------------------------------------------------------------- */
+.btn {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: .92rem;
+  font-weight: 600;
+  text-decoration: none;
+  padding: .72rem 1.4rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition: transform var(--transizione), background var(--transizione),
+              color var(--transizione), border-color var(--transizione);
+}
+.btn:hover { transform: translateY(-2px); }
+
+.btn-primary { background: var(--salvia-scura); color: #fff; }
+.btn-primary:hover, .btn-primary:focus { background: var(--inchiostro); color: #fff; }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--inchiostro-soft);
+  border-color: var(--bordo);
+}
+.btn-ghost:hover, .btn-ghost:focus {
+  border-color: var(--salvia);
+  color: var(--salvia-scura);
+  background: var(--crema);
+}
+
+/* --------------------------------------------------------------
+   9. Sezioni
+   -------------------------------------------------------------- */
+.section { padding: 4.5rem 0; }
+.section + .section { border-top: 1px solid var(--bordo); }
+.section-alt { background: var(--carta-scura); }
+
+.section-head { max-width: 62ch; margin-bottom: 2.75rem; }
+.section-eyebrow {
+  font-family: var(--sans);
+  font-size: .74rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--terra);
+  font-weight: 600;
+  margin-bottom: .6rem;
+}
+.section-title { margin: 0 0 .7rem; }
+.section-sub { color: var(--inchiostro-soft); margin: 0; }
+
+/* --------------------------------------------------------------
+   10. Griglia e schede dei fagioli
+   -------------------------------------------------------------- */
+.bean-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bean-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: var(--crema);
+  border: 1px solid var(--bordo);
+  border-radius: var(--raggio);
+  padding: 1.6rem 1.5rem 1.5rem;
+  margin: 0;
+  box-shadow: var(--ombra);
+  transition: transform var(--transizione), box-shadow var(--transizione),
+              border-color var(--transizione);
+  overflow: hidden;
+}
+
+.bean-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  background: var(--salvia);
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform var(--transizione);
+}
+
+.bean-card:hover,
+.bean-card:focus-within {
+  transform: translateY(-4px);
+  box-shadow: var(--ombra-hover);
+  border-color: var(--salvia-chiara);
+}
+.bean-card:hover::before,
+.bean-card:focus-within::before { transform: scaleY(1); }
+
+.bean-num {
+  font-family: var(--sans);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  color: var(--terra);
+  margin-bottom: .55rem;
+}
+
+.bean-name {
+  font-size: 1.3rem;
+  margin: 0 0 .15rem;
+  letter-spacing: -.015em;
+}
+
+.bean-role {
+  font-family: var(--sans);
+  font-size: .78rem;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: var(--salvia-scura);
+  margin: 0 0 .85rem;
+  font-weight: 600;
+}
+
+.bean-desc {
+  margin: 0 0 1.1rem;
+  font-size: .98rem;
+  color: var(--inchiostro-soft);
+}
+
+.bean-link {
+  margin-top: auto;
+  font-family: var(--sans);
+  font-size: .84rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--terra-scura);
+}
+.bean-link::after {
+  content: " \2192";
+  transition: margin var(--transizione);
+  display: inline-block;
+}
+.bean-link:hover::after { margin-left: .25rem; }
+
+/* Schede biografia (pagina fagioli) */
+.bean-bio {
+  background: var(--crema);
+  border: 1px solid var(--bordo);
+  border-left: 4px solid var(--salvia);
+  border-radius: var(--raggio-sm);
+  padding: 1.4rem 1.6rem .4rem;
+  margin: 0 0 1.6rem;
+}
+.bean-bio h2, .bean-bio h3 { margin-top: .2rem; }
+
+/* --------------------------------------------------------------
+   11. Lista del diario
+   -------------------------------------------------------------- */
+.post-list { list-style: none; padding: 0; margin: 0; }
+
+.post-list li {
+  margin: 0;
+  border-bottom: 1px solid var(--bordo);
+}
+.post-list li:first-child { border-top: 1px solid var(--bordo); }
+
+.post-item {
+  display: grid;
+  grid-template-columns: 11rem 1fr;
+  gap: .4rem 2rem;
+  align-items: baseline;
+  padding: 1.5rem .25rem;
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--transizione), padding var(--transizione);
+}
+.post-item:hover, .post-item:focus {
+  background: var(--carta-scura);
+  padding-left: .9rem;
+  color: inherit;
+}
+
+.post-item-date {
+  font-family: var(--sans);
+  font-size: .8rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--grigio-tenue);
+  white-space: nowrap;
+}
+.post-item-title {
+  font-size: 1.22rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0 0 .3rem;
+}
+.post-item-excerpt {
+  font-size: .96rem;
+  color: var(--inchiostro-soft);
+  margin: 0;
+}
+
+.post-list-empty {
+  font-style: italic;
+  color: var(--grigio-tenue);
+  padding: 1.5rem 0;
+}
+
+.archive-year {
+  font-family: var(--sans);
+  font-size: .78rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--terra);
+  font-weight: 700;
+  margin: 2.5rem 0 .5rem;
+}
+
+/* --------------------------------------------------------------
+   12. Articolo singolo
+   -------------------------------------------------------------- */
+.post-header { margin-bottom: 2.5rem; }
+
+.post-kicker, .page-kicker {
+  font-family: var(--sans);
+  font-size: .74rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--terra);
+  font-weight: 600;
+  margin-bottom: .7rem;
+}
+
+.post-title, .page-title { margin: 0 0 .9rem; }
+
+.post-meta {
+  font-family: var(--sans);
+  font-size: .86rem;
+  color: var(--grigio-tenue);
+  margin: 0;
+}
+.post-meta .sep { margin: 0 .5rem; }
+
+.post-lead, .page-lead {
+  font-size: 1.14rem;
+  color: var(--inchiostro-soft);
+  font-style: italic;
+  margin: 1.4rem 0 0;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--salvia-chiara);
+}
+
+.tag {
+  display: inline-block;
+  background: var(--salvia-chiara);
+  color: var(--salvia-scura);
+  border-radius: 999px;
+  padding: .12rem .6rem;
+  font-size: .74rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  margin-right: .3rem;
+}
+
+.post-content > p:first-of-type::first-letter {
+  float: left;
+  font-size: 3.6rem;
+  line-height: .82;
+  padding: .12em .09em 0 0;
+  color: var(--terra);
+  font-weight: 700;
+}
+
+.post-content h2 { margin-top: 2.8rem; }
+
+.post-footer {
+  margin-top: 3.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--bordo);
+}
+
+.post-nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.post-nav-item { display: flex; flex-direction: column; gap: .35rem; }
+.post-nav-next { text-align: right; }
+.post-nav-label {
+  font-family: var(--sans);
+  font-size: .73rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--grigio-tenue);
+}
+.post-nav-item a { font-weight: 700; text-decoration: none; }
+.post-nav-item a:hover { text-decoration: underline; }
+.post-nav-empty { color: var(--grigio-tenue); font-style: italic; font-size: .95rem; }
+
+.post-back { margin: 0; }
+
+/* --------------------------------------------------------------
+   13. Riquadri e segnaposto immagine
+   -------------------------------------------------------------- */
+.callout {
+  background: var(--salvia-chiara);
+  border-radius: var(--raggio);
+  padding: 1.5rem 1.6rem;
+  margin: 2.5rem 0;
+}
+.callout p:last-child { margin-bottom: 0; }
+.callout-warning { background: var(--terra-chiara); }
+
+.img-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 220px;
+  padding: 2rem;
+  background: var(--carta-scura);
+  border: 1px dashed var(--bordo);
+  border-radius: var(--raggio);
+  color: var(--grigio-tenue);
+  font-family: var(--sans);
+  font-size: .88rem;
+}
+
+/* --------------------------------------------------------------
+   14. Footer
+   -------------------------------------------------------------- */
+.site-footer {
+  margin-top: 4rem;
+  background: var(--inchiostro);
+  color: var(--carta-scura);
+  padding: 3rem 0 3.5rem;
+}
+.footer-inner { max-width: var(--misura-stretta); }
+.site-footer a { color: var(--salvia-chiara); }
+.site-footer a:hover { color: #fff; }
+
+.footer-claim { font-size: 1.05rem; margin-bottom: .9rem; }
+.footer-disclaimer {
+  font-family: var(--sans);
+  font-size: .86rem;
+  line-height: 1.7;
+  color: #b9b9ae;
+  margin-bottom: .9rem;
+}
+.footer-meta {
+  font-family: var(--sans);
+  font-size: .8rem;
+  color: #8d8d83;
+  margin: 0;
+}
+
+/* --------------------------------------------------------------
+   15. Responsive
+   -------------------------------------------------------------- */
+@media (max-width: 760px) {
+  body { font-size: 17px; }
+
+  .header-inner { flex-direction: column; align-items: flex-start; }
+  .site-nav ul { gap: .2rem; }
+  .site-nav a { padding: .4rem .65rem; font-size: .86rem; }
+
+  .hero { padding: 3.5rem 0 3rem; }
+  .hero-stats { gap: 1.5rem 2rem; }
+
+  .section { padding: 3.25rem 0; }
+  .wrap-narrow { padding-top: 2.5rem; }
+
+  .bean-grid { grid-template-columns: 1fr; }
+
+  .post-item { grid-template-columns: 1fr; gap: .35rem; padding: 1.25rem .15rem; }
+  .post-nav-next { text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: .01ms !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .btn:hover, .bean-card:hover { transform: none; }
+}
+
+/* --------------------------------------------------------------
+   16. Stampa
+   -------------------------------------------------------------- */
+@media print {
+  .site-header, .site-footer, .hero-actions, .post-nav, .skip-link { display: none; }
+  body { background: #fff; color: #000; font-size: 12pt; }
+  a { color: #000; text-decoration: underline; }
+}

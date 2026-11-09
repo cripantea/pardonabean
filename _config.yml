@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------
+#  Pardon a Bean — configurazione Jekyll nativa per GitHub Pages
+# ---------------------------------------------------------------
+
+title: "Pardon a Bean"
+description: "Cronaca di salvataggio, germinazione e memoria dei Dieci Legumi Supremi"
+url: "https://pardonabean.it"
+baseurl: ""
+
+# Motore Markdown supportato nativamente da GitHub Pages
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Struttura permalink del diario
+permalink: /diario/:year/:month/:day/:title/
+
+# Metadati autore / lore
+author: "Il Custode del Tovagliolo"
+lang: it
+
+# Esclusioni dal build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

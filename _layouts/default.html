@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'it' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{% if page.title %}{{ page.title }} &middot; {{ site.title }}{% else %}{{ site.title }} &middot; {{ site.description }}{% endif %}</title>
+
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:locale" content="it_IT">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127793;</text></svg>">
+
+  <!-- =========================================================
+       SEGNAPOSTO GOOGLE ADSENSE
+       Decommentare e sostituire ca-pub-XXXXXXXXXXXXXXXX con
+       l'ID editore reale una volta approvato l'account AdSense.
+
+  <script async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+    crossorigin="anonymous"></script>
+
+       ========================================================= -->
+</head>
+<body>
+
+  <a class="skip-link" href="#contenuto">Salta al contenuto</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark" aria-hidden="true">&#127793;</span>
+        <span class="brand-text">
+          <span class="brand-title">{{ site.title }}</span>
+          <span class="brand-tagline">{{ site.description }}</span>
+        </span>
+      </a>
+
+      <nav class="site-nav" aria-label="Navigazione principale">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active" aria-current="page"{% endif %}>Home</a></li>
+          <li><a href="{{ '/fagioli/' | relative_url }}"{% if page.url contains '/fagioli' %} class="is-active" aria-current="page"{% endif %}>I Dieci Guardiani</a></li>
+          <li><a href="{{ '/diario/' | relative_url }}"{% if page.url contains '/diario' %} class="is-active" aria-current="page"{% endif %}>Diario</a></li>
+          <li><a href="{{ '/tragedia/' | relative_url }}"{% if page.url contains '/tragedia' %} class="is-active" aria-current="page"{% endif %}>La Tragedia</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenuto" class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p class="footer-claim">
+        &copy; {{ 'now' | date: "%Y" }} <strong>{{ site.title }}</strong> &mdash; Tutti i baccelli riservati.
+      </p>
+      <p class="footer-disclaimer">
+        Nessun fagiolo &egrave; stato maltrattato nella realizzazione di questo sito,
+        se si escludono i 390 grammi di cui alla <a href="{{ '/tragedia/' | relative_url }}">nota vicenda</a>.
+        I fatti narrati sono rigorosamente veri; i legumi, rigorosamente consenzienti.
+        Non costituisce consulenza agronomica, legale o culinaria.
+      </p>
+      <p class="footer-meta">
+        Redatto dal <em>{{ site.author }}</em> su tovagliolo umido &middot;
+        <a href="{{ '/diario/' | relative_url }}">Archivio del Diario</a>
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
