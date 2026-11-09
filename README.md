@@ -51,12 +51,33 @@ Quando il dominio sarà registrato:
 3. in *Settings → Pages* impostare il dominio personalizzato e, a certificato emesso,
    attivare *Enforce HTTPS*
 
-Record DNS da configurare presso il registrar:
+Record DNS da configurare presso il registrar. **Attenzione:** i quattro indirizzi IPv4 sono
+quattro record A separati, tutti con nome `@`, un solo IP per record. Non vanno inseriti come
+elenco separato da virgole in un unico record.
+
+| Tipo | Nome | Valore | TTL |
+|------|------|--------|-----|
+| A | `@` | `185.199.108.153` | 300 |
+| A | `@` | `185.199.109.153` | 300 |
+| A | `@` | `185.199.110.153` | 300 |
+| A | `@` | `185.199.111.153` | 300 |
+| CNAME | `www` | `cripantea.github.io` | 300 |
+
+Facoltativi, per raggiungibilità IPv6 (anch'essi un record AAAA ciascuno, nome `@`):
 
 | Tipo | Nome | Valore |
 |------|------|--------|
-| A | `@` | `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` |
-| CNAME | `www` | `cripantea.github.io` |
+| AAAA | `@` | `2606:50c0:8000::153` |
+| AAAA | `@` | `2606:50c0:8001::153` |
+| AAAA | `@` | `2606:50c0:8002::153` |
+| AAAA | `@` | `2606:50c0:8003::153` |
+
+Verifica della propagazione:
+
+```bash
+dig +short pardonabean.it
+dig +short www.pardonabean.it
+```
 
 > Il file `CNAME` va tenuto fuori dal repo finché il dominio non risolve: la sua sola presenza
 > fa sì che GitHub Pages reindirizzi l'URL github.io al dominio personalizzato, rendendo il
