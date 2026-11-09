@@ -19,7 +19,7 @@ autorità in materia.
 
 ## Nota metodologica sulla procedura di selezione {#nota-metodologica}
 
-L'investitura dei Dieci non è avvenuta per sorteggio informale. È il risultato di un
+La grazia ai Dieci non è stata concessa per sorteggio informale. È il risultato di un
 **campionamento stocastico ad alta precisione** eseguito alle 11:15 di domenica 8 novembre 2026
 da personale altamente qualificato: un programmatore in possesso di diploma di ingegnere
 aerospaziale, titolo che in questa casa è considerato dirimente in materia di legumi.
@@ -38,10 +38,11 @@ Il protocollo, ricostruito a posteriori dall'operatore stesso, si articola in ci
 
 L'operatore tiene a precisare che la selezione è stata condotta *«con estrema cura»*. Il registro
 osserva che estrema cura e caso puro, in questo specifico protocollo, coincidono: nessuno dei dieci
-è stato scelto per una qualità propria, e nessuno dei 390 è stato escluso per un difetto.
+è stato scelto per una qualità propria, e nessuno dei 390 è stato escluso per un difetto. Vale per
+i fagioli quello che vale per il tacchino del Ringraziamento: la grazia non premia, capita.
 
-Resta che dieci ore dopo, quando i 390 grammi sono andati incontro alla pirolisi, i Dieci erano
-già su un tovagliolo in un'altra stanza. L'estrazione non era un salvataggio: lo è diventata.
+Resta che dodici ore dopo, quando i 390 grammi sono andati incontro alla pirolisi, i Dieci erano
+già su un tovagliolo in un'altra stanza. La grazia non era un salvataggio: lo è diventata.
 
 | N° | Nome | Ruolo | Posizione sul tovagliolo |
 |:--:|------|-------|--------------------------|

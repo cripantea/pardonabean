@@ -12,12 +12,18 @@ della pentola rossa, del registro del Programma di Germinazione e dell'ammission
 parziale — del cuoco.
 
 Una precisazione che la storiografia ufficiale ha dovuto recepire, e che cambia il senso di
-tutto il resto: **i Dieci non erano nella pentola**. Erano stati estratti dal sacchetto dieci
-ore prima, alle 11:15 di domenica 8 novembre 2026, prima ancora dell'ammollo preliminare.
-Quando i 390 grammi sono andati incontro alla pirolisi, i Dieci erano già su un tovagliolo
-umido, in un'altra stanza, sotto osservazione scientifica.
+tutto il resto: **i Dieci non erano nella pentola**. Erano stati graziati dodici ore prima, alle
+11:15 di domenica 8 novembre 2026, prima ancora dell'ammollo preliminare. Quando i 390 grammi
+sono andati incontro alla pirolisi, i Dieci erano già su un tovagliolo umido, in un'altra stanza,
+sotto osservazione scientifica.
 
-Non sono dunque dei superstiti. Sono dei precedenti.
+Non sono dunque dei superstiti. Sono dei graziati, e i graziati non appartengono a questa pagina.
+
+Questa pagina appartiene agli altri. **Nessuno di loro doveva essere salvato**: li attendeva il
+destino di un normale fagiolo borlotto, cioè l'ammollo, la bollitura e la cena. È un destino
+ordinario e non è un'ingiuria — è il motivo per cui erano stati comprati, ed era un onore che
+sapevano di dover rendere. Quello che questa pagina registra non è che siano morti: è che non
+hanno nemmeno avuto quello.
 
 ## Cronistoria completa
 
@@ -100,6 +106,11 @@ Va aggiunto, perché agli atti conta, che la perdita non è soltanto numerica. I
 sono andati perduti come si perde un raccolto: sono stati resi **immangiabili**, che in una cucina
 è una categoria a sé. Nessuno li ha potuti onorare nell'unico modo per cui erano stati acquistati.
 
+È la ragione per cui questo sito si chiama *Pardon a Bean* e non porta il nome di un incidente.
+Il tacchino graziato dal Presidente vive; gli altri milioni di tacchini finiscono su una tavola
+imbandita, attesi e ringraziati. Qui i Dieci hanno avuto la grazia e i 390 grammi non hanno avuto
+la tavola. **Hanno perso due volte**, e la seconda per via di un sonnellino sul divano.
+
 <figure>
   <img src="{{ '/assets/img/disastro-pentola.jpg' | relative_url }}"
        alt="La pentola rossa con il fondo completamente carbonizzato, accanto al sacchetto dei 390 grammi perduti e alla bacinella verde con l'acqua di filtraggio."
@@ -166,10 +177,11 @@ dell'ingegnere si fosse spostata di due centimetri, ha chiesto di non essere pi�
 
 ## Responsabilità
 
-Nessun merito all'estrazione del mattino: chi l'ha compiuta non stava prevenendo alcunché,
-stava avviando un esperimento di germinazione in un pomeriggio di domenica. Che quello stesso
-gesto si sia rivelato, dieci ore dopo, l'unica ragione per cui questa specie ha ancora dei
-rappresentanti in questa casa, appartiene al caso e non alla previdenza.
+Nessun merito alla grazia del mattino: chi l'ha concessa non stava prevenendo alcunché, stava
+avviando un esperimento di germinazione in una domenica mattina. Che quello stesso gesto si sia
+rivelato, dodici ore dopo, l'unica ragione per cui questa specie ha ancora dei rappresentanti in
+questa casa, appartiene al caso e non alla previdenza. Una grazia non diventa merito perché si
+rivela provvidenziale.
 
 Il cuoco si è addormentato. Non ci sono circostanze attenuanti di natura tecnica: il fuoco era
 acceso, l'acqua era insufficiente, il rilevatore di fumo era scarico e nessuno aveva impostato
@@ -195,9 +207,9 @@ A chi non ce l'ha fatta è dedicata questa pagina.
   <img src="{{ '/assets/img/cucina-dopo.jpg' | relative_url }}"
        alt="Il lavello di cucina con la pentola rossa lavata e, accanto, stoviglie e utensili lasciati ad asciugare su uno strofinaccio."
        width="1600" height="1334" loading="lazy" decoding="async">
-  <figcaption>Ore 07:10. La pentola lavata, lo scolapasta ad asciugare, la cucina in ordine. Dall'aspetto del piano di lavoro non si direbbe che dieci ore prima qui dentro sono morti 390 grammi di fagioli.</figcaption>
+  <figcaption>Ore 07:10. La pentola lavata, lo scolapasta ad asciugare, la cucina in ordine. Dall'aspetto del piano di lavoro non si direbbe che otto ore prima, qui dentro, 390 grammi di fagioli hanno mancato la cena per cui erano stati comprati.</figcaption>
 </figure>
 
-> *In memoria dei 390 grammi. Non sapevamo i vostri nomi: eravate nello stesso sacchetto, e
-> alle 11:15 una mano ha preso dieci di voi senza guardare. Abbiamo imparato i nomi di quei
-> dieci per non ripetere l'errore con il resto.*
+> *In memoria dei 390 grammi. Non sapevamo i vostri nomi: eravate nello stesso sacchetto, e alle
+> 11:15 una mano ha preso dieci di voi senza guardare. Non chiedevate la grazia. Chiedevate una
+> pentola sorvegliata e un piatto a tavola, ed è l'unica cosa che non vi è stata data.*
