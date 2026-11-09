@@ -33,6 +33,8 @@
     crossorigin="anonymous"></script>
 
        ========================================================= -->
+
+  {% include analytics.html %}
 </head>
 <body>
 
@@ -77,6 +79,9 @@
       <p class="footer-meta">
         Redatto dal <em>{{ site.author }}</em> su tovagliolo umido &middot;
         <a href="{{ '/diario/' | relative_url }}">Archivio del Diario</a>
+        {%- if site.analytics.provider != "" and site.analytics.nota_privacy and site.analytics.provider != "google" %}
+        &middot; Statistiche di visita anonime e senza cookie
+        {%- endif %}
       </p>
     </div>
   </footer>

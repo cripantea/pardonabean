@@ -100,6 +100,38 @@ Per i segnaposto dei prossimi articoli è disponibile la classe `.img-placeholde
 </figure>
 ```
 
+## Statistiche di visita
+
+L'impianto è già nel sito ma **disattivato**: finché `analytics.provider` in `_config.yml` è
+vuoto, non viene caricato alcuno script. Gli script vengono inclusi solo nella build di
+produzione, quindi le visite in locale con `jekyll serve` non vengono conteggiate.
+
+Per attivarle basta compilare due righe:
+
+```yaml
+analytics:
+  provider: "goatcounter"
+  code: "pardonabean"
+```
+
+| provider | `code` da inserire | Cookie | Banner di consenso |
+|----------|--------------------|--------|--------------------|
+| `goatcounter` | il nome scelto in fase di registrazione | no | non richiesto |
+| `plausible` | il dominio (`pardonabean.it`) | no | non richiesto |
+| `umami` | il website id | no | non richiesto |
+| `cloudflare` | il token del beacon | no | non richiesto |
+| `google` | l'id di misurazione `G-XXXXXXXXXX` | **sì** | **richiesto** |
+
+> **Nota legale.** Google Analytics 4 usa cookie e profilazione: richiede un banner di consenso
+> preventivo e una privacy policy, e il Garante Privacy italiano si è espresso contro il suo
+> utilizzo per il trasferimento dei dati verso gli Stati Uniti. Le alternative in tabella sono
+> cookieless e non richiedono consenso. Quando il provider è cookieless, il footer mostra
+> automaticamente la nota «Statistiche di visita anonime e senza cookie»; la nota si disattiva
+> con `nota_privacy: false`.
+
+GitHub Pages non fornisce log di accesso lato server, quindi un contatore lato client è l'unico
+modo per avere questi dati.
+
 ## Google AdSense
 
 Lo snippet è già predisposto, commentato, nell'`<head>` di `_layouts/default.html`:

@@ -20,6 +20,25 @@ kramdown:
 # Struttura permalink del diario
 permalink: /diario/:year/:month/:day/:title/
 
+# --- Statistiche di visita ---------------------------------------
+# provider: goatcounter | plausible | umami | cloudflare | google
+#           (vuoto = nessuna statistica, nessuno script caricato)
+# code:     il codice fornito dal servizio scelto, ovvero
+#           goatcounter -> il nome del sito scelto in fase di
+#                          registrazione (es. "pardonabean" per
+#                          pardonabean.goatcounter.com)
+#           plausible   -> il dominio, cioe' pardonabean.it
+#           umami       -> il website id
+#           cloudflare  -> il token del beacon
+#           google      -> l'id di misurazione G-XXXXXXXXXX
+#
+# Gli script vengono inclusi solo nella build di produzione.
+analytics:
+  provider: ""
+  code: ""
+  nota_privacy: true   # mostra in footer la nota sulle statistiche anonime
+# -----------------------------------------------------------------
+
 # Metadati autore / lore
 author: "Il Custode del Tovagliolo"
 lang: it
