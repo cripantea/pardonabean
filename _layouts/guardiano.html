@@ -21,13 +21,12 @@ layout: default
       <figure class="ritratto">
         <div class="ritratto-lastra">
           <img src="{{ '/assets/img/ritratti/' | append: page.slug | append: '.jpg' | relative_url }}"
-               alt="Ritratto di {{ page.nome }}: il fagiolo ritagliato dalla fotografia del conclave, con {{ page.attributo | downcase }} disegnata sopra."
+               alt="Ritratto di {{ page.nome }}: il fagiolo ritagliato dalla fotografia del conclave del 9 novembre 2026."
                width="560" height="560">
-          {% include attributo.html slug=page.slug %}
         </div>
         <figcaption>
-          {{ page.nome }} nella fotografia del conclave delle 07:00 di luned&igrave; 9 novembre 2026.
-          {{ page.attributo }}.
+          {{ page.nome }} nella fotografia del conclave delle 07:00 di luned&igrave; 9 novembre 2026,
+          nella posizione assunta alle 11:19 di domenica.
         </figcaption>
       </figure>
     </div>

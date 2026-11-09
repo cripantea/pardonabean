@@ -7,7 +7,6 @@ ruolo: Il Leader
 posizione: Centro esatto del tovagliolo
 segni: Macchia scura a forma di continente sul fianco sinistro
 motto: L'acqua arriva. L'acqua arriva sempre.
-attributo: La barba, attribuita d'ufficio
 description: "Bud, Guardiano n° 01, il Leader: biografia, taccuino e corrispondenza del fagiolo insediato al centro del tovagliolo."
 ---
 

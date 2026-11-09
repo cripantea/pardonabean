@@ -7,7 +7,6 @@ ruolo: Il Perseguitato
 posizione: Dove capita, male
 segni: Dimensioni ridotte, espressione di chi se l'aspettava
 motto: Come è umida la vita.
-attributo: La bombetta, che non si toglie mai
 description: "Ugo Fantocci, Guardiano n° 06, il Perseguitato: biografia, taccuino e corrispondenza del più piccolo dei Dieci."
 ---
 

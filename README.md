@@ -71,7 +71,6 @@ ruolo: Il Leader
 posizione: Centro esatto del tovagliolo
 segni: Macchia scura a forma di continente sul fianco sinistro
 motto: L'acqua arriva. L'acqua arriva sempre.
-attributo: La barba, attribuita d'ufficio
 ---
 ```
 
@@ -83,11 +82,9 @@ attributo: La barba, attribuita d'ufficio
 argomenti rigenera tutti e dieci. Le coordinate dei fagioli stanno in cima allo
 script e sono le stesse di `_includes/conclave-mappa.html`.
 
-L'attributo disegnato (la barba di Bud, la bombetta di Ugo) e' un gruppo di
-tracciati SVG in `_includes/attributo.html`, uno per ogni slug. Il riquadro e'
-`0 0 100 100` e combacia con il ritratto quadrato, quindi le coordinate si
-leggono come percentuali dell'immagine: per spostare un tratto si cambiano i
-numeri, senza toccare l'immagine.
+Per sostituire un ritratto con una fotografia propria basta mettere il file in
+`assets/img/ritratti/<slug>.jpg`: la scheda lo prende da li'. Conviene che sia
+quadrato e su fondo chiaro, per restare in serie con gli altri.
 
 ### Una raccolta nel Taccuino
 
