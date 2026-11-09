@@ -20,14 +20,15 @@ _includes/
 _data/
   posta.yml        lettere e risposte della rubrica /posta/
   taccuini.yml     frasi raccolte dal pozzo di saggezza di ogni Guardiano
-_guardiani/      una scheda per fagiolo -> /fagioli/<slug>/ (collection nativa)
+_guardiani/      una scheda per fagiolo -> /fagioli/<slug>/ (collection nativa;
+                 qui vivono le biografie, non nell'indice)
 tools/
   ritratti.py      rigenera i ritratti ritagliandoli dalla foto del conclave
 _posts/          articoli del diario (nome file: AAAA-MM-GG-slug.md)
 assets/css/      foglio di stile unico
 assets/img/      immagini (conclave.jpg, disastro-pentola.jpg, foto dei fagioli)
 index.html       home: hero, griglia dei dieci, ultimi 5 aggiornamenti
-fagioli.md       /fagioli/   biografie dei Dieci Guardiani
+fagioli.md       /fagioli/   indice dell'albo: mappa, nota metodologica, schede
 posta.html       /posta/     corrispondenza con i lettori (generata da _data/posta.yml)
 tragedia.md      /tragedia/  memoriale dei 390 grammi
 diario.md        /diario/    archivio completo per anno
@@ -56,6 +57,11 @@ in home page (`{{ posta_tot }}`) pure. L'ancora di ogni lettera e' `/posta/#<slu
 dove `n` e' la posizione della lettera dentro la sezione del Guardiano.
 
 ## Schede dei Guardiani
+
+La biografia di un Guardiano sta in un posto solo: `_guardiani/<slug>.md`.
+`/fagioli/` ne e' l'indice e si genera da solo tramite `_includes/albo-schede.html`,
+quindi aggiungere o togliere un Guardiano non richiede di toccare l'indice. Le
+ancore storiche (`/fagioli/#bud`) restano valide: sono sulle schede dell'indice.
 
 Ogni fagiolo ha una scheda in `_guardiani/<slug>.md`, pubblicata come
 `/fagioli/<slug>/`: ritratto, scheda d'identita', biografia, Taccuino e posta.

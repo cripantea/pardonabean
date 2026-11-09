@@ -524,6 +524,36 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 }
 .bean-bio h2, .bean-bio h3 { margin-top: .2rem; }
 
+/* Griglia dell'albo: schede con il ritratto del Guardiano */
+.albo-griglia { margin: 2.5rem 0; }
+.albo-scheda { scroll-margin-top: 7.5rem; }
+.albo-ritratto {
+  display: block;
+  width: 108px;
+  margin: 0 0 1rem;
+}
+.albo-ritratto img {
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  background: var(--carta);
+  box-shadow: 0 4px 14px rgba(35, 37, 31, .10);
+  transition: var(--transizione);
+}
+.albo-scheda:hover .albo-ritratto img { box-shadow: 0 8px 22px rgba(35, 37, 31, .16); }
+.albo-scheda .bean-name a {
+  text-decoration: none;
+  color: inherit;
+}
+.albo-scheda .bean-name a:hover { color: var(--terra-scura); }
+.albo-segni {
+  font-family: var(--sans);
+  font-size: .8rem;
+  line-height: 1.6;
+  color: var(--grigio-tenue);
+  margin: .75rem 0 0;
+}
+
 /* --------------------------------------------------------------
    11. Lista del diario
    -------------------------------------------------------------- */
@@ -1214,6 +1244,7 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
   .posta-conti { grid-template-columns: repeat(2, 1fr); }
   .guardiano-sezione > h2 { scroll-margin-top: 10.5rem; }
   .guardiano-nav { grid-template-columns: 1fr; }
+  .albo-scheda { scroll-margin-top: 10.5rem; }
   .guardiano-nav-succ { grid-column: 1; text-align: left; }
   .perle li { font-size: 1.12rem; }
   .posta-sezione, .lettera { scroll-margin-top: 10.5rem; }

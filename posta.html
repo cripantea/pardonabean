@@ -70,7 +70,7 @@ description: "I lettori scrivono ai Dieci Guardiani e i Dieci rispondono, ciascu
     <p class="posta-stile"><strong>Come risponde.</strong> {{ g.stile }}</p>
     {%- endif %}
     <p class="posta-biografia">
-      <a href="{{ '/fagioli/#' | append: g.slug | relative_url }}">Biografia di {{ g.nome }}</a>
+      <a href="{{ '/fagioli/' | append: g.slug | append: '/' | relative_url }}">Scheda di {{ g.nome }}</a>
     </p>
   </header>
 

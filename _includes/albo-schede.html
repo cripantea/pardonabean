@@ -1,0 +1,21 @@
+{%- comment -%}
+  Griglia delle schede dei Guardiani, generata dalla collection _guardiani/.
+  Ogni voce porta l'ancora #<slug>, cosi' i collegamenti storici del tipo
+  /fagioli/#bud continuano ad atterrare sul Guardiano giusto.
+{%- endcomment -%}
+{%- assign guardiani = site.guardiani | sort: "numero" -%}
+<ul class="bean-grid albo-griglia">
+  {%- for g in guardiani %}
+  <li class="bean-card albo-scheda" id="{{ g.slug }}">
+    <a class="albo-ritratto" href="{{ g.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ '/assets/img/ritratti/' | append: g.slug | append: '.jpg' | relative_url }}"
+           alt="" width="560" height="560" loading="lazy">
+    </a>
+    <p class="bean-num">N&deg; {{ g.numero }}</p>
+    <h3 class="bean-name"><a href="{{ g.url | relative_url }}">{{ g.nome }}</a></h3>
+    <p class="bean-role">{{ g.ruolo }}</p>
+    <p class="bean-desc"><em>&laquo;{{ g.motto }}&raquo;</em></p>
+    <p class="albo-segni">{{ g.segni }}.</p>
+  </li>
+  {%- endfor %}
+</ul>

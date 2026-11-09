@@ -25,9 +25,9 @@
 
     {%- for g in guardiani -%}
     {%- assign d = g | strip | split: "|" -%}
-    <a class="mc-punto" href="{{ '/fagioli/#' | append: d[3] | relative_url }}"
+    <a class="mc-punto" href="{{ '/fagioli/' | append: d[3] | append: '/' | relative_url }}"
        style="left: {{ d[4] }}%; top: {{ d[5] }}%"
-       aria-label="{{ d[1] }}, {{ d[2] }} — vai alla biografia">
+       aria-label="{{ d[1] }}, {{ d[2] }} — vai alla sua scheda">
       <span class="mc-n" aria-hidden="true">{{ d[0] }}</span>
       <span class="mc-etichetta" aria-hidden="true">{{ d[1] }}</span>
     </a>
@@ -39,7 +39,7 @@
     {%- assign d = g | strip | split: "|" -%}
     <li>
       <span class="mc-badge" aria-hidden="true">{{ d[0] }}</span>
-      <a href="{{ '/fagioli/#' | append: d[3] | relative_url }}">{{ d[1] }}</a>
+      <a href="{{ '/fagioli/' | append: d[3] | append: '/' | relative_url }}">{{ d[1] }}</a>
       <span class="mc-ruolo">{{ d[2] }}</span>
     </li>
     {%- endfor -%}

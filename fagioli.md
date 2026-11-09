@@ -15,7 +15,7 @@ Le posizioni indicate si riferiscono alla disposizione originale sul tovagliolo 
 alle 11:19 di domenica 8 novembre 2026 e mai più modificata se non da Mary Poppins, che ha
 autorità in materia.
 
-{% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e mai più modificata. Tocca un numero sulla fotografia, o un nome nella legenda, per leggere la biografia del Guardiano corrispondente." %}
+{% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e mai più modificata. Tocca un numero sulla fotografia, o un nome nella legenda, per aprire la scheda del Guardiano corrispondente." %}
 
 ## Nota metodologica sulla procedura di selezione {#nota-metodologica}
 
@@ -60,186 +60,12 @@ già su un tovagliolo in un'altra stanza. La grazia non era un salvataggio: lo �
 I numeri di questa tabella corrispondono a quelli della fotografia qui sopra e delle schede in
 [home page]({{ '/' | relative_url }}): il Guardiano n. 4 è lo stesso ovunque lo si incontri.
 
----
+## Le schede dei Dieci {#schede}
 
-## Bud — Il Leader {#bud}
+Ogni Guardiano ha una scheda propria: il ritratto, la biografia estesa, il Taccuino con le frasi
+raccolte dal suo pozzo di saggezza e la corrispondenza con i lettori.
 
-Fagiolo massiccio, di stazza superiore alla media del lotto, insediato al centro del piatto
-senza che nessuno ricordi di averlo votato. La leadership di Bud non nasce dal carisma ma
-dalla geometria: è semplicemente il fagiolo attorno al quale gli altri nove si sono trovati
-disposti quando l'acqua si è fermata.
-
-Parla pochissimo. Nei momenti di crisi si limita a gonfiarsi di qualche frazione di millimetro,
-e questo basta a riportare la calma sul tovagliolo. La leggenda secondo cui sarebbe stato l'ultimo
-a lasciare la pentola è stata smentita dalla revisione storica: Bud nella pentola non c'è mai
-entrato. Ha però passato la notte del rogo rivolto verso la porta della cucina, e nessuno dei
-nove lo ha visto gonfiarsi fino all'alba.
-
-**Segni particolari:** macchia scura a forma di continente sul fianco sinistro.
-**Motto:** *«L'acqua arriva. L'acqua arriva sempre.»*
-
-**Scheda completa:** [ritratto, taccuino e posta di Bud]({{ '/fagioli/bud/' | relative_url }})
-
----
-
-## Mata Hari — L'Enigmatica {#mata-hari}
-
-Striature irregolari, color vinaccia su fondo avorio, che a seconda della luce suggeriscono
-alfabeti diversi. Mata Hari è l'unico membro del conclave la cui estrazione non trovi riscontro
-nel protocollo: l'operatore ricorda di avere prelevato dieci esemplari, ne ricorda nove, e
-sull'identità del decimo mantiene un silenzio che attribuisce alla distanza temporale.
-
-Ha stretto rapporti cordiali con tutti e confidenziali con nessuno. Don Vito la tiene d'occhio.
-Josef sostiene di averla già vista altrove. Onofrio le ha chiesto per chi lavori e lei ha
-risposto *«per l'umidità»*, risposta che a distanza di settimane continua a sembrare sia
-uno scherzo sia una confessione.
-
-**Segni particolari:** striature che cambiano apparenza quando il tovagliolo si asciuga.
-**Motto:** *«Ogni baccello ha due lati. Io ne ho tre.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#mata-hari' | relative_url }})
-
----
-
-## Totò — L'Aristocratico {#toto}
-
-Rivendica il titolo di Principe del Baccello di Posillipo, discendenza che nessun documento
-conferma e che nessuno ha interesse a smentire. Si muove con una dignità sproporzionata rispetto
-alle sue dimensioni e pretende di essere nominato per intero nelle comunicazioni ufficiali.
-
-Ha protestato formalmente per le modalità della propria estrazione, definendo il prelievo cieco
-*«una procedura indegna di un fagiolo del mio rango, che andava convocato e non pescato»*.
-La protesta è agli atti. Nessuno vi ha dato seguito. Informato che l'alternativa alla pescata
-erano i 390 grammi, ha ritirato la protesta senza ammettere di averla ritirata.
-
-**Segni particolari:** profilo affilato, portamento da ritratto ottocentesco.
-**Motto:** *«Ma mi faccia il piacere.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#toto' | relative_url }})
-
----
-
-## Don Vito — Il Sorvegliante {#don-vito}
-
-Occupa da sempre il bordo orientale del tovagliolo, posizione scelta con cura perché da lì
-si controlla contemporaneamente il piatto, il lavandino e la porta della cucina. Non partecipa
-alle discussioni: ascolta, annota e ricorda.
-
-Nei suoi confronti il conclave nutre un rispetto che somiglia molto alla prudenza. Ugo Fantocci
-gli ha chiesto una volta un favore e da allora cammina più dritto. Non è chiaro se Don Vito abbia
-mai concesso quel favore: è chiaro che Ugo sente di doverne uno.
-
-**Segni particolari:** immobilità assoluta, anche quando il piatto viene spostato.
-**Motto:** *«Un giorno, e quel giorno forse non arriverà mai, ti chiederò un servizio.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#don-vito' | relative_url }})
-
----
-
-## Josef — L'Imperscrutabile {#josef}
-
-Autoritario, metodico, titolare di un Piano Quinquennale per la Germinazione articolato in
-quattro fasi di cui si conosce solo la prima: *«bagnarsi»*. Le altre tre sono riservate.
-Ha imposto turni di rotazione sul lato umido del tovagliolo e tiene un registro delle presenze
-che nessuno ha mai visto ma che tutti temono.
-
-Con Mata Hari intrattiene un rapporto di cortesia glaciale. Con Bud ha un patto di non
-belligeranza mai scritto. Con gli altri otto ha i suoi metodi.
-
-**Segni particolari:** superficie opaca, inespressiva, impossibile da interpretare.
-**Motto:** *«La radice arriverà secondo programma.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#josef' | relative_url }})
-
----
-
-## Ugo Fantocci — Il Perseguitato {#ugo-fantocci}
-
-Il più piccolo dei dieci, e non per poco. La sfortuna lo accompagna con una costanza che ha
-ormai assunto i contorni dell'affetto: se una goccia cade fuori bersaglio, cade su Ugo; se il
-tovagliolo si asciuga, si asciuga dalla sua parte; se qualcuno deve essere spostato per fare
-spazio, viene spostato lui.
-
-Ha chiesto ventisette volte di poter prendere un giorno di permesso dal tovagliolo. Gli è stato
-concesso una volta sola, di lunedì, ed è caduto nello scarico. È stato recuperato. Ha ringraziato.
-
-Alla notizia di essere stato estratto per puro caso, e che una traiettoria di due centimetri
-diversa lo avrebbe lasciato nel sacchetto, ha risposto che se lo immaginava e ha chiesto di
-cambiare argomento.
-
-**Segni particolari:** dimensioni ridotte, espressione di chi se l'aspettava.
-**Motto:** *«Come è umida la vita.»*
-
-**Scheda completa:** [ritratto, taccuino e posta di Ugo Fantocci]({{ '/fagioli/ugo-fantocci/' | relative_url }})
-
----
-
-## Onofrio — Il Marchese del Grillo {#onofrio}
-
-Burlone di rango, irriverente per vocazione, convinto che l'essere stato estratto gli abbia
-conferito una patente di impunità permanente. Organizza scherzi notturni che coinvolgono
-sistematicamente Ugo Fantocci e occasionalmente Don Matteo, mai Don Vito.
-
-La sua battuta ricorrente — pronunciata con il tono di chi la ritiene ancora nuova — riguarda
-la differenza ontologica fra lui e gli altri nove. Il conclave la tollera perché Onofrio, la notte
-del rogo, è stato l'unico a non dormire: ha tenuto sveglio il tovagliolo fino alle quattro
-raccontando storie che nessuno ricorda e tutti sostengono di avere apprezzato.
-
-**Segni particolari:** colorazione vivace, tendenza a rotolare quando non richiesto.
-**Motto:** *«Io so' io, e voi non siete un fagiolo.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#onofrio' | relative_url }})
-
----
-
-## Don Matteo — Il Confessore {#don-matteo}
-
-Pronto a confessare la ciurma in qualunque momento, spesso con un certo anticipo sui peccati
-effettivamente commessi. Ha raccolto le confidenze di tutti e dieci — comprese le proprie — e
-le custodisce con un rigore che lo rende contemporaneamente l'elemento più affidabile e più
-pericoloso del conclave.
-
-Ha tentato di confessare anche Josef. Il colloquio è durato undici secondi e si è concluso con
-Josef che gli chiedeva i nomi degli altri penitenti.
-
-**Segni particolari:** superficie uniforme, aspetto rassicurante, memoria infallibile.
-**Motto:** *«Parla pure, tanto lo so già.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#don-matteo' | relative_url }})
-
----
-
-## Mary Poppins — La Precisa {#mary-poppins}
-
-Responsabile unica dell'ordine, dell'allineamento e del grado di umidità del tovagliolo.
-Misura, corregge, riallinea. Ha stabilito che la distanza ottimale fra due fagioli è di
-quattro millimetri e fa rispettare la regola con una fermezza che non ammette repliche.
-
-Sostiene che basti un poco di zucchero perché la germinazione vada giù. L'ipotesi non è
-mai stata testata, in parte per mancanza di zucchero, in parte perché nessuno ha voluto
-essere il fagiolo che contraddice Mary Poppins.
-
-**Segni particolari:** forma regolare, orientamento sempre perpendicolare al bordo.
-**Motto:** *«Praticamente perfetta sotto ogni aspetto. Anche da ammollata.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#mary-poppins' | relative_url }})
-
----
-
-## Patrocle — Il Fedele {#patrocle}
-
-Scattante, leale, costituzionalmente incapace di stare dietro. Si posiziona sistematicamente
-un passo davanti a Bud e ogni volta che il rubinetto si apre è il primo a prendersi il getto.
-Lo fa senza annunciarlo e senza aspettarsi riconoscimenti, il che rende la cosa peggiore.
-
-Il conclave ha discusso tre volte l'opportunità di spostarlo in seconda fila. Tre volte Patrocle
-è tornato al suo posto nel giro di un'ora. Alla quarta discussione Bud ha chiuso la questione
-guardando il tovagliolo e non dicendo niente.
-
-**Segni particolari:** forma allungata, posizione sempre avanzata rispetto al gruppo.
-**Motto:** *«Tu reggi il centro. Al rubinetto ci penso io.»*
-
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#patrocle' | relative_url }})
+{% include albo-schede.html %}
 
 ---
 
