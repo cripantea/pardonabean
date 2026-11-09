@@ -5,7 +5,7 @@
   vengono conteggiate.
   Fornitori supportati: goatcounter, plausible, umami, cloudflare, google.
 {%- endcomment -%}
-{%- if jekyll.environment == "production" and site.analytics.provider and site.analytics.provider != "" -%}
+{%- if jekyll.environment == "production" and site.analytics.provider and site.analytics.provider != "" and site.analytics.code and site.analytics.code != "" -%}
 {%- case site.analytics.provider -%}
 
 {%- when "goatcounter" -%}

@@ -24,9 +24,18 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127793;</text></svg>">
 
   <!-- =========================================================
-       SEGNAPOSTO GOOGLE ADSENSE
+       SEGNAPOSTO GOOGLE ADSENSE  --  NON ATTIVARE ALLA LEGGERA
+
+       ATTENZIONE: nell'Area Economica Europea AdSense NON puo' essere
+       attivato cosi' com'e'. Google richiede una CMP (Consent Management
+       Platform) certificata IAB TCF v2.2 che raccolga il consenso PRIMA
+       del caricamento degli annunci, piu' informativa privacy e cookie
+       policy. Pubblicare annunci senza consenso valido espone a sanzioni
+       del Garante Privacy: e' questo, non le statistiche di visita, il
+       punto delicato del sito.
+
        Decommentare e sostituire ca-pub-XXXXXXXXXXXXXXXX con
-       l'ID editore reale una volta approvato l'account AdSense.
+       l'ID editore reale solo DOPO aver predisposto la CMP.
 
   <script async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
@@ -79,8 +88,9 @@
       <p class="footer-meta">
         Redatto dal <em>{{ site.author }}</em> su tovagliolo umido &middot;
         <a href="{{ '/diario/' | relative_url }}">Archivio del Diario</a>
-        {%- if site.analytics.provider != "" and site.analytics.nota_privacy and site.analytics.provider != "google" %}
-        &middot; Statistiche di visita anonime e senza cookie
+        &middot; <a href="{{ '/privacy/' | relative_url }}">Privacy e cookie</a>
+        {%- if site.analytics.provider != "" and site.analytics.code != "" and site.analytics.nota_privacy and site.analytics.provider != "google" %}
+        &middot; Statistiche anonime, senza cookie
         {%- endif %}
       </p>
     </div>

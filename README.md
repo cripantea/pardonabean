@@ -106,13 +106,17 @@ L'impianto è già nel sito ma **disattivato**: finché `analytics.provider` in 
 vuoto, non viene caricato alcuno script. Gli script vengono inclusi solo nella build di
 produzione, quindi le visite in locale con `jekyll serve` non vengono conteggiate.
 
-Per attivarle basta compilare due righe:
+**Fornitore scelto: GoatCounter**, perché è cookieless e non richiede banner di consenso.
+Manca solo il codice, che richiede la registrazione (gratuita per siti non commerciali) su
+<https://www.goatcounter.com>: scelto un nome, lo si incolla in `code` e le statistiche partono.
 
 ```yaml
 analytics:
   provider: "goatcounter"
-  code: "pardonabean"
+  code: "pardonabean"   # il nome scelto in registrazione
 ```
+
+Finché `code` è vuoto non viene caricato alcuno script, anche se `provider` è impostato.
 
 | provider | `code` da inserire | Cookie | Banner di consenso |
 |----------|--------------------|--------|--------------------|
@@ -131,6 +135,17 @@ analytics:
 
 GitHub Pages non fornisce log di accesso lato server, quindi un contatore lato client è l'unico
 modo per avere questi dati.
+
+## Adempimenti privacy
+
+- `privacy.md` → `/privacy/` è l'informativa, collegata dal footer di ogni pagina.
+  **Vanno compilati i segnaposto del titolare del trattamento** (nome e contatto): finché
+  restano `[DA COMPILARE]` l'informativa è incompleta.
+- Nessun cookie viene installato, quindi non serve alcun banner.
+- **Il rischio vero non sono le statistiche, è AdSense**: nell'Area Economica Europea gli annunci
+  Google richiedono una CMP certificata IAB TCF v2.2 che raccolga il consenso prima del
+  caricamento. Il segnaposto in `_layouts/default.html` è inerte e commentato: non va attivato
+  finché la CMP non è predisposta.
 
 ## Google AdSense
 
