@@ -35,7 +35,7 @@ permalink: /diario/:year/:month/:day/:title/
 # Gli script vengono inclusi solo nella build di produzione.
 analytics:
   provider: "goatcounter"   # scelto perche' cookieless: nessun banner richiesto
-  code: ""                  # <-- incollare qui il nome del sito registrato su goatcounter.com
+  code: "pardonabean"       # https://pardonabean.goatcounter.com
   nota_privacy: true        # mostra in footer la nota sulle statistiche anonime
 # -----------------------------------------------------------------
 
