@@ -678,6 +678,131 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 .callout p:last-child { margin-bottom: 0; }
 .callout-warning { background: var(--terra-chiara); }
 
+/* --------------------------------------------------------------
+   13-bis. Mappa interattiva del conclave
+   -------------------------------------------------------------- */
+.mappa-conclave { margin: 2.5rem 0; }
+
+.mc-figura {
+  position: relative;
+  max-width: 520px;
+  margin: 0 auto;
+  line-height: 0;
+}
+
+.mc-figura img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--raggio);
+}
+
+.mc-punto {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(92, 111, 81, .82);
+  border: 2px solid rgba(255, 255, 255, .92);
+  box-shadow: 0 2px 8px rgba(35, 37, 31, .35);
+  color: #fff;
+  font-family: var(--sans);
+  font-size: .82rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  transition: background var(--transizione), transform var(--transizione);
+}
+
+.mc-punto:hover,
+.mc-punto:focus-visible {
+  background: var(--borlotto);
+  color: #fff;
+  transform: translate(-50%, -50%) scale(1.18);
+  z-index: 3;
+}
+
+.mc-etichetta {
+  position: absolute;
+  top: calc(100% + 7px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--inchiostro);
+  color: #fff;
+  font-family: var(--sans);
+  font-size: .76rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  line-height: 1.2;
+  padding: .28rem .6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--transizione);
+}
+
+.mc-punto:hover .mc-etichetta,
+.mc-punto:focus-visible .mc-etichetta { opacity: 1; }
+
+.mc-legenda {
+  list-style: none;
+  padding: 0;
+  margin: 1.75rem auto 0;
+  max-width: 560px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: .55rem 1.5rem;
+  line-height: 1.5;
+}
+
+.mc-legenda li {
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+  margin: 0;
+  font-family: var(--sans);
+  font-size: .9rem;
+}
+
+.mc-badge {
+  flex: 0 0 1.45rem;
+  height: 1.45rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--salvia-chiara);
+  color: var(--salvia-scura);
+  font-size: .72rem;
+  font-weight: 700;
+  align-self: center;
+}
+
+.mc-legenda a { font-weight: 600; text-decoration: none; }
+.mc-legenda a:hover { text-decoration: underline; }
+.mc-ruolo { color: var(--grigio-tenue); font-size: .82rem; }
+
+@media (max-width: 480px) {
+  .mc-punto { width: 1.7rem; height: 1.7rem; font-size: .74rem; }
+  .mc-legenda { grid-template-columns: 1fr; }
+}
+
+/* --------------------------------------------------------------
+   13-ter. Griglia fotografica
+   -------------------------------------------------------------- */
+.foto-coppia {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 2.5rem 0;
+}
+.foto-coppia figure { margin: 0; }
+.foto-coppia figcaption { text-align: left; }
+
 /* Figure in formato ritratto: si limita la larghezza per non occupare
    un'altezza eccessiva nella colonna di lettura. */
 .figure-ritratto img {

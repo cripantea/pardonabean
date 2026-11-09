@@ -12,6 +12,8 @@ conservazione storica. Le posizioni indicate si riferiscono alla disposizione or
 sul tovagliolo umido, assunta alle 11:19 di domenica 8 novembre 2026 e mai più modificata
 se non da Mary Poppins, che ha autorità in materia.
 
+{% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e mai più modificata. Tocca un numero sulla fotografia, o un nome nella legenda, per leggere la biografia del Guardiano corrispondente." %}
+
 ## Nota metodologica sulla procedura di selezione {#nota-metodologica}
 
 L'investitura dei Dieci non è avvenuta per sorteggio informale. È il risultato di un
@@ -42,14 +44,17 @@ già su un tovagliolo in un'altra stanza. L'estrazione non era un salvataggio: l
 |:--:|------|-------|--------------------------|
 | 01 | Bud | Il Leader | Centro esatto |
 | 02 | Mata Hari | L'Enigmatica | Nord-ovest, obliqua |
-| 03 | Totò | L'Aristocratico | Prima fila, di profilo |
+| 03 | Totò | L'Aristocratico | Fila centrale a ovest, di profilo |
 | 04 | Don Vito | Il Sorvegliante | Bordo orientale |
 | 05 | Josef | L'Imperscrutabile | Angolo nord, immobile |
 | 06 | Ugo Fantocci | Il Perseguitato | Dove capita, male |
 | 07 | Onofrio | Il Marchese del Grillo | Ovunque serva disturbare |
-| 08 | Don Matteo | Il Confessore | Accanto a chi ha più colpe |
+| 08 | Don Matteo | Il Confessore | Prima fila, appena sotto Totò |
 | 09 | Mary Poppins | La Precisa | Allineata al millimetro |
 | 10 | Patrocle | Il Fedele | Un passo davanti a Bud |
+
+I numeri di questa tabella corrispondono a quelli della fotografia qui sopra e delle schede in
+[home page]({{ '/' | relative_url }}): il Guardiano n. 4 è lo stesso ovunque lo si incontri.
 
 ---
 

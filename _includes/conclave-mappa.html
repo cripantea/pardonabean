@@ -1,0 +1,51 @@
+{%- comment -%}
+  Mappa interattiva del conclave.
+  Le coordinate sono percentuali rilevate sui pixel di conclave-mappa.jpg
+  (1010x1120), quindi restano valide a qualunque dimensione di rendering.
+  Parametri: titolo (facoltativo), didascalia (facoltativo).
+{%- endcomment -%}
+{%- assign guardiani =
+  "1|Bud|Il Leader|bud|59.8|46.0,
+   2|Mata Hari|L'Enigmatica|mata-hari|25.0|34.0,
+   3|Totò|L'Aristocratico|toto|38.0|53.8,
+   4|Don Vito|Il Sorvegliante|don-vito|76.2|42.0,
+   5|Josef|L'Imperscrutabile|josef|36.5|24.5,
+   6|Ugo Fantocci|Il Perseguitato|ugo-fantocci|63.5|25.0,
+   7|Onofrio|Il Marchese del Grillo|onofrio|71.5|57.5,
+   8|Don Matteo|Il Confessore|don-matteo|34.8|74.2,
+   9|Mary Poppins|La Precisa|mary-poppins|53.0|31.5,
+   10|Patrocle|Il Fedele|patrocle|57.3|69.3"
+  | split: "," -%}
+
+<figure class="mappa-conclave">
+  <div class="mc-figura">
+    <img src="{{ '/assets/img/conclave-mappa.jpg' | relative_url }}"
+         alt="I dieci fagioli borlotti disposti sopra un tovagliolo di carta inumidito su un piatto bianco, fotografati dall'alto."
+         width="1010" height="1120" loading="lazy" decoding="async">
+
+    {%- for g in guardiani -%}
+    {%- assign d = g | strip | split: "|" -%}
+    <a class="mc-punto" href="{{ '/fagioli/#' | append: d[3] | relative_url }}"
+       style="left: {{ d[4] }}%; top: {{ d[5] }}%"
+       aria-label="{{ d[1] }}, {{ d[2] }} — vai alla biografia">
+      <span class="mc-n" aria-hidden="true">{{ d[0] }}</span>
+      <span class="mc-etichetta" aria-hidden="true">{{ d[1] }}</span>
+    </a>
+    {%- endfor -%}
+  </div>
+
+  <ol class="mc-legenda">
+    {%- for g in guardiani -%}
+    {%- assign d = g | strip | split: "|" -%}
+    <li>
+      <span class="mc-badge" aria-hidden="true">{{ d[0] }}</span>
+      <a href="{{ '/fagioli/#' | append: d[3] | relative_url }}">{{ d[1] }}</a>
+      <span class="mc-ruolo">{{ d[2] }}</span>
+    </li>
+    {%- endfor -%}
+  </ol>
+
+  <figcaption>
+    {{ include.didascalia | default: "Chi è chi sul tovagliolo. Tocca un numero sulla fotografia, o un nome nella legenda, per leggere la biografia del Guardiano corrispondente." }}
+  </figcaption>
+</figure>

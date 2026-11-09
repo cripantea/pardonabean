@@ -35,9 +35,28 @@ guardare. Sono usciti undici esemplari. Uno è stato rimesso nel sacchetto, perc
 sono dieci e l'estetica del progetto non ammetteva un undicesimo. Quel fagiolo non ha un nome in
 nessun registro, ed è finito nei 390 grammi.
 
-Alle 11:19 i dieci prescelti erano su un tovagliolo doppio strato, inumidito e strizzato con la
-cura che quel giorno non è stata riservata a nient'altro. Alle 11:40 i loro 390 grammi di fratelli
-entravano nell'ammollo preliminare.
+Prima del tovagliolo c'è stato un foglio di quaderno a righe. Per tre minuti, dalle 11:12 alle
+11:15, i dieci prescelti sono rimasti lì sopra, in attesa che qualcuno decidesse dove sarebbero
+andati a vivere: dieci fagioli su un foglio a righe, come i nomi di una formazione prima della
+partita.
+
+<figure class="figure-ritratto">
+  <img src="{{ '/assets/img/estrazione-foglio.jpg' | relative_url }}"
+       alt="Dieci fagioli borlotti appoggiati su un foglio di quaderno a righe, accanto al sacchetto aperto e a un paio di forbici azzurre."
+       width="1106" height="1600" loading="lazy" decoding="async">
+  <figcaption>Ore 11:12: i Dieci sul foglio a righe, tre minuti dopo l'estrazione e tre minuti prima del tovagliolo.</figcaption>
+</figure>
+
+Alle 11:19 erano su un tovagliolo doppio strato, inumidito e strizzato con la cura che quel giorno
+non è stata riservata a nient'altro. Alle 11:40 i loro 390 grammi di fratelli entravano
+nell'ammollo preliminare.
+
+<figure>
+  <img src="{{ '/assets/img/due-popolazioni.jpg' | relative_url }}"
+       alt="Una bacinella verde con i fagioli in ammollo e, in primo piano, un piatto bianco con un tovagliolo umido su cui riposano dieci fagioli."
+       width="1600" height="1334" loading="lazy" decoding="async">
+  <figcaption>Ore 11:15. L'unica fotografia che le ritrae insieme: la bacinella dell'ammollo con i 390 grammi, e i Dieci sul tovagliolo. Dieci ore dopo, di quella bacinella non sarebbe rimasto nulla.</figcaption>
+</figure>
 
 Fra le due popolazioni, da quel momento, ci sono stati trenta centimetri di ripiano e un abisso.
 
@@ -154,11 +173,42 @@ di essere un gioco.
 Il programma, nei contenuti, non cambia: si bagnano due volte al giorno, si tengono al buio,
 si aspetta la radichetta. Cambia che adesso **devono** germogliare.
 
+## Venti ore dopo
+
+Fra la deposizione sul tovagliolo e la fotografia ufficiale del conclave passano venti ore,
+una cottura andata male e 390 grammi di lutto. Sui Dieci, invece, non passa niente.
+
+<div class="foto-coppia">
+  <figure>
+    <img src="{{ '/assets/img/conclave-11-15.jpg' | relative_url }}"
+         alt="I dieci fagioli appena deposti sul tovagliolo umido, fotografati dall'alto."
+         width="1600" height="1334" loading="lazy" decoding="async">
+    <figcaption><strong>Domenica, ore 11:15.</strong> La deposizione. Il tovagliolo è umido da quattro minuti.</figcaption>
+  </figure>
+  <figure class="figure-ritratto">
+    <img src="{{ '/assets/img/conclave.jpg' | relative_url }}"
+         alt="Gli stessi dieci fagioli il mattino successivo, nella medesima disposizione sul tovagliolo."
+         width="1416" height="2048" loading="lazy" decoding="async">
+    <figcaption><strong>Lunedì, ore 07:00.</strong> Stessa disposizione, stesso tovagliolo, venti ore più tardi.</figcaption>
+  </figure>
+</div>
+
+Confrontando le due immagini va detto, con l'onestà che questa cronaca si è imposta dalla
+revisione in poi, che **a occhio non è cambiato niente**. Nessun rigonfiamento misurabile,
+nessuna screpolatura della buccia, nessun accenno di radichetta. I Dieci sono esattamente dove
+l'ingegnere li aveva messi, nella posizione in cui li aveva messi, con l'aria di chi non ha
+ricevuto comunicazioni.
+
+L'osservazione che il Custode ha messo a verbale è la seguente: *«a me tutti e dieci sembravano
+felici»*. Non è un dato scientifico e non pretende di esserlo. È però l'unica valutazione
+disponibile sullo stato d'animo del conclave, e proviene dall'unico testimone presente.
+
 ## Stato attuale della missione
 
 - **Umidità del tovagliolo:** mantenuta senza interruzioni dalle 11:19 di domenica.
 - **Integrità dei dieci:** nessuna perdita dall'estrazione dell'8 novembre.
-- **Radichette avvistate:** nessuna. È presto.
+- **Radichette avvistate:** nessuna a venti ore dalla deposizione. È presto.
+- **Morfologia:** invariata rispetto alla fotografia delle 11:15 di domenica.
 - **Morale del conclave:** stabile, con l'eccezione nota di Ugo Fantocci.
 
 I prossimi aggiornamenti arriveranno qui, nel [Diario]({{ '/diario/' | relative_url }}).

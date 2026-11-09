@@ -30,6 +30,28 @@ Non sono dunque dei superstiti. Sono dei precedenti.
 | 11:23 | Prima misurazione dell'umidità. Nessuno strumento disponibile: la misurazione è dichiarata «conforme» a vista. |
 | 11:40 | I restanti 390 g entrano nel protocollo di ammollo preliminare in acqua fredda. Da questo momento le due popolazioni non si incontreranno più. |
 
+<div class="foto-coppia">
+  <figure>
+    <img src="{{ '/assets/img/sacchetto.jpg' | relative_url }}"
+         alt="Un sacchetto da 400 grammi di fagioli borlotti ancora chiuso, accanto a un paio di forbici azzurre su un piano di lavoro nero."
+         width="1106" height="1600" loading="lazy" decoding="async">
+    <figcaption>Ore 11:09. Il sacchetto da 400 g prima dell'apertura, con le forbici che la eseguiranno. L'ultima fotografia in cui la colonia è ancora integra.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/estrazione-foglio.jpg' | relative_url }}"
+         alt="Dieci fagioli borlotti appoggiati su un foglio di quaderno a righe, accanto al sacchetto aperto e alle forbici."
+         width="1106" height="1600" loading="lazy" decoding="async">
+    <figcaption>Ore 11:12. I Dieci appena estratti, in attesa su un foglio di quaderno a righe: la prima superficie della loro storia, prima del tovagliolo.</figcaption>
+  </figure>
+</div>
+
+<figure>
+  <img src="{{ '/assets/img/due-popolazioni.jpg' | relative_url }}"
+       alt="Sul piano di lavoro, una bacinella verde con i fagioli in ammollo e, in primo piano, un piatto bianco con un tovagliolo umido su cui riposano dieci fagioli."
+       width="1600" height="1334" loading="lazy" decoding="async">
+  <figcaption>Ore 11:15, l'unica fotografia che ritrae le due popolazioni insieme: a sinistra i 390 grammi nella bacinella dell'ammollo, in primo piano i Dieci sul tovagliolo. Fra loro, trenta centimetri di ripiano e dieci ore.</figcaption>
+</figure>
+
 ### Domenica 8 novembre — sera: il Rogo
 
 | Ora | Evento |
@@ -110,6 +132,21 @@ I 390 grammi hanno quindi passato la notte in acqua fredda, a tre metri dai Diec
 passavano su un tovagliolo umido nella stanza accanto. È l'unica notte nella storia di questa
 colonia in cui le due popolazioni hanno dormito sotto lo stesso tetto in condizioni tanto diverse.
 
+<div class="foto-coppia">
+  <figure>
+    <img src="{{ '/assets/img/pentola-notte.jpg' | relative_url }}"
+         alt="La pentola rossa piena di acqua scura accanto a uno scolapasta ancora vuoto."
+         width="1600" height="1334" loading="lazy" decoding="async">
+    <figcaption>Ore 06:44. La pentola come era stata lasciata la notte prima, e lo scolapasta ancora vuoto. Lo stato delle cose al momento della ripresa dei lavori.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/filtraggio.jpg' | relative_url }}"
+         alt="La pentola con il fondo nero e carbonizzato accanto allo scolapasta contenente i resti dei fagioli filtrati."
+         width="1600" height="1334" loading="lazy" decoding="async">
+    <figcaption>Ore 06:45, a filtraggio eseguito. Nello scolapasta ciò che è passato dal setaccio: materia nera e materia meno nera, nessun esemplare integro.</figcaption>
+  </figure>
+</div>
+
 Le operazioni sono riprese alle 06:30 di lunedì. Lo scolapasta — oggi conservato, non lavato, in
 un ripiano alto della cucina — avrebbe dovuto svolgere la funzione di setaccio fra ciò che era
 ancora fagiolo e ciò che non lo era più. Ha restituito una sola categoria.
@@ -153,6 +190,13 @@ a una pentola lasciata sul fuoco.
 
 A loro è dedicato [il Diario]({{ '/diario/' | relative_url }}).
 A chi non ce l'ha fatta è dedicata questa pagina.
+
+<figure>
+  <img src="{{ '/assets/img/cucina-dopo.jpg' | relative_url }}"
+       alt="Il lavello di cucina con la pentola rossa lavata e, accanto, stoviglie e utensili lasciati ad asciugare su uno strofinaccio."
+       width="1600" height="1334" loading="lazy" decoding="async">
+  <figcaption>Ore 07:10. La pentola lavata, lo scolapasta ad asciugare, la cucina in ordine. Dall'aspetto del piano di lavoro non si direbbe che dieci ore prima qui dentro sono morti 390 grammi di fagioli.</figcaption>
+</figure>
 
 > *In memoria dei 390 grammi. Non sapevamo i vostri nomi: eravate nello stesso sacchetto, e
 > alle 11:15 una mano ha preso dieci di voi senza guardare. Abbiamo imparato i nomi di quei
