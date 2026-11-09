@@ -32,8 +32,8 @@ L'operatore era un programmatore con diploma di ingegnere aerospaziale, circosta
 casa viene ritenuta rilevante. Il protocollo applicato è un campionamento stocastico ad alta
 precisione, che nella pratica consiste in due scosse al sacchetto e una mano infilata dentro senza
 guardare. Sono usciti undici esemplari. Uno è stato rimesso nel sacchetto, perché i Dieci Guardiani
-sono dieci e l'estetica del progetto non ammetteva un undicesimo. Quel fagiolo non ha un nome in
-nessun registro, ed è finito nei 390 grammi.
+sono dieci e l'estetica del progetto non ammetteva un undicesimo. A quel fagiolo nessuno ha
+chiesto come si chiamasse, ed è finito nei 390 grammi.
 
 Prima del tovagliolo c'è stato un foglio di quaderno a righe. Per tre minuti, dalle 11:12 alle
 11:15, i dieci prescelti sono rimasti lì sopra, in attesa che qualcuno decidesse dove sarebbero
@@ -166,9 +166,9 @@ detto niente.
 
 Quello che è cambiato in quegli undici minuti non è stata la decisione di piantarli: quella era
 già stata presa alle 11:15, con la leggerezza di un esperimento domenicale. È cambiato il peso
-della decisione. Alle 11:15 i Dieci erano un passatempo con dei nomi buffi. A mezzanotte erano
-l'unica cosa rimasta di quattrocento grammi di borlotti, e il tovagliolo in salotto aveva smesso
-di essere un gioco.
+della decisione. Alle 11:15 i Dieci erano un passatempo di una domenica mattina, dieci sconosciuti
+su un tovagliolo. A mezzanotte erano l'unica cosa rimasta di quattrocento grammi di borlotti, e il
+tovagliolo in salotto aveva smesso di essere un gioco.
 
 Il programma, nei contenuti, non cambia: si bagnano due volte al giorno, si tengono al buio,
 si aspetta la radichetta. Cambia che adesso **devono** germogliare.

@@ -7,10 +7,13 @@ description: "Biografie dettagliate dei dieci fagioli borlotti estratti dal sacc
 ---
 
 Quello che segue è il registro ufficiale dei dieci Eletti, redatto a matita sul retro
-di uno scontrino del supermercato e successivamente trascritto in digitale per ragioni di
-conservazione storica. Le posizioni indicate si riferiscono alla disposizione originale
-sul tovagliolo umido, assunta alle 11:19 di domenica 8 novembre 2026 e mai più modificata
-se non da Mary Poppins, che ha autorità in materia.
+di uno scontrino del supermercato via via che i nomi venivano fuori, e successivamente
+trascritto in digitale per ragioni di conservazione storica. Non sono nomi di battesimo:
+sono i nomi con cui i Dieci si sono presentati, ciascuno a suo tempo e a suo modo.
+
+Le posizioni indicate si riferiscono alla disposizione originale sul tovagliolo umido, assunta
+alle 11:19 di domenica 8 novembre 2026 e mai più modificata se non da Mary Poppins, che ha
+autorità in materia.
 
 {% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e mai più modificata. Tocca un numero sulla fotografia, o un nome nella legenda, per leggere la biografia del Guardiano corrispondente." %}
 
@@ -30,7 +33,7 @@ Il protocollo, ricostruito a posteriori dall'operatore stesso, si articola in ci
    È questa la fase che conferisce al protocollo la sua natura stocastica.
 4. **Validazione della cardinalità.** Conteggio degli esemplari prelevati. Al primo tentativo
    risultavano undici; il soprannumerario è stato reintrodotto nel sacchetto ed è successivamente
-   confluito nei 390 grammi. Il suo nome non è mai stato assegnato.
+   confluito nei 390 grammi. Nessuno ha chiesto il suo nome.
 5. **Deposizione.** Collocazione su tovagliolo doppio strato inumidito, piattino bianco, ore 11:19.
 
 L'operatore tiene a precisare che la selezione è stata condotta *«con estrema cura»*. Il registro
