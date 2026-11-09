@@ -1,0 +1,34 @@
+# ---------------------------------------------------------------
+#  Taccuini — le frasi che il Custode preleva dal pozzo di saggezza
+#  di ciascun Guardiano, a cadenza irregolare.
+# ---------------------------------------------------------------
+#  Chiave: lo slug del Guardiano (lo stesso di _guardiani/ e di
+#  _data/posta.yml).  Ogni voce e' una raccolta:
+#
+#    data   -> AAAA-MM-GG, giorno in cui il Custode ha calato il secchio
+#    frasi  -> una o due frasi, riportate come sono state dette
+#    nota   -> facoltativo: circostanze della raccolta, a cura del Custode
+#
+#  Le raccolte vengono ordinate dalla pagina, dalla piu' recente.
+# ---------------------------------------------------------------
+
+bud:
+  - data: 2026-11-09
+    frasi:
+      - Si sta al centro per fare spazio, non per occuparlo.
+      - Nove fagioli si sono disposti intorno a me e nessuno mi ha chiesto il permesso. Non chiedetelo nemmeno voi.
+    nota: >
+      Raccolta alle 07:40. Bud ha dettato la prima frase e poi ha taciuto per
+      undici minuti. Il Custode ha atteso senza riformulare la domanda. È
+      arrivata la seconda.
+
+ugo-fantocci:
+  - data: 2026-11-09
+    frasi:
+      - Questa carta assorbente è una cagata pazzesca.
+      - "Ai fagioli che verranno: il posto vicino al bordo del piattino sembra il più tranquillo. Non lo è."
+    nota: >
+      Raccolta alle 07:12. Il Custode ha chiesto se si riferisse alla carta del
+      piattino o alla carta assorbente in generale; Ugo ha risposto «tutte e due,
+      mi scusi». Ha poi domandato tre volte se la frase venisse trascritta
+      davvero, e alla terza si è scusato di avere insistito.

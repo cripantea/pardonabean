@@ -78,7 +78,7 @@ nove lo ha visto gonfiarsi fino all'alba.
 **Segni particolari:** macchia scura a forma di continente sul fianco sinistro.
 **Motto:** *«L'acqua arriva. L'acqua arriva sempre.»*
 
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#bud' | relative_url }})
+**Scheda completa:** [ritratto, taccuino e posta di Bud]({{ '/fagioli/bud/' | relative_url }})
 
 ---
 
@@ -170,7 +170,7 @@ cambiare argomento.
 **Segni particolari:** dimensioni ridotte, espressione di chi se l'aspettava.
 **Motto:** *«Come è umida la vita.»*
 
-**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#ugo-fantocci' | relative_url }})
+**Scheda completa:** [ritratto, taccuino e posta di Ugo Fantocci]({{ '/fagioli/ugo-fantocci/' | relative_url }})
 
 ---
 

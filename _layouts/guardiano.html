@@ -1,0 +1,149 @@
+---
+layout: default
+---
+{%- assign guardiani = site.guardiani | sort: "numero" -%}
+{%- for g in guardiani -%}
+  {%- if g.slug == page.slug -%}{%- assign indice = forloop.index0 -%}{%- endif -%}
+{%- endfor -%}
+{%- assign i_prec = indice | minus: 1 -%}
+{%- assign i_succ = indice | plus: 1 -%}
+{%- assign voci = site.data.taccuini[page.slug] -%}
+{%- assign posta = site.data.posta | where: "slug", page.slug | first -%}
+
+<article class="guardiano">
+
+  <header class="guardiano-testa">
+    <div class="wrap-narrow">
+      <p class="guardiano-numero">Guardiano n&deg; {{ page.numero }}</p>
+      <h1 class="guardiano-nome">{{ page.nome }}</h1>
+      <p class="guardiano-ruolo">{{ page.ruolo }}</p>
+
+      <figure class="ritratto">
+        <div class="ritratto-lastra">
+          <img src="{{ '/assets/img/ritratti/' | append: page.slug | append: '.jpg' | relative_url }}"
+               alt="Ritratto di {{ page.nome }}: il fagiolo ritagliato dalla fotografia del conclave, con {{ page.attributo | downcase }} disegnata sopra."
+               width="560" height="560">
+          {% include attributo.html slug=page.slug %}
+        </div>
+        <figcaption>
+          {{ page.nome }} nella fotografia del conclave delle 07:00 di luned&igrave; 9 novembre 2026.
+          {{ page.attributo }}.
+        </figcaption>
+      </figure>
+    </div>
+  </header>
+
+  <div class="wrap-narrow guardiano-corpo">
+
+    <dl class="scheda-identita">
+      <div><dt>Posizione</dt><dd>{{ page.posizione }}</dd></div>
+      <div><dt>Segni particolari</dt><dd>{{ page.segni }}</dd></div>
+      <div><dt>Motto</dt><dd><em>&laquo;{{ page.motto }}&raquo;</em></dd></div>
+    </dl>
+
+    <section class="guardiano-sezione">
+      <h2>Chi &egrave;</h2>
+      {{ content }}
+    </section>
+
+    <!-- ============================= TACCUINO ============================= -->
+    <section class="guardiano-sezione" id="taccuino">
+      <h2>Il Taccuino</h2>
+      <p class="sezione-premessa">
+        A intervalli irregolari il Custode cala il secchio nel pozzo di saggezza di
+        {{ page.nome }} e tira su una frase, al massimo due. Non sono dichiarazioni
+        rilasciate: sono cose dette. Vengono trascritte qui perch&eacute; restino ai
+        fagioli che verranno dopo.
+      </p>
+
+      {%- if voci and voci.size > 0 %}
+      {%- assign raccolte = voci | sort: "data" | reverse %}
+      <ol class="taccuino">
+        {%- for r in raccolte %}
+        <li class="raccolta">
+          <p class="raccolta-data">
+            <time datetime="{{ r.data | date: '%Y-%m-%d' }}">{% include data-it.html date=r.data %}</time>
+          </p>
+          <ul class="perle">
+            {%- for frase in r.frasi %}
+            <li>&laquo;{{ frase }}&raquo;</li>
+            {%- endfor %}
+          </ul>
+          {%- if r.nota %}
+          <p class="raccolta-nota"><span>Circostanze.</span> {{ r.nota | strip_newlines }}</p>
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ol>
+      {%- else %}
+      <p class="taccuino-vuoto">
+        Il pozzo di {{ page.nome }} non ha ancora dato niente. Il Custode torna a controllare.
+      </p>
+      {%- endif %}
+    </section>
+
+    <!-- ============================== POSTA =============================== -->
+    <section class="guardiano-sezione" id="posta">
+      <h2>La sua posta</h2>
+      {%- if posta and posta.lettere.size > 0 %}
+      <p class="sezione-premessa">
+        <strong>Come risponde.</strong> {{ posta.stile | strip_newlines }}
+      </p>
+
+      {%- for l in posta.lettere %}
+      <article class="lettera" id="lettera-{{ forloop.index }}">
+        <header class="lettera-capo">
+          <h3 class="lettera-oggetto">{{ l.oggetto }}</h3>
+          <p class="lettera-meta">
+            da <strong>{{ l.da }}</strong>
+            {%- if l.luogo %} &mdash; {{ l.luogo }}{% endif -%}
+            {%- if l.data %} <span class="lettera-data">&middot; {% include data-it.html date=l.data %}</span>{% endif -%}
+          </p>
+        </header>
+        <blockquote class="lettera-testo"><p>{{ l.testo | strip_newlines }}</p></blockquote>
+        <div class="lettera-risposta">
+          <p class="lettera-firma">Risponde {{ page.nome }}</p>
+          <p>{{ l.risposta | strip_newlines }}</p>
+        </div>
+        {%- if l.nota %}
+        <p class="lettera-nota"><span>Nota della redazione.</span> {{ l.nota | strip_newlines }}</p>
+        {%- endif %}
+      </article>
+      {%- endfor %}
+
+      <p class="rimando">
+        Tutte le lettere dei Dieci, in un unico fascicolo:
+        <a href="{{ '/posta/' | relative_url }}">La Posta del Tovagliolo</a>.
+      </p>
+      {%- else %}
+      <p class="taccuino-vuoto">
+        {{ page.nome }} non ha ancora ricevuto lettere. Si pu&ograve; rimediare: le
+        <a href="{{ '/posta/#come-scrivere' | relative_url }}">istruzioni sono qui</a>.
+      </p>
+      {%- endif %}
+    </section>
+
+    <!-- ============================ NAVIGAZIONE =========================== -->
+    <nav class="guardiano-nav" aria-label="Altri Guardiani">
+      {%- if i_prec >= 0 %}
+      {%- assign prec = guardiani[i_prec] %}
+      <a class="guardiano-nav-prec" href="{{ prec.url | relative_url }}">
+        <span>Guardiano n&deg; {{ prec.numero }}</span>
+        <strong>{{ prec.nome }}</strong>
+      </a>
+      {%- endif %}
+      {%- if i_succ < guardiani.size %}
+      {%- assign succ = guardiani[i_succ] %}
+      <a class="guardiano-nav-succ" href="{{ succ.url | relative_url }}">
+        <span>Guardiano n&deg; {{ succ.numero }}</span>
+        <strong>{{ succ.nome }}</strong>
+      </a>
+      {%- endif %}
+    </nav>
+
+    <p class="rimando">
+      <a href="{{ '/fagioli/' | relative_url }}">Torna all&rsquo;albo dei Dieci Guardiani</a>
+    </p>
+
+  </div>
+</article>

@@ -20,6 +20,15 @@ kramdown:
 # Struttura permalink del diario
 permalink: /diario/:year/:month/:day/:title/
 
+# --- Schede dei Guardiani ----------------------------------------
+# Collection nativa: un file per fagiolo in _guardiani/, pubblicato
+# come /fagioli/<slug>/.  Nessun plugin richiesto.
+collections:
+  guardiani:
+    output: true
+    permalink: /fagioli/:name/
+# -----------------------------------------------------------------
+
 # --- Statistiche di visita ---------------------------------------
 # provider: goatcounter | plausible | umami | cloudflare | google
 #           (vuoto = nessuna statistica, nessuno script caricato)
@@ -46,6 +55,7 @@ lang: it
 # Esclusioni dal build
 exclude:
   - README.md
+  - tools
   - Gemfile
   - Gemfile.lock
   - vendor

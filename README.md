@@ -19,6 +19,10 @@ _includes/
   analytics.html     script delle statistiche, solo in produzione
 _data/
   posta.yml        lettere e risposte della rubrica /posta/
+  taccuini.yml     frasi raccolte dal pozzo di saggezza di ogni Guardiano
+_guardiani/      una scheda per fagiolo -> /fagioli/<slug>/ (collection nativa)
+tools/
+  ritratti.py      rigenera i ritratti ritagliandoli dalla foto del conclave
 _posts/          articoli del diario (nome file: AAAA-MM-GG-slug.md)
 assets/css/      foglio di stile unico
 assets/img/      immagini (conclave.jpg, disastro-pentola.jpg, foto dei fagioli)
@@ -50,6 +54,55 @@ alla voce `lettere` del Guardiano che deve rispondere.
 I contatori in cima alla pagina e l'indice dei Guardiani si ricalcolano da soli; il numero
 in home page (`{{ posta_tot }}`) pure. L'ancora di ogni lettera e' `/posta/#<slug>-<n>`,
 dove `n` e' la posizione della lettera dentro la sezione del Guardiano.
+
+## Schede dei Guardiani
+
+Ogni fagiolo ha una scheda in `_guardiani/<slug>.md`, pubblicata come
+`/fagioli/<slug>/`: ritratto, scheda d'identita', biografia, Taccuino e posta.
+Il corpo del file e' la biografia; tutto il resto sta nel front matter.
+
+```yaml
+---
+layout: guardiano
+numero: "01"          # usato per ordinare e per la navigazione prec/succ
+nome: Bud
+slug: bud             # deve combaciare con _data/posta.yml e _data/taccuini.yml
+ruolo: Il Leader
+posizione: Centro esatto del tovagliolo
+segni: Macchia scura a forma di continente sul fianco sinistro
+motto: L'acqua arriva. L'acqua arriva sempre.
+attributo: La barba, attribuita d'ufficio
+---
+```
+
+### Il ritratto
+
+`python3 tools/ritratti.py bud` ritaglia il fagiolo da
+`assets/img/conclave-mappa.jpg`, lo scontorna dal tovagliolo e lo salva in
+`assets/img/ritratti/<slug>.jpg`, con la stessa inquadratura per tutti. Senza
+argomenti rigenera tutti e dieci. Le coordinate dei fagioli stanno in cima allo
+script e sono le stesse di `_includes/conclave-mappa.html`.
+
+L'attributo disegnato (la barba di Bud, la bombetta di Ugo) e' un gruppo di
+tracciati SVG in `_includes/attributo.html`, uno per ogni slug. Il riquadro e'
+`0 0 100 100` e combacia con il ritratto quadrato, quindi le coordinate si
+leggono come percentuali dell'immagine: per spostare un tratto si cambiano i
+numeri, senza toccare l'immagine.
+
+### Una raccolta nel Taccuino
+
+Si accoda una voce in `_data/taccuini.yml`, sotto lo slug del Guardiano:
+
+```yaml
+bud:
+  - data: 2026-11-16
+    frasi:
+      - Prima frase.
+      - Seconda frase, facoltativa.
+    nota: Circostanze della raccolta, a cura del Custode. Facoltativo.
+```
+
+La pagina ordina le raccolte dalla piu' recente e regge anche con una sola voce.
 
 ## Pubblicazione
 
