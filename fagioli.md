@@ -3,14 +3,40 @@ layout: page
 title: I Dieci Guardiani
 permalink: /fagioli/
 kicker: Albo d'onore del tovagliolo
-description: "Biografie dettagliate dei dieci fagioli borlotti scampati alla pentola rossa."
+description: "Biografie dettagliate dei dieci fagioli borlotti estratti dal sacchetto l'8 novembre 2026, con nota metodologica sulla procedura di selezione."
 ---
 
-Quello che segue è il registro ufficiale dei dieci superstiti, redatto a matita sul retro
+Quello che segue è il registro ufficiale dei dieci Eletti, redatto a matita sul retro
 di uno scontrino del supermercato e successivamente trascritto in digitale per ragioni di
 conservazione storica. Le posizioni indicate si riferiscono alla disposizione originale
-sul tovagliolo umido, verificata alle 23:48 della notte del disastro e mai più modificata
+sul tovagliolo umido, assunta alle 11:19 di domenica 8 novembre 2026 e mai più modificata
 se non da Mary Poppins, che ha autorità in materia.
+
+## Nota metodologica sulla procedura di selezione {#nota-metodologica}
+
+L'investitura dei Dieci non è avvenuta per sorteggio informale. È il risultato di un
+**campionamento stocastico ad alta precisione** eseguito alle 11:15 di domenica 8 novembre 2026
+da personale altamente qualificato: un programmatore in possesso di diploma di ingegnere
+aerospaziale, titolo che in questa casa è considerato dirimente in materia di legumi.
+
+Il protocollo, ricostruito a posteriori dall'operatore stesso, si articola in cinque fasi:
+
+1. **Apertura del contenitore.** Sacchetto da 400 g, taglio netto, nessuna misurazione preliminare.
+2. **Randomizzazione del substrato.** Due scosse del sacchetto, impresse con la mano destra.
+   L'operatore ha dichiarato che il numero di scosse «non era critico».
+3. **Prelievo cieco.** Introduzione della mano senza controllo visivo e selezione di dieci esemplari.
+   È questa la fase che conferisce al protocollo la sua natura stocastica.
+4. **Validazione della cardinalità.** Conteggio degli esemplari prelevati. Al primo tentativo
+   risultavano undici; il soprannumerario è stato reintrodotto nel sacchetto ed è successivamente
+   confluito nei 390 grammi. Il suo nome non è mai stato assegnato.
+5. **Deposizione.** Collocazione su tovagliolo doppio strato inumidito, piattino bianco, ore 11:19.
+
+L'operatore tiene a precisare che la selezione è stata condotta *«con estrema cura»*. Il registro
+osserva che estrema cura e caso puro, in questo specifico protocollo, coincidono: nessuno dei dieci
+è stato scelto per una qualità propria, e nessuno dei 390 è stato escluso per un difetto.
+
+Resta che dieci ore dopo, quando i 390 grammi sono andati incontro alla pirolisi, i Dieci erano
+già su un tovagliolo in un'altra stanza. L'estrazione non era un salvataggio: lo è diventata.
 
 | N° | Nome | Ruolo | Posizione sul tovagliolo |
 |:--:|------|-------|--------------------------|
@@ -35,9 +61,10 @@ dalla geometria: è semplicemente il fagiolo attorno al quale gli altri nove si 
 disposti quando l'acqua si è fermata.
 
 Parla pochissimo. Nei momenti di crisi si limita a gonfiarsi di qualche frazione di millimetro,
-e questo basta a riportare la calma sul tovagliolo. Si dice che durante la notte della
-carbonizzazione sia stato l'ultimo a lasciare la pentola, e che lo abbia fatto solo quando
-si è accertato che Patrocle fosse già fuori.
+e questo basta a riportare la calma sul tovagliolo. La leggenda secondo cui sarebbe stato l'ultimo
+a lasciare la pentola è stata smentita dalla revisione storica: Bud nella pentola non c'è mai
+entrato. Ha però passato la notte del rogo rivolto verso la porta della cucina, e nessuno dei
+nove lo ha visto gonfiarsi fino all'alba.
 
 **Segni particolari:** macchia scura a forma di continente sul fianco sinistro.
 **Motto:** *«L'acqua arriva. L'acqua arriva sempre.»*
@@ -47,8 +74,9 @@ si è accertato che Patrocle fosse già fuori.
 ## Mata Hari — L'Enigmatica {#mata-hari}
 
 Striature irregolari, color vinaccia su fondo avorio, che a seconda della luce suggeriscono
-alfabeti diversi. Mata Hari è l'unico membro del conclave di cui non si conosca con certezza
-la provenienza: non risulta in nessuna delle tre manciate versate nella pentola, eppure era lì.
+alfabeti diversi. Mata Hari è l'unico membro del conclave la cui estrazione non trovi riscontro
+nel protocollo: l'operatore ricorda di avere prelevato dieci esemplari, ne ricorda nove, e
+sull'identità del decimo mantiene un silenzio che attribuisce alla distanza temporale.
 
 Ha stretto rapporti cordiali con tutti e confidenziali con nessuno. Don Vito la tiene d'occhio.
 Josef sostiene di averla già vista altrove. Onofrio le ha chiesto per chi lavori e lei ha
@@ -66,9 +94,10 @@ Rivendica il titolo di Principe del Baccello di Posillipo, discendenza che nessu
 conferma e che nessuno ha interesse a smentire. Si muove con una dignità sproporzionata rispetto
 alle sue dimensioni e pretende di essere nominato per intero nelle comunicazioni ufficiali.
 
-Durante il filtraggio nel lavandino ha protestato formalmente per il trattamento riservato alla
-sua persona, definendo lo scolapasta *«un mezzo di trasporto indegno di un fagiolo del mio rango»*.
-La protesta è agli atti. Nessuno vi ha dato seguito.
+Ha protestato formalmente per le modalità della propria estrazione, definendo il prelievo cieco
+*«una procedura indegna di un fagiolo del mio rango, che andava convocato e non pescato»*.
+La protesta è agli atti. Nessuno vi ha dato seguito. Informato che l'alternativa alla pescata
+erano i 390 grammi, ha ritirato la protesta senza ammettere di averla ritirata.
 
 **Segni particolari:** profilo affilato, portamento da ritratto ottocentesco.
 **Motto:** *«Ma mi faccia il piacere.»*
@@ -115,6 +144,10 @@ spazio, viene spostato lui.
 Ha chiesto ventisette volte di poter prendere un giorno di permesso dal tovagliolo. Gli è stato
 concesso una volta sola, di lunedì, ed è caduto nello scarico. È stato recuperato. Ha ringraziato.
 
+Alla notizia di essere stato estratto per puro caso, e che una traiettoria di due centimetri
+diversa lo avrebbe lasciato nel sacchetto, ha risposto che se lo immaginava e ha chiesto di
+cambiare argomento.
+
 **Segni particolari:** dimensioni ridotte, espressione di chi se l'aspettava.
 **Motto:** *«Come è umida la vita.»*
 
@@ -122,13 +155,14 @@ concesso una volta sola, di lunedì, ed è caduto nello scarico. È stato recupe
 
 ## Onofrio — Il Marchese del Grillo {#onofrio}
 
-Burlone di rango, irriverente per vocazione, convinto che la sopravvivenza alla pentola gli
-abbia conferito una patente di impunità permanente. Organizza scherzi notturni che coinvolgono
+Burlone di rango, irriverente per vocazione, convinto che l'essere stato estratto gli abbia
+conferito una patente di impunità permanente. Organizza scherzi notturni che coinvolgono
 sistematicamente Ugo Fantocci e occasionalmente Don Matteo, mai Don Vito.
 
 La sua battuta ricorrente — pronunciata con il tono di chi la ritiene ancora nuova — riguarda
-la differenza ontologica fra lui e gli altri nove. Il conclave la tollera perché Onofrio, nella
-notte del disastro, ha spinto tre compagni fuori dalla zona di cottura prima di mettersi in salvo.
+la differenza ontologica fra lui e gli altri nove. Il conclave la tollera perché Onofrio, la notte
+del rogo, è stato l'unico a non dormire: ha tenuto sveglio il tovagliolo fino alle quattro
+raccontando storie che nessuno ricorda e tutti sostengono di avere apprezzato.
 
 **Segni particolari:** colorazione vivace, tendenza a rotolare quando non richiesto.
 **Motto:** *«Io so' io, e voi non siete un fagiolo.»*
