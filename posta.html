@@ -1,0 +1,139 @@
+---
+layout: page
+title: La Posta del Tovagliolo
+permalink: /posta/
+kicker: Rubrica di corrispondenza
+description: "I lettori scrivono ai Dieci Guardiani e i Dieci rispondono, ciascuno secondo il proprio carattere. La redazione trascrive e si assume la responsabilità della punteggiatura."
+---
+
+{%- assign lettere_tot = 0 -%}
+{%- assign risposte_tot = 0 -%}
+{%- for g in site.data.posta -%}
+  {%- assign lettere_tot = lettere_tot | plus: g.lettere.size -%}
+  {%- for l in g.lettere -%}
+    {%- if l.risposta and l.risposta != "" -%}
+      {%- assign risposte_tot = risposte_tot | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+<p>
+  Da quando la cronaca della notte dell&rsquo;8 novembre &egrave; stata resa pubblica,
+  i Dieci ricevono posta. Questa pagina &egrave; la rubrica in cui rispondono: un Guardiano
+  per sezione, nell&rsquo;ordine della numerazione del conclave, con le lettere riportate
+  integralmente e le risposte riportate come sono state dettate.
+</p>
+
+<p>
+  Una precisazione tecnica &egrave; dovuta. <strong>I Dieci non scrivono.</strong> Non hanno
+  mani, e il pi&ugrave; grande di loro misura undici millimetri nel senso della lunghezza.
+  Dettano. La redazione trascrive, si assume la responsabilit&agrave; della punteggiatura e
+  non interviene sul contenuto, nemmeno nei casi in cui converrebbe a tutti.
+</p>
+
+<div class="callout callout-warning">
+  <p>
+    <strong>Nota di trasparenza.</strong> La casella delle lettere non &egrave; ancora stata
+    installata: il dibattito interno verte sul fatto che un fagiolo non ha un indirizzo, e la
+    questione &egrave; meno semplice di quanto sembri. Nell&rsquo;attesa, le lettere di questo
+    primo numero sono scritte dalla redazione, che scrive anche le risposte. &Egrave; una
+    pratica deprecabile in qualunque giornalismo serio e intendiamo proseguirla finch&eacute;
+    non arriva posta vera. Le domande, per&ograve;, sono quelle che contano: sono le domande
+    che un piattino bianco con dieci fagioli sopra fa venire in mente a chiunque passi di l&igrave;.
+  </p>
+</div>
+
+<ul class="posta-conti">
+  <li><strong>{{ lettere_tot }}</strong><span>Lettere in archivio</span></li>
+  <li><strong>{{ risposte_tot }}</strong><span>Risposte concesse</span></li>
+  <li><strong>1</strong><span>Recapitata al Guardiano sbagliato</span></li>
+  <li><strong>0</strong><span>Scritte da lettori veri</span></li>
+</ul>
+
+<nav class="posta-indice" aria-label="Indice dei Guardiani">
+  {%- for g in site.data.posta %}
+  <a href="#{{ g.slug }}">
+    <span class="posta-indice-n" aria-hidden="true">{{ g.numero }}</span>
+    {{ g.nome }}
+    <span class="posta-indice-q" aria-hidden="true">{{ g.lettere.size }}</span>
+  </a>
+  {%- endfor %}
+</nav>
+
+{% for g in site.data.posta %}
+<section class="posta-sezione" id="{{ g.slug }}">
+
+  <header class="posta-capo">
+    <p class="posta-capo-n">Guardiano n&deg; {{ g.numero }}</p>
+    <h2 class="posta-nome">{{ g.nome }} <span class="posta-ruolo">&mdash; {{ g.ruolo }}</span></h2>
+    {%- if g.stile %}
+    <p class="posta-stile"><strong>Come risponde.</strong> {{ g.stile }}</p>
+    {%- endif %}
+    <p class="posta-biografia">
+      <a href="{{ '/fagioli/#' | append: g.slug | relative_url }}">Biografia di {{ g.nome }}</a>
+    </p>
+  </header>
+
+  {% for l in g.lettere %}
+  <article class="lettera" id="{{ g.slug }}-{{ forloop.index }}">
+    <header class="lettera-capo">
+      <h3 class="lettera-oggetto">{{ l.oggetto }}</h3>
+      <p class="lettera-meta">
+        da <strong>{{ l.da }}</strong>
+        {%- if l.luogo %} &mdash; {{ l.luogo }}{% endif -%}
+        {%- if l.data %} <span class="lettera-data">&middot; {% include data-it.html date=l.data %}</span>{% endif -%}
+      </p>
+    </header>
+
+    <blockquote class="lettera-testo">
+      <p>{{ l.testo | strip_newlines }}</p>
+    </blockquote>
+
+    <div class="lettera-risposta">
+      <p class="lettera-firma">Risponde {{ g.nome }}</p>
+      <p>{{ l.risposta | strip_newlines }}</p>
+    </div>
+
+    {%- if l.nota %}
+    <p class="lettera-nota"><span>Nota della redazione.</span> {{ l.nota | strip_newlines }}</p>
+    {%- endif %}
+  </article>
+  {% endfor %}
+
+</section>
+{% endfor %}
+
+<section class="posta-sezione" id="come-scrivere">
+  <header class="posta-capo">
+    <p class="posta-capo-n">Istruzioni</p>
+    <h2 class="posta-nome">Come si scrive ai Dieci</h2>
+  </header>
+
+  <p>
+    La procedura &egrave; definita e, in attesa della casella, inapplicabile. La pubblichiamo
+    ugualmente perch&eacute; una rubrica di corrispondenza senza istruzioni per la
+    corrispondenza sarebbe soltanto una rubrica.
+  </p>
+
+  <ol>
+    <li><strong>Scegliere il destinatario.</strong> Le schede dell&rsquo;<a href="{{ '/fagioli/' | relative_url }}">albo d&rsquo;onore</a> servono esattamente a questo. Scrivere &laquo;ai fagioli&raquo; in generale equivale a non scrivere a nessuno: non esiste un portavoce, esiste Bud, che non parla.</li>
+    <li><strong>Scrivere la lettera.</strong> Nessun limite di lunghezza. Bud risponder&agrave; comunque in una frase.</li>
+    <li><strong>Rileggerla</strong> tenendo presente che la legger&agrave; un legume di undici millimetri che non ha chiesto di essere graziato.</li>
+    <li><strong>Attendere.</strong> I tempi di risposta dipendono dall&rsquo;umidit&agrave;.</li>
+  </ol>
+
+  <div class="callout">
+    <p>
+      <strong>Avvertenza sul recapito.</strong> Le lettere indirizzate a Bud hanno una
+      probabilit&agrave; non trascurabile di essere lavorate da Ugo Fantocci, che le prende
+      tutte molto sul serio e risponde entro pochi minuti. La redazione ha rinunciato a
+      correggere il fenomeno dopo avere constatato che le sue risposte sono migliori.
+    </p>
+  </div>
+
+  <p>
+    Per la vicenda da cui tutta questa corrispondenza discende, resta il
+    <a href="{{ '/tragedia/' | relative_url }}">memoriale dei 390 grammi</a>. Per lo stato
+    della germinazione, il <a href="{{ '/diario/' | relative_url }}">Diario</a>.
+  </p>
+</section>

@@ -14,15 +14,42 @@ _layouts/
   page.html      pagine statiche (titolo, occhiello, lead)
   post.html      articolo del diario + navigazione prev/next
 _includes/
-  data-it.html   formatta una data in italiano ({% include data-it.html date=post.date %})
+  data-it.html       formatta una data in italiano ({% include data-it.html date=post.date %})
+  conclave-mappa.html  fotografia del conclave con i numeri cliccabili
+  analytics.html     script delle statistiche, solo in produzione
+_data/
+  posta.yml        lettere e risposte della rubrica /posta/
 _posts/          articoli del diario (nome file: AAAA-MM-GG-slug.md)
 assets/css/      foglio di stile unico
 assets/img/      immagini (conclave.jpg, disastro-pentola.jpg, foto dei fagioli)
 index.html       home: hero, griglia dei dieci, ultimi 5 aggiornamenti
 fagioli.md       /fagioli/   biografie dei Dieci Guardiani
+posta.html       /posta/     corrispondenza con i lettori (generata da _data/posta.yml)
 tragedia.md      /tragedia/  memoriale dei 390 grammi
 diario.md        /diario/    archivio completo per anno
 ```
+
+## Aggiungere una lettera alla Posta
+
+Si tocca solo `_data/posta.yml`: nessuna modifica a `posta.html`. Si accoda un elemento
+alla voce `lettere` del Guardiano che deve rispondere.
+
+```yaml
+    - da: Nome del lettore          # anche "Lettera firmata"
+      luogo: Citta'
+      data: 2026-11-12              # resa in italiano dalla pagina
+      oggetto: Titolo breve
+      testo: >
+        La lettera.
+      risposta: >
+        La risposta del Guardiano.
+      nota: >                       # facoltativo, in corsivo a fine scheda
+        Chiosa della redazione.
+```
+
+I contatori in cima alla pagina e l'indice dei Guardiani si ricalcolano da soli; il numero
+in home page (`{{ posta_tot }}`) pure. L'ancora di ogni lettera e' `/posta/#<slug>-<n>`,
+dove `n` e' la posizione della lettera dentro la sezione del Guardiano.
 
 ## Pubblicazione
 

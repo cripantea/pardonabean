@@ -63,6 +63,7 @@
         <ul>
           <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active" aria-current="page"{% endif %}>Home</a></li>
           <li><a href="{{ '/fagioli/' | relative_url }}"{% if page.url contains '/fagioli' %} class="is-active" aria-current="page"{% endif %}>I Dieci Guardiani</a></li>
+          <li><a href="{{ '/posta/' | relative_url }}"{% if page.url contains '/posta' %} class="is-active" aria-current="page"{% endif %}>La Posta</a></li>
           <li><a href="{{ '/diario/' | relative_url }}"{% if page.url contains '/diario' %} class="is-active" aria-current="page"{% endif %}>Diario</a></li>
           <li><a href="{{ '/tragedia/' | relative_url }}"{% if page.url contains '/tragedia' %} class="is-active" aria-current="page"{% endif %}>La Tragedia</a></li>
         </ul>

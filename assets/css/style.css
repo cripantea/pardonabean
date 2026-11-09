@@ -832,6 +832,178 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 }
 
 /* --------------------------------------------------------------
+   13-quater. La Posta del Tovagliolo
+   -------------------------------------------------------------- */
+
+/* Contatori della rubrica */
+.posta-conti {
+  list-style: none;
+  margin: 2.5rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--bordo);
+  border-bottom: 1px solid var(--bordo);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.25rem 1.5rem;
+}
+.posta-conti li { margin: 0; }
+.posta-conti strong {
+  display: block;
+  font-size: 1.9rem;
+  line-height: 1.1;
+  color: var(--terra-scura);
+}
+.posta-conti span {
+  display: block;
+  font-family: var(--sans);
+  font-size: .76rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--grigio-tenue);
+  margin-top: .3rem;
+}
+
+/* Indice dei Guardiani */
+.posta-indice {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: 2.5rem 0 1rem;
+}
+.posta-indice a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .45rem;
+  padding: .4rem .8rem;
+  border: 1px solid var(--bordo);
+  border-radius: 999px;
+  background: var(--crema);
+  font-family: var(--sans);
+  font-size: .84rem;
+  text-decoration: none;
+  color: var(--inchiostro-soft);
+  transition: var(--transizione);
+}
+.posta-indice a:hover,
+.posta-indice a:focus-visible {
+  border-color: var(--salvia);
+  background: var(--salvia-chiara);
+  color: var(--inchiostro);
+}
+.posta-indice-n {
+  font-size: .7rem;
+  font-weight: 700;
+  color: var(--terra);
+  letter-spacing: .04em;
+}
+.posta-indice-q {
+  font-size: .7rem;
+  color: var(--grigio-tenue);
+}
+
+/* Sezione di un Guardiano */
+.posta-sezione {
+  margin: 3.5rem 0;
+  padding-top: 2.5rem;
+  border-top: 2px solid var(--bordo);
+  scroll-margin-top: 7.5rem;
+}
+.posta-capo { margin-bottom: 2rem; }
+.posta-capo-n {
+  font-family: var(--sans);
+  font-size: .72rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--terra);
+  font-weight: 600;
+  margin: 0 0 .4rem;
+}
+.posta-nome { margin: 0 0 .6rem; }
+.posta-ruolo {
+  font-weight: 400;
+  color: var(--grigio-tenue);
+  font-size: .7em;
+  white-space: nowrap;
+}
+.posta-stile {
+  margin: 0 0 .6rem;
+  font-size: .92rem;
+  color: var(--inchiostro-soft);
+  font-style: italic;
+}
+.posta-stile strong { font-style: normal; }
+.posta-biografia {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: .82rem;
+}
+
+/* Singola lettera */
+.lettera {
+  background: var(--crema);
+  border: 1px solid var(--bordo);
+  border-radius: var(--raggio);
+  padding: 1.6rem 1.7rem;
+  margin: 0 0 1.5rem;
+  box-shadow: var(--ombra);
+  scroll-margin-top: 7.5rem;
+}
+.lettera-capo { margin-bottom: 1.1rem; }
+.lettera-oggetto {
+  margin: 0 0 .25rem;
+  font-size: 1.15rem;
+}
+.lettera-meta {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: .8rem;
+  color: var(--grigio-tenue);
+}
+.lettera-meta strong { color: var(--inchiostro-soft); font-weight: 600; }
+.lettera-data { white-space: nowrap; }
+
+/* Il testo del lettore */
+.lettera-testo {
+  margin: 0;
+  padding: 0 0 0 1.1rem;
+  border-left: 3px solid var(--terra-chiara);
+  font-style: italic;
+  color: var(--inchiostro-soft);
+}
+.lettera-testo p { margin: 0; }
+
+/* La risposta del Guardiano */
+.lettera-risposta {
+  margin-top: 1.25rem;
+  padding: 1.1rem 1.2rem;
+  background: var(--salvia-chiara);
+  border-radius: var(--raggio-sm);
+}
+.lettera-risposta p:last-child { margin: 0; }
+.lettera-firma {
+  font-family: var(--sans);
+  font-size: .72rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--salvia-scura);
+  margin: 0 0 .5rem;
+}
+
+/* Chiosa della redazione */
+.lettera-nota {
+  margin: 1rem 0 0;
+  font-family: var(--sans);
+  font-size: .82rem;
+  line-height: 1.65;
+  color: var(--grigio-tenue);
+}
+.lettera-nota span {
+  font-weight: 700;
+  color: var(--inchiostro-soft);
+}
+
+/* --------------------------------------------------------------
    14. Footer
    -------------------------------------------------------------- */
 .site-footer {
@@ -880,6 +1052,11 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 
   .bean-grid { grid-template-columns: 1fr; }
 
+  .posta-conti { grid-template-columns: repeat(2, 1fr); }
+  .posta-sezione, .lettera { scroll-margin-top: 10.5rem; }
+  .lettera { padding: 1.3rem 1.2rem; }
+  .posta-ruolo { white-space: normal; }
+
   .post-item { grid-template-columns: 1fr; gap: .35rem; padding: 1.25rem .15rem; }
   .post-nav-next { text-align: left; }
 }
@@ -900,4 +1077,7 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
   .site-header, .site-footer, .hero-actions, .post-nav, .skip-link { display: none; }
   body { background: #fff; color: #000; font-size: 12pt; }
   a { color: #000; text-decoration: underline; }
+  .posta-indice { display: none; }
+  .lettera { box-shadow: none; border: 1px solid #ccc; break-inside: avoid; }
+  .lettera-risposta { background: #f4f4f4; }
 }

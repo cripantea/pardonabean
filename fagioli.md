@@ -78,6 +78,8 @@ nove lo ha visto gonfiarsi fino all'alba.
 **Segni particolari:** macchia scura a forma di continente sul fianco sinistro.
 **Motto:** *«L'acqua arriva. L'acqua arriva sempre.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#bud' | relative_url }})
+
 ---
 
 ## Mata Hari — L'Enigmatica {#mata-hari}
@@ -95,6 +97,8 @@ uno scherzo sia una confessione.
 **Segni particolari:** striature che cambiano apparenza quando il tovagliolo si asciuga.
 **Motto:** *«Ogni baccello ha due lati. Io ne ho tre.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#mata-hari' | relative_url }})
+
 ---
 
 ## Totò — L'Aristocratico {#toto}
@@ -111,6 +115,8 @@ erano i 390 grammi, ha ritirato la protesta senza ammettere di averla ritirata.
 **Segni particolari:** profilo affilato, portamento da ritratto ottocentesco.
 **Motto:** *«Ma mi faccia il piacere.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#toto' | relative_url }})
+
 ---
 
 ## Don Vito — Il Sorvegliante {#don-vito}
@@ -126,6 +132,8 @@ mai concesso quel favore: è chiaro che Ugo sente di doverne uno.
 **Segni particolari:** immobilità assoluta, anche quando il piatto viene spostato.
 **Motto:** *«Un giorno, e quel giorno forse non arriverà mai, ti chiederò un servizio.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#don-vito' | relative_url }})
+
 ---
 
 ## Josef — L'Imperscrutabile {#josef}
@@ -140,6 +148,8 @@ belligeranza mai scritto. Con gli altri otto ha i suoi metodi.
 
 **Segni particolari:** superficie opaca, inespressiva, impossibile da interpretare.
 **Motto:** *«La radice arriverà secondo programma.»*
+
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#josef' | relative_url }})
 
 ---
 
@@ -160,6 +170,8 @@ cambiare argomento.
 **Segni particolari:** dimensioni ridotte, espressione di chi se l'aspettava.
 **Motto:** *«Come è umida la vita.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#ugo-fantocci' | relative_url }})
+
 ---
 
 ## Onofrio — Il Marchese del Grillo {#onofrio}
@@ -176,6 +188,8 @@ raccontando storie che nessuno ricorda e tutti sostengono di avere apprezzato.
 **Segni particolari:** colorazione vivace, tendenza a rotolare quando non richiesto.
 **Motto:** *«Io so' io, e voi non siete un fagiolo.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#onofrio' | relative_url }})
+
 ---
 
 ## Don Matteo — Il Confessore {#don-matteo}
@@ -190,6 +204,8 @@ Josef che gli chiedeva i nomi degli altri penitenti.
 
 **Segni particolari:** superficie uniforme, aspetto rassicurante, memoria infallibile.
 **Motto:** *«Parla pure, tanto lo so già.»*
+
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#don-matteo' | relative_url }})
 
 ---
 
@@ -206,6 +222,8 @@ essere il fagiolo che contraddice Mary Poppins.
 **Segni particolari:** forma regolare, orientamento sempre perpendicolare al bordo.
 **Motto:** *«Praticamente perfetta sotto ogni aspetto. Anche da ammollata.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#mary-poppins' | relative_url }})
+
 ---
 
 ## Patrocle — Il Fedele {#patrocle}
@@ -221,8 +239,12 @@ guardando il tovagliolo e non dicendo niente.
 **Segni particolari:** forma allungata, posizione sempre avanzata rispetto al gruppo.
 **Motto:** *«Tu reggi il centro. Al rubinetto ci penso io.»*
 
+**Posta:** [le lettere ricevute e le risposte date]({{ '/posta/#patrocle' | relative_url }})
+
 ---
 
+Per la corrispondenza con i lettori, [La Posta del Tovagliolo]({{ '/posta/' | relative_url }}):
+un Guardiano per sezione, lettere e risposte integrali.
 Per la cronaca della notte che ha reso necessario questo registro, consultare
 [il memoriale della Tragedia]({{ '/tragedia/' | relative_url }}).
 Per gli aggiornamenti sulla germinazione, [il Diario]({{ '/diario/' | relative_url }}).

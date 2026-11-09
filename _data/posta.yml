@@ -1,0 +1,400 @@
+# ---------------------------------------------------------------
+#  La Posta del Tovagliolo — corrispondenza con i Dieci Guardiani
+# ---------------------------------------------------------------
+#  Ogni voce di questo elenco è un Guardiano. Per aggiungere una
+#  lettera basta accodare un elemento a "lettere": la pagina
+#  /posta/ si ricostruisce da sola, contatori compresi.
+#
+#  Campi di ogni lettera:
+#    da       -> firma del lettore (anche di fantasia: "Lettera firmata")
+#    luogo    -> città o provenienza
+#    data     -> AAAA-MM-GG, resa in italiano dalla pagina
+#    oggetto  -> titolo breve della lettera
+#    testo    -> la lettera del lettore
+#    risposta -> la risposta del Guardiano
+#    nota     -> facoltativo: chiosa della redazione, resa in corsivo
+#
+#  L'ordine dei Guardiani segue la numerazione del conclave.
+# ---------------------------------------------------------------
+
+- numero: "01"
+  slug: bud
+  nome: Bud
+  ruolo: Il Leader
+  stile: >
+    Bud risponde in una frase. Se la risposta richiede due frasi, Bud non risponde
+    e la lettera torna in fondo alla pila. La redazione ha smesso di insistere.
+  lettere:
+    - da: Giorgio M.
+      luogo: Rho
+      data: 2026-11-09
+      oggetto: Comandare senza alzare la voce
+      testo: >
+        Caro Bud, ho cinquantaquattro anni e sedici persone che dipendono da me.
+        Alzo la voce ogni giorno e ogni giorno funziona un po' meno. Lei non la alza
+        mai e le obbediscono in nove. Come fa?
+      risposta: >
+        Non comando: sto fermo al centro e gli altri si dispongono.
+      nota: >
+        Dettata in quattro secondi. Alla richiesta di aggiungere un esempio pratico,
+        Bud ha risposto che l'esempio pratico era la frase.
+    - da: Lettera firmata
+      luogo: Treviso
+      data: 2026-11-09
+      oggetto: Una precisazione anatomica
+      testo: >
+        Ma lei lo sa che è un fagiolo?
+      risposta: >
+        Sì.
+      nota: >
+        È l'unica domanda a cui Bud abbia mai risposto senza prima guardare la porta
+        della cucina.
+    - da: Alessandra P.
+      luogo: Cinisello Balsamo
+      data: 2026-11-09
+      oggetto: La notte dell'8 novembre
+      testo: >
+        Dicono che quella notte sia rimasto rivolto verso la porta fino all'alba.
+        Posso chiederle a cosa pensava?
+      risposta: >
+        Al fatto che l'acqua arriva sempre, e che quella volta era arrivata bollente
+        e non per noi.
+      nota: >
+        Due frasi. La redazione le ha contate e ha deciso di non farlo notare a nessuno.
+
+- numero: "02"
+  slug: mata-hari
+  nome: Mata Hari
+  ruolo: L'Enigmatica
+  stile: >
+    Risponde sempre, puntualmente, e non si è ancora capito a che cosa. La redazione
+    trascrive senza interpretare: le interpretazioni, finora, si sono rivelate tutte
+    premature.
+  lettere:
+    - da: Un appassionato di crittografia
+      luogo: Pavia
+      data: 2026-11-09
+      oggetto: Messaggi in chiaro e messaggi in codice
+      testo: >
+        Gentile Mata Hari, seguo la vostra vicenda dal primo giorno. Le chiedo
+        francamente: le sue risposte contengono messaggi cifrati?
+      risposta: >
+        Le mie risposte contengono esattamente quello che serve.
+      nota: >
+        La redazione ha contato le lettere della risposta. Sono cinquantatré.
+        Non significa niente. Abbiamo controllato tre volte, il che significa qualcosa.
+    - da: Marilena B.
+      luogo: Fidenza
+      data: 2026-11-09
+      oggetto: La domanda che tutti le fanno
+      testo: >
+        Per chi lavora davvero? Lo chiedo con rispetto, ma lo chiedo.
+      risposta: >
+        Per l'umidità. L'ho già detto e continuo a dirlo: non è colpa mia se dopo
+        una settimana sembra una battuta e dopo un mese sembra una confessione.
+    - da: Sofia, 15 anni
+      luogo: Arezzo
+      data: 2026-11-09
+      oggetto: Come si fa a essere misteriosi
+      testo: >
+        In classe parlo troppo e poi me ne pento. Vorrei essere come lei. Qual è il
+        trucco?
+      risposta: >
+        Non dire niente di falso. Dire poche cose vere, e non dire in che ordine
+        sono successe.
+      nota: >
+        È il consiglio più sensato pervenuto a questa rubrica, il che ha costretto
+        la redazione a rivedere alcune ipotesi su Mata Hari.
+
+- numero: "03"
+  slug: toto
+  nome: Totò
+  ruolo: L'Aristocratico
+  stile: >
+    Risponde a tutti con cortesia nobiliare e a nessuno con documenti. Pretende che
+    le lettere gli siano lette ad alta voce e due volte.
+  lettere:
+    - da: Ufficio araldico (autoproclamato)
+      luogo: Napoli
+      data: 2026-11-09
+      oggetto: Richiesta di documentazione
+      testo: >
+        Egregio, abbiamo verificato gli archivi disponibili e non risulta alcun titolo
+        nobiliare intestato a un legume. La invitiamo a produrre documentazione.
+      risposta: >
+        Il titolo fu conferito al mio bisnonno da un baccello di Posillipo nel
+        milleottocento e qualcosa. I documenti sono andati perduti in ammollo,
+        circostanza che nella mia famiglia si verifica con una certa regolarità.
+        Ma mi faccia il piacere.
+    - da: Un impiegato offeso
+      luogo: Bergamo
+      data: 2026-11-09
+      oggetto: Mi hanno dato del fagiolo
+      testo: >
+        In riunione il mio capo mi ha dato del fagiolo davanti a tutti. Non ho saputo
+        cosa rispondere. Lei cosa avrebbe detto?
+      risposta: >
+        Signore mio, lei è stato insultato da qualcuno che non sa che cosa sia un
+        fagiolo. Si consideri promosso, e la prossima volta ringrazi: li mette in
+        difficoltà.
+
+- numero: "04"
+  slug: don-vito
+  nome: Don Vito
+  ruolo: Il Sorvegliante
+  stile: >
+    Don Vito non risponde per iscritto e non ha mai dettato una riga. Le risposte che
+    seguono sono ricostruzioni della redazione, fondate su silenzi, inclinazioni e
+    un'unica occhiata. Ci assumiamo ogni responsabilità e nessun merito.
+  lettere:
+    - da: Condomino esasperato
+      luogo: Monza
+      data: 2026-11-09
+      oggetto: Una questione di cortile
+      testo: >
+        Da due anni il mio vicino parcheggia davanti al mio box. Ho scritto
+        all'amministratore undici volte. Lei come la risolverebbe?
+      risposta: >
+        [Don Vito ha guardato la lettera per undici secondi, uno per ogni richiamo
+        all'amministratore. Poi ha guardato la finestra. La redazione interpreta: la
+        questione è già risolta, oppure lo sarà.]
+      nota: >
+        Invitiamo il lettore a non trarre conclusioni operative da un'interpretazione
+        della redazione.
+    - da: Franco D.
+      luogo: Sesto San Giovanni
+      data: 2026-11-09
+      oggetto: Perché sempre sul bordo
+      testo: >
+        Tutti gli altri stanno al centro o vicino al centro. Lei sta sul bordo
+        orientale da domenica. Non si sente escluso?
+      risposta: >
+        [Don Vito si è spostato di circa mezzo millimetro verso il centro. Vi è
+        rimasto per il tempo necessario a guardare i nove. Poi è tornato al bordo.]
+
+- numero: "05"
+  slug: josef
+  nome: Josef
+  ruolo: L'Imperscrutabile
+  stile: >
+    Risponde con puntualità assoluta a domande che non sono state poste. Le domande
+    effettivamente poste vengono archiviate con numero di protocollo.
+  lettere:
+    - da: Rita C.
+      luogo: Lodi
+      data: 2026-11-09
+      oggetto: Una curiosità innocente
+      testo: >
+        Qual è il suo colore preferito?
+      risposta: >
+        La seconda fase del piano quinquennale prevede il raggiungimento di due
+        millimetri di radichetta per esemplare entro il terzo giorno, con tolleranza
+        zero sugli scostamenti e autocritica pubblica per i ritardatari. Le assegnazioni
+        di umidità restano invariate. La domanda sul colore è stata archiviata al
+        protocollo 4 del registro.
+    - da: Un lettore scettico
+      luogo: Vigevano
+      data: 2026-11-09
+      oggetto: Gli errori
+      testo: >
+        Le è mai capitato di sbagliarsi?
+      risposta: >
+        La revisione storica stabilirà che non mi sono mai sbagliato. La revisione
+        storica la curo io.
+    - da: Elisa T.
+      luogo: Trieste
+      data: 2026-11-09
+      oggetto: «L'ho già vista altrove»
+      testo: >
+        Lei sostiene di avere già visto Mata Hari altrove. Dove, esattamente?
+      risposta: >
+        Altrove.
+      nota: >
+        La lettera è stata successivamente riclassificata. La redazione non ha accesso
+        al criterio di riclassificazione, né al registro, né a Josef.
+
+- numero: "06"
+  slug: ugo-fantocci
+  nome: Ugo Fantocci
+  ruolo: Il Perseguitato
+  stile: >
+    Risponde a tutto, con dedizione e in tempi rapidissimi, comprese le lettere
+    indirizzate ad altri. Chiede scusa in apertura e in chiusura.
+  lettere:
+    - da: Compagno di sventura
+      luogo: Legnano
+      data: 2026-11-09
+      oggetto: Anch'io sono sfortunato
+      testo: >
+        Caro Ugo, mi sento vicino a lei: questo mese ho perso il treno tre volte.
+        Come si sopravvive a tutto questo?
+      risposta: >
+        Mi consenta: tre volte in un mese è un periodo fortunato, e glielo dico senza
+        polemica. Comunque la ringrazio di avermi scritto, perché è la prima lettera
+        che ricevo che non fosse indirizzata a Bud. L'ho riletta quattro volte. Mi scusi.
+    - da: Daniela R.
+      luogo: Piacenza
+      data: 2026-11-09
+      oggetto: La goccia
+      testo: >
+        Ma perché non si sposta e basta? La goccia cade sempre nello stesso punto,
+        no?
+      risposta: >
+        Mi sono spostato, signora. Due volte. La prima volta la goccia mi ha seguito.
+        La seconda mi sono trovato sotto lo spigolo del piattino, che gocciola a
+        intervalli regolari e, mi creda, più freddi. Ne ho concluso che la posizione
+        non era il problema, e sono tornato dov'ero per non dare altro disturbo.
+    - da: Per Bud, c/o la redazione
+      luogo: Como
+      data: 2026-11-09
+      oggetto: Lettera recapitata male
+      testo: >
+        Caro Bud, volevo solo dirle che lei è un esempio per tutti noi e che quando
+        ho una decisione difficile penso a lei che sta fermo al centro.
+      risposta: >
+        Gentile signore, la lettera mi è stata consegnata per errore e Bud era
+        occupato, quindi mi sono permesso. Le confermo che sta fermo al centro: lo
+        fa benissimo e lo fa sempre. Se la mia risposta non dovesse soddisfarla, la
+        prego di considerare che non era per me.
+      nota: >
+        La redazione ha verificato: la lettera era effettivamente per Bud. Bud non era
+        occupato.
+
+- numero: "07"
+  slug: onofrio
+  nome: Onofrio
+  ruolo: Il Marchese del Grillo
+  stile: >
+    Risponde volentieri, soprattutto al posto di altri. Delle due lettere pubblicate
+    qui sotto, una gli era stata effettivamente indirizzata.
+  lettere:
+    - da: Luca F.
+      luogo: Roma
+      data: 2026-11-09
+      oggetto: Scherzi e amicizie
+      testo: >
+        Come si fa a fare uno scherzo senza perdere gli amici?
+      risposta: >
+        Io non li perdo: non li ho mai avuti per contratto. Comunque, la regola c'è
+        ed è una sola: lo scherzo va fatto a qualcuno che la mattina dopo ha bisogno
+        di te. Perché io so' io, e voi non siete un fagiolo.
+    - da: La redazione
+      luogo: Cucina, piano terra
+      data: 2026-11-09
+      oggetto: Contestazione formale
+      testo: >
+        Risulta che nella notte fra domenica e lunedì la numerazione del conclave sia
+        stata alterata, e che per alcune ore il Guardiano n. 7 risultasse essere Don
+        Matteo. Chiediamo conto.
+      risposta: >
+        Primo: non si prova niente. Secondo: il righello è di Mary Poppins, quindi al
+        limite è complice. Terzo: Don Matteo per due ore si è comportato molto meglio
+        di me, e questo lo chiamate danno?
+      nota: >
+        I numeri sono stati ricontrollati uno per uno e combaciano con la fotografia
+        e con l'albo. Per ora.
+
+- numero: "08"
+  slug: don-matteo
+  nome: Don Matteo
+  ruolo: Il Confessore
+  stile: >
+    Risponde brevemente e assolve con larghezza. Ha chiesto che la sua rubrica non
+    venga chiamata «confessionale», perché «qui si scrive e lì si tace».
+  lettere:
+    - da: Un lettore in colpa
+      luogo: Macerata
+      data: 2026-11-09
+      oggetto: Confesso
+      testo: >
+        Padre, ieri sera, mentre leggevo la vostra cronaca, ho finito un piatto di
+        borlotti. Non ho osato dirlo a nessuno.
+      risposta: >
+        Figliolo, i fagioli si mangiano: è il destino di un normale fagiolo e in un
+        destino non c'è peccato. Il peccato sarebbe stato lasciarli bruciare in
+        pentola mentre lei dormiva sul divano. Vada in pace, e li scoli.
+    - da: Nadia V.
+      luogo: Ravenna
+      data: 2026-11-09
+      oggetto: Il cuoco è stato perdonato?
+      testo: >
+        Vorrei sapere se il responsabile di quella notte ha ottenuto il perdono. Lo
+        chiedo perché anch'io ho bruciato una cena importante, e non me lo perdono.
+      risposta: >
+        Il cuoco si è autodenunciato prima che qualcuno lo accusasse e ha messo tutto
+        per iscritto su un sito pubblico. Quella non è assoluzione: è penitenza, e la
+        sta scontando a puntate. Gli manca ancora la parte difficile, che è tornare a
+        dormire tranquillo. A lei, signora, do la precedenza: è una cena, non una
+        colonia.
+    - da: Lettera firmata
+      luogo: Udine
+      data: 2026-11-09
+      oggetto: Non ho niente da confessare
+      testo: >
+        Le scrivo per dirle che ho esaminato la mia coscienza e non ho trovato niente.
+      risposta: >
+        Allora torni domani.
+
+- numero: "09"
+  slug: mary-poppins
+  nome: Mary Poppins
+  ruolo: La Precisa
+  stile: >
+    Corregge la lettera, la rispedisce corretta, poi risponde. La redazione pubblica
+    il testo originale perché la versione corretta è coperta da sue annotazioni a
+    margine.
+  lettere:
+    - da: Un germinatore alle prime armi
+      luogo: Perugia
+      data: 2026-11-09
+      oggetto: Quanta acqua?
+      testo: >
+        Buongiorno, ho messo dei fagioli su un tovagliolo come avete fatto voi ma non
+        so quanta umidità ci vuole. Ho paura di sbagliare le dosi.
+      risposta: >
+        Tovagliolo a doppio strato, due nebulizzazioni al mattino e una al tramonto,
+        quattro millimetri esatti fra un esemplare e l'altro, piattino bianco perché
+        sul bianco si vede la muffa il giorno prima che arrivi. Nella sua lettera ci
+        sono due errori: le dosi non si sbagliano, si misurano.
+      nota: >
+        Alla lettera era allegato uno schema disegnato a mano con righello. La
+        redazione non dispone della tecnologia per riprodurlo fedelmente e se ne scusa
+        formalmente.
+    - da: Chiara M.
+      luogo: Bologna
+      data: 2026-11-09
+      oggetto: La mia cucina è un disastro
+      testo: >
+        Ogni volta che riordino, due giorni dopo è tutto come prima. Mi dica lei da
+        dove si comincia.
+      risposta: >
+        Non si tiene in ordine una cucina. Si tiene in ordine il mezzo metro davanti a
+        sé, e poi ci si sposta. Chi riordina tutto in una volta sta riordinando per
+        l'ultima volta.
+
+- numero: "10"
+  slug: patrocle
+  nome: Patrocle
+  ruolo: Il Fedele
+  stile: >
+    Risponde per primo, sempre, anche quando la lettera è per qualcun altro e anche
+    quando la risposta gli costa. Non rilegge.
+  lettere:
+    - da: Un lettore stanco
+      luogo: Pescara
+      data: 2026-11-09
+      oggetto: Non si stanca?
+      testo: >
+        Lei si mette davanti a tutti ogni volta che si apre il rubinetto. Da fuori
+        sembra bellissimo. Da dentro, immagino, un po' meno. Non si stanca?
+      risposta: >
+        Mi stanco. Non è un argomento.
+    - da: Gloria S.
+      luogo: Varese
+      data: 2026-11-09
+      oggetto: Se succedesse di nuovo
+      testo: >
+        Ipotesi: il rubinetto si apre un'altra volta, con la stessa forza di domenica.
+        Lei si sposterebbe?
+      risposta: >
+        Sì. Di un passo. In avanti.
