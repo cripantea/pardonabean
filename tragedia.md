@@ -33,8 +33,6 @@ Non sono dunque dei superstiti. Sono dei precedenti.
 ### Domenica 8 novembre — sera: il Rogo
 
 | Ora | Evento |
-
-| Ora | Evento |
 |:---|:---|
 | 21:10 | Scolatura dell'ammollo e versamento dei 390 g in pentola rossa. Acqua fredda, fuoco medio. Clima disteso. |
 | 21:35 | Primo bollore. I fagioli in superficie segnalano «temperatura in aumento». Nessuno interviene. |
@@ -48,11 +46,21 @@ Non sono dunque dei superstiti. Sono dei precedenti.
 | 23:36 | Spegnimento del fuoco. La pentola viene rimossa dal fornello a mani nude e poi, dopo un breve intermezzo, con uno strofinaccio. |
 | 23:38 | Apertura della finestra. Primo contatto visivo con l'entità del disastro. |
 | 23:41 | Trasferimento della pentola nel lavandino. Getto d'acqua fredda. Spegnimento definitivo dei residui incandescenti. |
-| 23:44 | Operazione di filtraggio con lo scolapasta. Tentativo di separare materia carbonizzata e materia recuperabile. |
-| 23:47 | Ricognizione del filtrato: nessun esemplare integro. La seconda categoria risulta vuota. |
-| 23:52 | Raccolta dei resti in sacchetto di plastica, in attesa di decisioni che non verranno prese. |
-| 00:40 | Fine delle operazioni di bonifica. Il cuoco siede per terra in cucina e non dice niente per undici minuti. |
-| 00:51 | Il cuoco raggiunge il tovagliolo e conta. Dieci. C'erano tutti, e c'erano da tredici ore e mezza. |
+| 23:45 | **Interruzione delle operazioni.** Il cuoco dichiara di non essere in condizione di proseguire. La pentola resta nel lavandino, sommersa. |
+| 23:52 | Il cuoco raggiunge il tovagliolo e conta. Dieci. C'erano tutti, e c'erano da dodici ore e mezza. |
+| 00:40 | Il cuoco siede per terra in cucina e non dice niente per undici minuti. |
+| 01:00 | Chiusura della cucina a lavoro incompiuto. Prima e unica notte in cui i 390 grammi e i Dieci dormono nella stessa casa in condizioni così diverse. |
+
+### Lunedì 9 novembre — mattina: la Bonifica
+
+| Ora | Evento |
+|:---|:---|
+| 06:30 | Rientro in cucina. La pentola è dove era stata lasciata. |
+| 06:45 | Operazione di filtraggio con lo scolapasta. Tentativo di separare materia carbonizzata e materia recuperabile. Prima fotografia. |
+| 06:46 | Ricognizione del filtrato: nessun esemplare integro. La seconda categoria risulta vuota. |
+| 06:47 | Raccolta dei resti in sacchetto di plastica, chiuso con un nodo. Seconda fotografia. |
+| 07:00 | Fotografia ufficiale del conclave. Il Programma di Germinazione passa da esperimento domenicale a unica linea di successione disponibile. |
+| 07:20 | Pentola lasciata in ammollo con bicarbonato. Scolapasta riposto senza essere lavato. |
 
 ## Il bilancio
 
@@ -66,11 +74,15 @@ Sulla differenza fra 400 e 390 grammi va detto che l'ingegnere non ha pesato nul
 sono stati contati, non misurati. Lo scarto comprende i dieci Eletti e un margine che
 l'interessato ha definito, testualmente, *«entro tolleranza»*.
 
+Va aggiunto, perché agli atti conta, che la perdita non è soltanto numerica. I 390 grammi non
+sono andati perduti come si perde un raccolto: sono stati resi **immangiabili**, che in una cucina
+è una categoria a sé. Nessuno li ha potuti onorare nell'unico modo per cui erano stati acquistati.
+
 <figure>
   <img src="{{ '/assets/img/disastro-pentola.jpg' | relative_url }}"
        alt="La pentola rossa con il fondo completamente carbonizzato, accanto al sacchetto dei 390 grammi perduti e alla bacinella verde con l'acqua di filtraggio."
        width="2000" height="1668" loading="lazy" decoding="async">
-  <figcaption>Il fondo della pentola rossa, documentato il mattino successivo. Al centro il sacchetto con i 390 grammi non recuperabili; a destra la bacinella con l'acqua di filtraggio.</figcaption>
+  <figcaption>Lunedì 9 novembre, ore 06:47: il fondo della pentola dopo una notte di ammollo nel lavandino. Al centro il sacchetto con i 390 grammi non recuperabili, chiuso con un nodo; a destra la bacinella con l'acqua del filtraggio.</figcaption>
 </figure>
 
 Nessun recupero è stato possibile. Lo strato superiore, quello rimasto a contatto con il vapore
@@ -81,28 +93,38 @@ dei Dieci dallo scolapasta non è mai avvenuto, ed è stato espunto dalla narraz
 I Dieci erano al sicuro da tredici ore e mezza. Non per merito loro, va detto con la stessa
 franchezza: per un prelievo alla cieca compiuto da una mano che non li aveva nemmeno guardati.
 
-## Lo spegnimento e il filtraggio
+## Lo spegnimento, l'interruzione, la bonifica
 
-L'operazione di bonifica merita una nota tecnica. Il getto d'acqua fredda nel lavandino ha
-prodotto una nube di vapore e cenere sospesa che ha reso la visibilità pressoché nulla per
-circa quaranta secondi. È in quei quaranta secondi che i dieci sono passati attraverso lo
-scolapasta senza essere scambiati per residuo.
+Il getto d'acqua fredda nel lavandino ha prodotto una nube di vapore e cenere sospesa che ha reso
+la visibilità pressoché nulla per circa quaranta secondi. Quando si è diradata, alle 23:45, il
+cuoco ha chiuso il rubinetto e si è fermato.
 
-Lo scolapasta — oggi conservato, non lavato, in un ripiano alto della cucina — avrebbe dovuto
-svolgere la funzione di setaccio fra ciò che era ancora fagiolo e ciò che non lo era più. Ha
-restituito una sola categoria.
+È necessario registrare questa interruzione, perché la storiografia precedente la ometteva
+lasciando intendere una notte di lavoro ininterrotto. Non è andata così: **la bonifica non è stata
+compiuta quella notte**. Il cuoco ha dichiarato di non essere in condizione di proseguire e ha
+lasciato la pentola nel lavandino, sommersa, fino al mattino. Alle sue parole, raccolte a distanza
+di ore, l'aggravante non era soltanto il numero delle vittime innocenti, ma la loro condizione:
+*«immangiabili»*. Nella scala di valori di una cucina, è la seconda morte.
+
+I 390 grammi hanno quindi passato la notte in acqua fredda, a tre metri dai Dieci, che la
+passavano su un tovagliolo umido nella stanza accanto. È l'unica notte nella storia di questa
+colonia in cui le due popolazioni hanno dormito sotto lo stesso tetto in condizioni tanto diverse.
+
+Le operazioni sono riprese alle 06:30 di lunedì. Lo scolapasta — oggi conservato, non lavato, in
+un ripiano alto della cucina — avrebbe dovuto svolgere la funzione di setaccio fra ciò che era
+ancora fagiolo e ciò che non lo era più. Ha restituito una sola categoria.
 
 I Dieci hanno seguito l'operazione a distanza, dal piattino, e non vi hanno preso parte. Totò ha
 commentato che *«certe cose è meglio vederle da lontano»*. Mary Poppins ha chiesto se fosse
-previsto un verbale. Ugo Fantocci, informato che quella sera sarebbe potuto essere nella pentola
-se la mano dell'ingegnere si fosse spostata di due centimetri, ha chiesto di non essere più
-informato di niente.
+previsto un verbale e ha osservato che rimandare di sette ore non era conforme ad alcun protocollo.
+Ugo Fantocci, informato che quella domenica sarebbe potuto essere nella pentola se la mano
+dell'ingegnere si fosse spostata di due centimetri, ha chiesto di non essere più informato di niente.
 
 <figure class="figure-ritratto">
   <img src="{{ '/assets/img/conclave.jpg' | relative_url }}"
        alt="I dieci fagioli borlotti disposti sopra un tovagliolo di carta inumidito, appoggiato su un piatto bianco: Bud al centro, gli altri nove intorno."
        width="1416" height="2048" loading="lazy" decoding="async">
-  <figcaption>I Dieci sul tovagliolo, fotografati il mattino successivo al rogo. La disposizione è quella assunta alle 11:19 di domenica, dieci ore prima che la pentola andasse sul fuoco: Bud al centro, Patrocle un passo avanti, Don Vito sul bordo. Da allora non si sono più mossi.</figcaption>
+  <figcaption>Lunedì 9 novembre, ore 07:00: fotografia ufficiale del conclave, scattata a bonifica conclusa. La disposizione è quella assunta alle 11:19 di domenica, dieci ore prima che la pentola andasse sul fuoco: Bud al centro, Patrocle un passo avanti, Don Vito sul bordo. Da allora non si sono più mossi.</figcaption>
 </figure>
 
 ## Responsabilità

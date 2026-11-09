@@ -45,7 +45,7 @@ Fra le due popolazioni, da quel momento, ci sono stati trenta centimetri di ripi
   <img src="{{ '/assets/img/disastro-pentola.jpg' | relative_url }}"
        alt="La pentola rossa con il fondo completamente carbonizzato, accanto al sacchetto dei 390 grammi perduti e alla bacinella verde con l'acqua di filtraggio."
        width="2000" height="1668" loading="lazy" decoding="async">
-  <figcaption>La pentola rossa fotografata il mattino dopo: 390 grammi diventati una massa sola. Accanto, il sacchetto dei caduti, chiuso con un nodo, e l'acqua del filtraggio.</figcaption>
+  <figcaption>Ore 06:47 di lunedì 9 novembre: la pentola dopo una notte a mollo nel lavandino. 390 grammi diventati una massa sola; accanto, il sacchetto dei caduti chiuso con un nodo e la bacinella dell'acqua di filtraggio.</figcaption>
 </figure>
 
 ## 21:10 — Si comincia bene
@@ -79,29 +79,34 @@ interi nello scolapasta. Non è andata così, e la correzione va fatta per inter
 nessun salvataggio in extremis. C'è stata una decisione presa a mezzogiorno, per noia, da qualcuno
 che non sapeva di deciderlo.
 
-## 23:44 — Il filtraggio
+## 23:45 — L'interruzione
 
-Lo scolapasta avrebbe dovuto separare: da una parte la materia nera e compatta, dall'altra
-quello che fosse rimasto identificabile come fagiolo borlotto. Ha restituito una categoria sola.
+Qui la cronaca deve registrare una cosa che nella prima stesura mancava, e che cambia il tono
+di tutta la notte: **il cuoco si è fermato**.
 
-L'operazione è durata il tempo di capirlo. Non c'era niente da scegliere, niente da sciacquare,
-niente da mettere da parte: solo da raccogliere. I resti sono finiti in un sacchetto di plastica
-che nelle fotografie del mattino dopo si vede ancora sul ripiano, chiuso con un nodo, perché
-buttarlo quella notte sarebbe sembrato sbrigativo.
+Chiuso il rubinetto alle 23:45, non ha filtrato niente, non ha separato niente, non ha raccolto
+niente. Ha guardato la pentola nel lavandino e ha deciso che non era in condizione di proseguire.
+Alla domanda sul perché, la risposta è stata di una precisione che non ammette repliche: troppe
+vittime innocenti, e per di più **immangiabili**.
 
-Un piano, per quei 390 grammi, non c'era. Il piano riguardava altri dieci, e girava già da
-dodici ore in un'altra stanza.
+Va capito il peso di quella seconda parola. In una cucina un legume ha un destino previsto, ed è
+un destino onorevole: viene mangiato. Quei 390 grammi non sono stati nemmeno quello. Sono stati
+resi inutili, che è un modo più lento di morire e l'unico che il cuoco non si aspettava di dover
+infliggere a qualcuno.
 
-## 00:51 — Il conteggio
+Così la pentola è rimasta nel lavandino, sommersa d'acqua fredda, per tutta la notte.
 
-Finita la bonifica, il cuoco ha fatto l'unica cosa che restava da fare: è andato a contare.
-Il piattino era dove era stato lasciato tredici ore e mezza prima, il tovagliolo era ancora umido
+## 23:52 — Il conteggio
+
+Prima di chiudere la cucina, il cuoco ha fatto l'unica cosa che restava da fare: è andato a contare.
+Il piattino era dove era stato lasciato dodici ore e mezza prima, il tovagliolo era ancora umido
 al tatto, e i fagioli sopra erano dieci.
 
 Nessuno di loro si era accorto di niente. Questo è, a conti fatti, il dettaglio più difficile da
 digerire di tutta la vicenda: mentre 390 grammi di loro simili diventavano una crosta nera, i Dieci
 stavano assorbendo acqua con la regolarità prevista dal protocollo, nella stanza accanto, a tre
-metri di distanza.
+metri di distanza. Hanno continuato a farlo anche dopo, per tutta la notte, mentre a tre metri la
+pentola restava a mollo in attesa di un mattino in cui qualcuno se la sentisse.
 
 Bud era al centro, dove l'ingegnere lo aveva appoggiato la mattina: la leadership, in questa storia,
 è una conseguenza dell'ordine di prelievo. Patrocle si è sistemato un passo davanti a lui e non si è più spostato.
@@ -109,23 +114,40 @@ Don Vito ha scelto il bordo. Josef l'angolo. Mata Hari si è posizionata in obli
 Mata Hari fa sempre così. Don Matteo si è messo accanto a Onofrio, che è una scelta pastorale
 e non casuale. Mary Poppins ha allineato sé stessa, e poi ha iniziato a riallineare gli altri.
 
+## 06:45 — La bonifica, il mattino dopo
+
+Le operazioni sono riprese alle 06:30 di lunedì, con la luce ancora accesa e la finestra ancora
+aperta dalla sera prima.
+
+Lo scolapasta avrebbe dovuto separare: da una parte la materia nera e compatta, dall'altra quello
+che fosse rimasto identificabile come fagiolo borlotto. Ha restituito una categoria sola. Non c'era
+niente da scegliere, niente da sciacquare, niente da mettere da parte: solo da raccogliere.
+
+Alle 06:47 i resti erano in un sacchetto di plastica chiuso con un nodo, appoggiato sul ripiano.
+Lo si vede nella fotografia in apertura di questo post. Il nodo è stato fatto stretto, e nessuno lo ha ancora sciolto.
+
+Alle 07:00 è stata scattata la fotografia ufficiale del conclave. Fra la raccolta dei 390 grammi
+e il ritratto dei Dieci sono passati tredici minuti, e sono gli stessi tredici minuti in cui questo
+sito ha smesso di essere un'idea.
+
 <figure class="figure-ritratto">
   <img src="{{ '/assets/img/conclave.jpg' | relative_url }}"
        alt="I dieci fagioli borlotti disposti sopra un tovagliolo di carta inumidito, appoggiato su un piatto bianco: Bud al centro, gli altri nove intorno."
        width="1416" height="2048" loading="lazy" decoding="async">
-  <figcaption>Il conclave la mattina dopo il rogo. La disposizione è quella delle 11:19 di domenica, assunta dieci ore prima che la pentola andasse sul fuoco: Bud al centro, Patrocle un passo avanti, Don Vito sul bordo.</figcaption>
+  <figcaption>Ore 07:00 di lunedì 9 novembre, a bonifica conclusa: la fotografia ufficiale del conclave. La disposizione è quella delle 11:19 di domenica, dieci ore prima che la pentola andasse sul fuoco: Bud al centro, Patrocle un passo avanti, Don Vito sul bordo.</figcaption>
 </figure>
+
+Il fondo della pentola è stato poi lasciato in ammollo con bicarbonato e abbandonato a sé stesso
+per tre giorni. Lo scolapasta è stato riposto senza essere lavato, e ci resterà.
 
 ## Il cambio di mandato
 
-Il fondo della pentola è stato lasciato in ammollo con bicarbonato e abbandonato a sé stesso per
-tre giorni. Lo scolapasta è stato riposto senza essere lavato, e ci resterà.
-
-Poi il cuoco si è seduto per terra in cucina e per undici minuti non ha detto niente.
+La notte fra domenica e lunedì il cuoco si è seduto per terra in cucina e per undici minuti non ha
+detto niente.
 
 Quello che è cambiato in quegli undici minuti non è stata la decisione di piantarli: quella era
 già stata presa alle 11:15, con la leggerezza di un esperimento domenicale. È cambiato il peso
-della decisione. Alle 11:15 i Dieci erano un passatempo con dei nomi buffi. All'una di notte erano
+della decisione. Alle 11:15 i Dieci erano un passatempo con dei nomi buffi. A mezzanotte erano
 l'unica cosa rimasta di quattrocento grammi di borlotti, e il tovagliolo in salotto aveva smesso
 di essere un gioco.
 
