@@ -3,6 +3,8 @@ layout: guardiano
 numero: "04"
 nome: Don Vito
 slug: don-vito
+registro: D/4
+detto: per via del fatto che non ha mai avuto bisogno di alzare la voce
 ruolo: Il Sorvegliante
 posizione: Bordo orientale, da dove si vede tutto
 segni: Immobilità assoluta, anche quando il piatto viene spostato

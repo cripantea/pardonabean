@@ -18,6 +18,12 @@ layout: default
       <h1 class="guardiano-nome">{{ page.nome }}</h1>
       <p class="guardiano-ruolo">{{ page.ruolo }}</p>
 
+      <p class="guardiano-registro">
+        Fagiolo n&deg; {{ page.numero }}, iscritto come
+        <em>esemplare {{ page.registro }}</em> &mdash; dett{% if page.genere == 'f' %}a{% else %}o{% endif %}
+        <strong>{{ page.nome }}</strong>, {{ page.detto }}.
+      </p>
+
       <figure class="ritratto">
         <div class="ritratto-lastra">
           <img src="{{ '/assets/img/ritratti/' | append: page.slug | append: '.jpg' | relative_url }}"

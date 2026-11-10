@@ -163,7 +163,7 @@ un ripiano alto della cucina — avrebbe dovuto svolgere la funzione di setaccio
 ancora fagiolo e ciò che non lo era più. Ha restituito una sola categoria.
 
 I Dieci hanno seguito l'operazione a distanza, dal piattino, e non vi hanno preso parte. Totò ha
-commentato che *«certe cose è meglio vederle da lontano»*. Mary Poppins ha chiesto se fosse
+commentato che *«certe cose è meglio vederle da lontano»*. Meri Poppins ha chiesto se fosse
 previsto un verbale e ha osservato che rimandare di sette ore non era conforme ad alcun protocollo.
 Ugo Fantocci, informato che quella domenica sarebbe potuto essere nella pentola se la mano
 dell'ingegnere si fosse spostata di due centimetri, ha chiesto di non essere più informato di niente.

@@ -31,7 +31,7 @@ dichiarabile.
 ## Hanno cambiato posto
 
 La seconda è che **la disposizione delle 11:19 di domenica non c'è più**. Quella disposizione
-era stata registrata nell'albo come definitiva, con una sola eccezione prevista: Mary Poppins,
+era stata registrata nell'albo come definitiva, con una sola eccezione prevista: Meri Poppins,
 che in materia ha autorità.
 
 L'eccezione è stata esercitata. La nuova disposizione si presenta su quattro file di spaziatura

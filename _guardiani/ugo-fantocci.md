@@ -3,6 +3,8 @@ layout: guardiano
 numero: "06"
 nome: Ugo Fantocci
 slug: ugo-fantocci
+registro: F/6
+detto: per via di tutto quello che gli è capitato da allora
 ruolo: Il Perseguitato
 posizione: Dove capita, male
 segni: Dimensioni ridotte, espressione di chi se l'aspettava

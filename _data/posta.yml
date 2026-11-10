@@ -263,7 +263,7 @@
 - numero: "07"
   slug: onofrio
   nome: Onofrio
-  ruolo: Il Marchese del Grillo
+  ruolo: Il Marchese
   stile: >
     Risponde volentieri, soprattutto al posto di altri. Delle due lettere pubblicate
     qui sotto, una gli era stata effettivamente indirizzata.
@@ -287,7 +287,7 @@
         stata alterata, e che per alcune ore il Guardiano n. 7 risultasse essere Don
         Matteo. Chiediamo conto.
       risposta: >
-        Primo: non si prova niente. Secondo: il righello è di Mary Poppins, quindi al
+        Primo: non si prova niente. Secondo: il righello è di Meri Poppins, quindi al
         limite è complice. Terzo: Don Matteo per due ore si è comportato molto meglio
         di me, e questo lo chiamate danno?
       nota: >
@@ -337,7 +337,7 @@
 
 - numero: "09"
   slug: mary-poppins
-  nome: Mary Poppins
+  nome: Meri Poppins
   ruolo: La Precisa
   stile: >
     Corregge la lettera, la rispedisce corretta, poi risponde. La redazione pubblica

@@ -168,7 +168,7 @@ Bud era al centro, dove l'ingegnere lo aveva appoggiato la mattina: la leadershi
 storia, è una conseguenza dell'ordine di prelievo. Patrocle si è sistemato un passo davanti a lui
 e non si è più spostato. Don Vito ha scelto il bordo. Josef l'angolo. Mata Hari si è posizionata
 in obliquo, perché Mata Hari fa sempre così. Don Matteo si è messo accanto a Onofrio, che è una
-scelta pastorale e non casuale. Mary Poppins ha allineato sé stessa, e poi ha iniziato a
+scelta pastorale e non casuale. Meri Poppins ha allineato sé stessa, e poi ha iniziato a
 riallineare gli altri.
 
 ## 06:45 — La bonifica, il mattino dopo

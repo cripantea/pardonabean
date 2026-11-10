@@ -3,6 +3,8 @@ layout: guardiano
 numero: "03"
 nome: Totò
 slug: toto
+registro: C/3
+detto: per via del profilo e di un titolo nobiliare che nessuno ha mai verificato
 ruolo: L'Aristocratico
 posizione: Fila centrale a ovest, di profilo
 segni: Profilo affilato, portamento da ritratto ottocentesco

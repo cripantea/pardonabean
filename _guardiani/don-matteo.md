@@ -3,6 +3,8 @@ layout: guardiano
 numero: "08"
 nome: Don Matteo
 slug: don-matteo
+registro: H/8
+detto: per via di quello che sa senza che nessuno glielo abbia detto
 ruolo: Il Confessore
 posizione: Prima fila, appena sotto Totò
 segni: Superficie uniforme, aspetto rassicurante, memoria infallibile

@@ -3,6 +3,9 @@ layout: guardiano
 numero: "02"
 nome: Mata Hari
 slug: mata-hari
+genere: f
+registro: B/2
+detto: per via delle striature, che cambiano aspetto a seconda di chi le guarda
 ruolo: L'Enigmatica
 posizione: Nord-ovest del tovagliolo, obliqua
 segni: Striature che cambiano apparenza quando il tovagliolo si asciuga

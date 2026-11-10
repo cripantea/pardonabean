@@ -56,6 +56,19 @@ I contatori in cima alla pagina e l'indice dei Guardiani si ricalcolano da soli;
 in home page (`{{ posta_tot }}`) pure. L'ancora di ogni lettera e' `/posta/#<slug>-<n>`,
 dove `n` e' la posizione della lettera dentro la sezione del Guardiano.
 
+## Nomi
+
+Ogni Guardiano ha due diciture. Il **codice di registro** (`registro`) e' solo archivio.
+Il **nome d'uso** (`nome`) e' quello che si legge ovunque, e `detto` ne spiega il motivo
+in una subordinata che inizia con "per via di". Il layout le compone nella formula
+"Fagiolo n. 01, iscritto come esemplare A/1 - detto Bud, per via di...".
+
+Due nomi sono stati deformati di proposito per non ricalcare un marchio registrato:
+Fantozzi e' diventato **Ugo Fantocci** e Mary Poppins e' diventata **Meri Poppins**.
+Lo slug di quest'ultima resta `mary-poppins` perche' l'URL /fagioli/mary-poppins/ e'
+gia' pubblico: non va cambiato. Onofrio e' "Il Marchese" e non "Il Marchese del Grillo",
+che e' un titolo di film.
+
 ## Schede dei Guardiani
 
 La biografia di un Guardiano sta in un posto solo: `_guardiani/<slug>.md`.
@@ -73,6 +86,9 @@ layout: guardiano
 numero: "01"          # usato per ordinare e per la navigazione prec/succ
 nome: Bud
 slug: bud             # deve combaciare con _data/posta.yml e _data/taccuini.yml
+registro: A/1         # codice d'archivio: lettera/numero, salta J e K (A..I, L)
+genere: f             # solo per Mata Hari e Meri Poppins: fa scrivere "detta"
+detto: per via della stazza e di una calma che nessuno ha ancora visto esaurirsi
 ruolo: Il Leader
 posizione: Centro esatto del tovagliolo
 segni: Macchia scura a forma di continente sul fianco sinistro

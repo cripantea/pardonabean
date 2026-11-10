@@ -3,6 +3,8 @@ layout: guardiano
 numero: "05"
 nome: Josef
 slug: josef
+registro: E/5
+detto: per via del piano quinquennale
 ruolo: L'Imperscrutabile
 posizione: Angolo nord, immobile
 segni: Superficie opaca, inespressiva, impossibile da interpretare

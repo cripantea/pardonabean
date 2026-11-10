@@ -3,11 +3,13 @@ layout: guardiano
 numero: "07"
 nome: Onofrio
 slug: onofrio
-ruolo: Il Marchese del Grillo
+registro: G/7
+detto: per via dei precedenti
+ruolo: Il Marchese
 posizione: Ovunque serva disturbare
 segni: Colorazione vivace, tendenza a rotolare quando non richiesto
 motto: Io so' io, e voi non siete un fagiolo.
-description: "Onofrio, Guardiano n° 07, il Marchese del Grillo: biografia, taccuino e corrispondenza del fagiolo che organizza scherzi notturni."
+description: "Onofrio, Guardiano n° 07, il Marchese: biografia, taccuino e corrispondenza del fagiolo che organizza scherzi notturni."
 ---
 
 Burlone di rango, irriverente per vocazione, convinto che l'essere stato estratto gli abbia

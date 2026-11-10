@@ -3,6 +3,8 @@ layout: guardiano
 numero: "01"
 nome: Bud
 slug: bud
+registro: A/1
+detto: per via della stazza e di una calma che nessuno ha ancora visto esaurirsi
 ruolo: Il Leader
 posizione: Centro esatto del tovagliolo
 segni: Macchia scura a forma di continente sul fianco sinistro

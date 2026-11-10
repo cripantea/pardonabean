@@ -1057,8 +1057,27 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
   font-size: 1.1rem;
   color: var(--grigio-tenue);
   font-style: italic;
-  margin: 0 0 2rem;
+  margin: 0 0 1.1rem;
 }
+
+/* La dicitura di registro: codice d'archivio + nome d'uso, con il motivo */
+.guardiano-registro {
+  font-family: var(--sans);
+  font-size: .82rem;
+  line-height: 1.65;
+  color: var(--grigio-tenue);
+  max-width: 34rem;
+  margin: 0 auto 2rem;
+  padding-top: .95rem;
+  border-top: 1px solid var(--bordo);
+}
+.guardiano-registro em {
+  font-style: normal;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  font-size: .95em;
+}
+.guardiano-registro strong { color: var(--inchiostro); font-weight: 600; }
 
 /* Ritratto: il fagiolo ritagliato dalla fotografia del conclave */
 .ritratto { margin: 0; }

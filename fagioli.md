@@ -11,9 +11,14 @@ di uno scontrino del supermercato via via che i nomi venivano fuori, e successiv
 trascritto in digitale per ragioni di conservazione storica. Non sono nomi di battesimo:
 sono i nomi con cui i Dieci si sono presentati, ciascuno a suo tempo e a suo modo.
 
+L'albo li iscrive con doppia dicitura: un codice d'archivio, che serve al registro, e un nome
+d'uso, che serve a tutti gli altri. La scheda di ciascun Guardiano riporta il motivo per cui
+quel nome gli è rimasto addosso. Dove la grafia si discosta da quella che il lettore si
+aspetta, è stata adattata per ragioni che il Custode non è autorizzato a specificare.
+
 Le posizioni indicate si riferiscono alla disposizione originale sul tovagliolo umido, assunta
 alle 11:19 di domenica 8 novembre 2026 e rimasta invariata fino alla mattina di martedì 10,
-quando Mary Poppins — unica autorità in materia — l'ha riordinata su quattro file
+quando Meri Poppins — unica autorità in materia — l'ha riordinata su quattro file
 ([il bollettino]({{ '/diario/2026/11/10/i-dieci-non-si-ricordano-niente/' | relative_url }})).
 Il registro conserva le posizioni storiche: sono quelle a cui si riferiscono la fotografia e i
 numeri.
@@ -55,9 +60,9 @@ già su un tovagliolo in un'altra stanza. La grazia non era un salvataggio: lo �
 | 04 | Don Vito | Il Sorvegliante | Bordo orientale |
 | 05 | Josef | L'Imperscrutabile | Angolo nord, immobile |
 | 06 | Ugo Fantocci | Il Perseguitato | Dove capita, male |
-| 07 | Onofrio | Il Marchese del Grillo | Ovunque serva disturbare |
+| 07 | Onofrio | Il Marchese | Ovunque serva disturbare |
 | 08 | Don Matteo | Il Confessore | Prima fila, appena sotto Totò |
-| 09 | Mary Poppins | La Precisa | Allineata al millimetro |
+| 09 | Meri Poppins | La Precisa | Allineata al millimetro |
 | 10 | Patrocle | Il Fedele | Un passo davanti a Bud |
 
 I numeri di questa tabella corrispondono a quelli della fotografia qui sopra e delle schede in
