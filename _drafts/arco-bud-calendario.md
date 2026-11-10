@@ -84,3 +84,59 @@ Bud: NIENTE nemmeno giovedi'. Ha parlato alla Posta, non al pozzo.
 4) In posta.html, aggiungere un quarto contatore dopo "Recapitata al Guardiano sbagliato":
    <li><strong>1</strong><span>Archiviata dove &egrave; arrivata la risposta</span></li>
    Verificare come cadono cinque riquadri sul telefono prima di pubblicare.
+
+
+=====================================================================
+CALENDARIO COMPLETO — confermato dall'autore il 10 novembre 2026
+=====================================================================
+
+MER 11 NOV   Taccuino soltanto. Ugo dice cosa ricorda, Josef consegna la
+             frase del mercoledi'. Il pozzo di Bud resta asciutto.
+
+GIO 12 NOV   "Nessuno aveva accusato Bud". Tre lettere non firmate, Ugo si
+             scusa alla lettura pubblica, Bud risponde in due frasi.
+             Chiusura: il Custode smentisce legami territoriali che nessuno
+             gli aveva contestato.
+
+VEN 13 - DOM 15   Le bustine. Contrappeso comico, tono leggero.
+             - Meri Poppins scrive alla redazione per sapere se IDROGERMINA
+               sia un prodotto serio, senza ammettere di averne gia' comprate
+               tre bustine. Il bisogno e' gia' pubblicato nella sua biografia:
+               "in parte per mancanza di zucchero".
+             - Venditori: lenticchie della dispensa, mai graziate. La satira
+               sta sul prodotto e sulle testimonianze false, mai sul venditore.
+             - Concessione sull'acqua venduta da Toto', che non la possiede e
+               che e' gratis (la fontana di Trevi).
+             - Pagamento in millimetri di posizione. L'anomalia e' gia' agli
+               atti: bollettino del 10, "un solo esemplare fuori allineamento
+               all'estremita' orientale", mai attribuito.
+             - Chiude l'AVVERTENZA del Custode: l'acqua la porta lui, gratis,
+               ogni mattina, e non ha mai chiesto niente a nessuno.
+               Nessuno gli crede. Piantato per la settimana dopo.
+
+SETT 16 NOV  COLPO DI SCENA: il Custode e' originario del comune di Corleone.
+             Rilegge all'indietro ogni sua nota premurosa e la smentita del 12.
+
+FINE SETT.   L'UNDICESIMO SI CHIAMA MICHELE. Non e' mai tornato nel sacchetto:
+             e' in Florida, in un albergo della famiglia. Servizio televisivo
+             visto dal Custode dal divano — LO STESSO divano delle 21:50 dell'8.
+             Al secondo trentaquattro Michele si accorge della telecamera e
+             tenta di nascondersi nella sabbia bollente.
+
+             Materiale gia' pubblicato che regge tutto:
+             - "i Dieci sono stati contati, non misurati. Lo scarto comprende
+               i dieci Eletti e un margine che l'interessato ha definito,
+               testualmente, «entro tolleranza»" (Tragedia, Il bilancio).
+               Michele vive dentro quelle due parole.
+             - "una massa compatta, nera, in cui non era piu' possibile
+               distinguere i singoli individui": non e' dimostrabile che sia
+               morto. Infalsificabile per iscritto.
+             - Motto di Don Vito: "Un giorno, e quel giorno forse non arrivera'
+               mai, ti chiedero' un servizio." E' una cambiale. Riscossa
+               domenica 8 alle 11:15.
+             - Biografia di Don Vito: Ugo gli deve un favore mai concesso.
+               Munizione ancora intatta, non spesa.
+
+REGOLA FISSA Ogni articolo contiene la fotografia del giorno e lo stato reale
+             della germinazione. Se spunta una radice, la radice ha la
+             precedenza su qualunque colpo di scena.
