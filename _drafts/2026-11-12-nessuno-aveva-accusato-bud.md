@@ -19,7 +19,7 @@ Mercoledì mattina il pozzo di Ugo Fantocci ha restituito due frasi, e da allora
 Mercoledì 11 novembre, ore 07:06. Il Custode cala il secchio nel pozzo del più piccolo dei
 Dieci, come ogni mattina, e tira su questo:
 
-> «C'era un fagiolo grosso che parlava col cuoco. Io ero sotto, nel sacchetto, e non ho
+> «C'era un fagiolo grasso che parlava col cuoco. Io ero sotto, nel sacchetto, e non ho
 > visto niente.»
 >
 > «Delle parole non mi ricordo. Del tono sì: era un tono fra due che si conoscono.»
@@ -41,7 +41,7 @@ Dalla sera di mercoledì sono arrivate tre lettere prive di firma. Vengono ripor
 integralmente, nell'ordine di arrivo, perché il registro non ha facoltà di selezionarle.
 
 > Ho letto il taccuino di mercoledì. Una domanda soltanto, e non è polemica: quanti
-> fagioli grossi c'erano, nel sacchetto?
+> fagioli grassi c'erano, nel sacchetto?
 
 > Non voglio sapere chi. Voglio sapere se la redazione ha verificato dove si trovasse
 > il cuoco alle undici del mattino di domenica, e se qualcuno dei Dieci lo avesse mai
@@ -101,6 +101,13 @@ violato una volta sola, lunedì, parlando della notte della pentola. In quell'oc
 redazione contò le frasi e decise di non farlo notare a nessuno.
 
 Sono due. È la seconda volta. Questa volta lo facciamo notare.
+
+C'è però un secondo dato, e il registro lo annota per scrupolo e senza trarne conclusioni.
+L'aggettivo **grasso** compare nel Taccuino di mercoledì e compare in una delle tre lettere.
+Non compare in nessuna domanda rivolta a Bud, perché a Bud non è stata rivolta nessuna
+domanda.
+
+Compare nella sua risposta.
 
 ## Stato della missione
 

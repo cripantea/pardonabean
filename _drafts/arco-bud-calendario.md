@@ -17,7 +17,7 @@ In _data/taccuini.yml, in testa alla lista di ciascuno:
 ugo-fantocci:
   - data: 2026-11-11
     frasi:
-      - C'era un fagiolo grosso che parlava col cuoco. Io ero sotto, nel sacchetto, e non ho visto niente.
+      - C'era un fagiolo grasso che parlava col cuoco. Io ero sotto, nel sacchetto, e non ho visto niente.
       - Delle parole non mi ricordo. Del tono sì: era un tono fra due che si conoscono.
     nota: >
       Raccolta alle 07:06. Ugo ha domandato se fosse il caso di trascriverla. Il
@@ -49,7 +49,7 @@ Bud: NIENTE. Il suo pozzo resta asciutto, ed e' la prima volta. Serve all'artico
       testo: >
         Non scrivo a nessuno in particolare. Ho letto sul Taccuino che qualcuno,
         la mattina dell'8, parlava col cuoco prima che il sacchetto venisse aperto,
-        e che era un fagiolo grosso. Non domando chi sia. Domando soltanto se la
+        e che era un fagiolo grasso. Non domando chi sia. Domando soltanto se la
         redazione ritenga possibile che quella mattina, dentro quel sacchetto,
         qualcuno si trovasse in una posizione diversa dagli altri.
       risposta: >
@@ -140,3 +140,43 @@ FINE SETT.   L'UNDICESIMO SI CHIAMA MICHELE. Non e' mai tornato nel sacchetto:
 REGOLA FISSA Ogni articolo contiene la fotografia del giorno e lo stato reale
              della germinazione. Se spunta una radice, la radice ha la
              precedenza su qualunque colpo di scena.
+
+
+=====================================================================
+LA POSIZIONE DI BUD — deciso dall'autore il 10 novembre
+=====================================================================
+
+Bud non ha comprato niente. A Bud e' stato OFFERTO UN POSTO NELLA FAMIGLIA.
+L'offerta arriva da Don Vito, che nello stesso momento riscuote la propria
+cambiale presso il Custode per salvare Michele.
+
+Perche' la famiglia aveva bisogno di Bud: se il Leader si agita, dieci fagioli
+si sparpagliano, il conteggio salta e qualcuno si accorge che erano undici.
+Il compito di Bud era che il numero non venisse mai messo in discussione.
+
+BUD NON HA MAI RISPOSTO ALL'OFFERTA, e questo non e' un vuoto: e' il
+meccanismo. La regola che si e' dato, pubblicata nella Posta dal primo giorno,
+dice "Bud risponde in una frase; se la risposta ne richiede due, Bud non
+risponde". Un'offerta di entrare in una famiglia non si declina in una frase.
+Quindi Bud non ha risposto. La famiglia ha interpretato il silenzio, e nessuno
+sapra' mai in che senso — nemmeno lui.
+
+Materiale gia' pubblicato che lo regge, da non riscrivere:
+ - "Al fatto che l'acqua arriva sempre, e che quella volta era arrivata
+   bollente E NON PER NOI." (sapeva)
+ - "Non comando: sto fermo al centro e gli altri si dispongono." (passivo:
+   e' stato messo li')
+ - "Si sta al centro per fare spazio, non per occuparlo."
+ - Guarda la porta della cucina prima di rispondere, tranne una volta.
+ - Motto in home dal primo giorno: "L'acqua arriva. L'acqua arriva sempre."
+   E' l'unica certezza che nessuno degli altri nove ha.
+
+Conseguenza per l'articolo del 12: Bud non dice mai "non sono stato io".
+Dice "non sono grasso". Si difende dall'accusa sbagliata. Il registro annota
+soltanto che l'aggettivo "grasso" compare nel Taccuino e nelle lettere, mai in
+una domanda rivolta a lui, e che compare nella sua risposta.
+
+Conseguenza per il finale: il ricordo di Ugo era ESATTO. C'era davvero un
+fagiolo grasso che parlava col cuoco, e non era Bud: era Michele. Testimone
+affidabile, identificazione sbagliata, due settimane di sospetti sul piu'
+piccolo per niente.
