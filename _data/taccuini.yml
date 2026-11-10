@@ -13,6 +13,12 @@
 # ---------------------------------------------------------------
 
 bud:
+  - data: 2026-11-10
+    frasi:
+      - Di domenica non mi risulta niente. Mi risulta che siamo dieci e che all'angolo nord il tovagliolo è asciutto.
+    nota: >
+      Raccolta alle 08:58. Il Custode ha domandato se ricordasse la notte della
+      pentola. Bud ha ripetuto la frase, identica, e si è girato verso la finestra.
   - data: 2026-11-09
     frasi:
       - Si sta al centro per fare spazio, non per occuparlo.
@@ -23,6 +29,13 @@ bud:
       arrivata la seconda.
 
 ugo-fantocci:
+  - data: 2026-11-10
+    frasi:
+      - Io me lo ricordo. Nessuno me lo chiede, ma io me lo ricordo.
+    nota: >
+      Raccolta alle 08:55. Il Custode osserva che Ugo quella notte non ha visto
+      niente più degli altri nove, e che il suo è quindi un ricordo di seconda
+      mano. Osserva anche di non avere alcuna intenzione di andarglielo a dire.
   - data: 2026-11-09
     frasi:
       - Questa carta assorbente è una cagata pazzesca.
@@ -34,6 +47,12 @@ ugo-fantocci:
       davvero, e alla terza si è scusato di avere insistito.
 
 mata-hari:
+  - data: 2026-11-10
+    frasi:
+      - Dimenticare è una tecnica. Non tutti quelli che la usano sanno di usarla.
+    nota: >
+      Raccolta alle 09:04. Alla richiesta di chiarire se stesse parlando dei nove
+      o di sé, Mata Hari ha risposto che la domanda era ben posta.
   - data: 2026-11-09
     frasi:
       - Da quando sono qui non ho detto niente di falso. Non ho nemmeno detto tutto.
@@ -64,6 +83,12 @@ don-vito:
       responsabilità e non ne rivendica il merito.
 
 josef:
+  - data: 2026-11-10
+    frasi:
+      - La memoria è un residuo del programma precedente. Il programma in corso non la prevede.
+    nota: >
+      Raccolta alle 08:51, prima della fotografia. Josef ha chiesto che la frase
+      fosse datata con precisione, cosa che il Custode ha fatto.
   - data: 2026-11-09
     frasi:
       - Il programma procede. Le deviazioni dal programma non esistono: esistono revisioni del programma.
@@ -83,6 +108,13 @@ onofrio:
       un potere discrezionale.
 
 don-matteo:
+  - data: 2026-11-10
+    frasi:
+      - Non si può assolvere chi non ricorda. Lo si può solo accompagnare.
+      - "Ai fagioli che verranno: qualcuno, per voi, se lo ricorderà."
+    nota: >
+      Raccolta alle 09:00, dopo che il Custode gli aveva riferito lo stato del
+      conclave. Don Matteo ha chiesto se il Custode avesse dormito.
   - data: 2026-11-09
     frasi:
       - Sul tovagliolo non c'è nessun cattivo. C'è che siamo tutti bagnati e nessuno lo ha scelto.
@@ -92,6 +124,12 @@ don-matteo:
       confessare a sua volta, Don Matteo ha risposto di tornare domani.
 
 mary-poppins:
+  - data: 2026-11-10
+    frasi:
+      - Erano storti. Adesso non lo sono più.
+    nota: >
+      Raccolta alle 08:53, unica dichiarazione resa sulla nuova disposizione del
+      conclave. Non sono state fornite altre spiegazioni e nessuno ne ha chieste.
   - data: 2026-11-09
     frasi:
       - L'ordine non è una virtù. È una misura, e la misura è quattro millimetri.
@@ -107,3 +145,7 @@ patrocle:
     nota: >
       Raccolta alle 07:15. Patrocle si era già presentato al pozzo alle 07:02,
       in anticipo, e aveva aspettato in piedi.
+
+# --- Raccolta di martedì 10 novembre 2026 -------------------------
+# Tema involontario della giornata: nessuno ricorda la notte del rogo.
+

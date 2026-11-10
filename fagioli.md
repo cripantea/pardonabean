@@ -12,10 +12,13 @@ trascritto in digitale per ragioni di conservazione storica. Non sono nomi di ba
 sono i nomi con cui i Dieci si sono presentati, ciascuno a suo tempo e a suo modo.
 
 Le posizioni indicate si riferiscono alla disposizione originale sul tovagliolo umido, assunta
-alle 11:19 di domenica 8 novembre 2026 e mai più modificata se non da Mary Poppins, che ha
-autorità in materia.
+alle 11:19 di domenica 8 novembre 2026 e rimasta invariata fino alla mattina di martedì 10,
+quando Mary Poppins — unica autorità in materia — l'ha riordinata su quattro file
+([il bollettino]({{ '/diario/2026/11/10/i-dieci-non-si-ricordano-niente/' | relative_url }})).
+Il registro conserva le posizioni storiche: sono quelle a cui si riferiscono la fotografia e i
+numeri.
 
-{% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e mai più modificata. Tocca un numero sulla fotografia, o un nome nella legenda, per aprire la scheda del Guardiano corrispondente." %}
+{% include conclave-mappa.html didascalia="I Dieci alle 07:00 di lunedì 9 novembre, nella disposizione assunta alle 11:19 di domenica e rimasta invariata fino a martedì mattina. Tocca un numero sulla fotografia, o un nome nella legenda, per aprire la scheda del Guardiano corrispondente." %}
 
 ## Nota metodologica sulla procedura di selezione {#nota-metodologica}
 
