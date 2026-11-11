@@ -1168,6 +1168,21 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
   color: var(--inchiostro);
   margin: 0 0 .7rem;
 }
+.perla-muta {
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--bordo);
+  letter-spacing: .1em;
+  margin: 0 0 .7rem;
+}
+.rilevazione {
+  font-family: var(--sans);
+  font-size: .82rem;
+  line-height: 1.65;
+  color: var(--grigio-tenue);
+  margin: 0 0 .2rem;
+}
+.rilevazione span { font-weight: 700; color: var(--inchiostro-soft); }
 .raccolta-nota {
   font-family: var(--sans);
   font-size: .82rem;

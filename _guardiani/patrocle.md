@@ -9,6 +9,13 @@ ruolo: Il Fedele
 posizione: Un passo davanti a Bud
 segni: Forma allungata, posizione sempre avanzata rispetto al gruppo
 motto: Tu reggi il centro. Al rubinetto ci penso io.
+premessa_taccuino: >
+  Patrocle ha parlato una volta sola, il 9 novembre, e da allora non ha
+  prodotto una frase. Continua a presentarsi al pozzo ogni mattina, in
+  anticipo, e ad aspettare in piedi. Il Custode ha smesso di trascrivere e
+  ha cominciato a registrare quello che c'è: l'ora, la presenza e la
+  direzione in cui è rivolto. Le virgolette restano aperte per correttezza
+  d'archivio.
 description: "Patrocle, Guardiano n° 10, il Fedele: biografia, taccuino e corrispondenza del fagiolo che porta il nome del cane di Lizuca."
 ---
 

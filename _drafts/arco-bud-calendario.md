@@ -196,3 +196,52 @@ Conseguenza per il finale: il ricordo di Ugo era ESATTO. C'era davvero un
 fagiolo grasso che parlava col cuoco, e non era Bud: era Michele. Testimone
 affidabile, identificazione sbagliata, due settimane di sospetti sul piu'
 piccolo per niente.
+
+
+=====================================================================
+LA PRIMA RADICE E LA CODA DI PATROCLE — deciso dall'autore l'11 novembre
+=====================================================================
+
+PRIMO A GERMOGLIARE: UGO FANTOCCI. Visto a pranzo dell'11, ripreso nella
+fotografia del 12. Esce nell'articolo del 12, in chiusura, dopo tutta la
+scena dell'accusa: l'unico che in quattro giorni abbia prodotto qualcosa
+e' quello che stamattina ha chiesto scusa.
+
+ATTRIBUZIONE. Il Custode ha pubblicato l'11 di non saper piu' dire chi sia
+chi. Non puo' rimangiarselo. Quindi dichiara la POSIZIONE, non il nome: la
+posizione corrisponde a quella che l'albo assegnava a Ugo, e il registro e'
+tenuto ad aggiungere che quelle posizioni valgono fino a martedi' mattina e
+da martedi' mattina non valgono piu'. Prova pubblicata, priva di valore.
+A chi venga intestata la prima radice diventa una questione: c'e' una
+famiglia che ha interesse a intestarla alla persona giusta.
+
+DA VERIFICARE SULLA FOTO DEL 12: il germoglio deve stare su una chiazza
+bagnata. L'11 e' pubblicato che almeno due esemplari poggiano su carta
+asciutta. Se germoglia uno all'asciutto, quella e' la notizia e l'articolo
+cambia.
+
+PATROCLE — tre fasi, confermate dall'autore:
+ 1. Fino al 9 nov ha parlato: due frasi, entrambe sull'acqua. Restano agli atti.
+ 2. Da allora e' muto. Si presenta al pozzo ogni mattina, in anticipo, aspetta
+    in piedi, e non esce niente. E' l'abbaiare silenzioso: il Custode registra
+    l'ora, la presenza e la DIREZIONE in cui e' rivolto. Virgolette vuote.
+    Prima voce muta: 12 nov, ore 09:38, rivolto alla porta della cucina.
+    Tre minuti prima che parli Ugo. Nessuno se n'e' accorto.
+ 3. SOLO QUANDO GLI SPUNTA IL GERMOGLIO ha una coda, e da li' in poi comunica
+    scodinzolando. Il Custode smette di trascrivere e comincia a misurare:
+    millimetri, direzione, orario. Patrocle non germoglia per primo: il
+    fagiolo che sta sempre un passo avanti aspetta il suo turno anche qui.
+
+MECCANICA GIA' IN PIEDI (fatta l'11 nov, nessun contenuto pubblicato):
+ - _layouts/guardiano.html: una voce di Taccuino senza "frasi" rende un paio
+   di virgolette vuote; campi facoltativi "direzione:" e "scodinzolio:".
+ - assets/css/style.css: .perla-muta e .rilevazione.
+ - _guardiani/patrocle.md: campo "premessa_taccuino" che sostituisce la
+   premessa standard solo sulla sua scheda.
+
+PERCHE' LO SCODINZOLIO VALE DOPPIO: la valuta delle bustine e' il millimetro
+di posizione (sab 14). Patrocle, scodinzolando, PRODUCE millimetri senza
+averli venduti. E' il rumore dentro la prova. Qualunque spostamento rilevato
+dopo il suo germoglio diventa ambiguo, e l'anomalia del bollettino del 10
+("un solo esemplare fuori allineamento all'estremita' orientale") non si
+potra' mai piu' attribuire con certezza. Non spenderlo subito.

@@ -55,10 +55,14 @@ layout: default
     <section class="guardiano-sezione" id="taccuino">
       <h2>Il Taccuino</h2>
       <p class="sezione-premessa">
+        {%- if page.premessa_taccuino %}
+        {{ page.premessa_taccuino | strip_newlines }}
+        {%- else %}
         A intervalli irregolari il Custode cala il secchio nel pozzo di saggezza di
         {{ page.nome }} e tira su una frase, al massimo due. Non sono dichiarazioni
         rilasciate: sono cose dette. Vengono trascritte qui perch&eacute; restino ai
         fagioli che verranno dopo.
+        {%- endif %}
       </p>
 
       {%- if voci and voci.size > 0 %}
@@ -69,11 +73,21 @@ layout: default
           <p class="raccolta-data">
             <time datetime="{{ r.data | date: '%Y-%m-%d' }}">{% include data-it.html date=r.data %}</time>
           </p>
+          {%- if r.frasi and r.frasi.size > 0 %}
           <ul class="perle">
             {%- for frase in r.frasi %}
             <li>&laquo;{{ frase }}&raquo;</li>
             {%- endfor %}
           </ul>
+          {%- else %}
+          <p class="perla-muta" aria-hidden="true">&laquo;&#8197;&raquo;</p>
+          {%- endif %}
+          {%- if r.direzione %}
+          <p class="rilevazione"><span>Direzione.</span> Nessuna parola. {{ r.direzione | strip_newlines }}</p>
+          {%- endif %}
+          {%- if r.scodinzolio %}
+          <p class="rilevazione"><span>Scodinzolio.</span> {{ r.scodinzolio | strip_newlines }}</p>
+          {%- endif %}
           {%- if r.nota %}
           <p class="raccolta-nota"><span>Circostanze.</span> {{ r.nota | strip_newlines }}</p>
           {%- endif %}
