@@ -250,3 +250,16 @@ modo per avere questi dati.
 
 Lo snippet è già predisposto, commentato, nell'`<head>` di `_layouts/default.html`:
 decommentarlo e sostituire `ca-pub-XXXXXXXXXXXXXXXX` con l'ID editore reale.
+
+## Card social (anteprima dei link)
+
+Ogni articolo del Diario ha la propria immagine di condivisione 1200x630, con
+dentro la fotografia di quel giorno. Si genera cosi', la mattina, subito dopo
+aver convertito la foto:
+
+    python3 strumenti/og-card.py assets/img/<foto-del-giorno>.jpg \
+      <slug-del-post> "<Titolo dell'articolo>" "<Data per esteso>"
+
+Lo script stampa la riga `immagine: /assets/img/og/<slug>.jpg` da incollare nel
+front matter del post, subito sotto `date:`. Le pagine che non hanno il campo
+`immagine` usano `assets/img/og-copertina.jpg`.

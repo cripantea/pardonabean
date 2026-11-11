@@ -2,6 +2,7 @@
 layout: post
 title: "I Dieci non si ricordano niente"
 date: 2026-11-10 09:20:00 +0100
+immagine: /assets/img/og/i-dieci-non-si-ricordano-niente.jpg
 tags: [germinazione, memoria, taccuino]
 description: "Secondo bollettino. I Dieci si sono gonfiati, hanno cambiato disposizione e della notte del rogo non conservano alcun segno. Uno solo se la ricorda."
 ---

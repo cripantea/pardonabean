@@ -2,6 +2,7 @@
 layout: post
 title: "Adesso si vede chi sta al centro"
 date: 2026-11-11 08:40:00 +0100
+immagine: /assets/img/og/adesso-si-vede-chi-sta-al-centro.jpg
 tags: [germinazione, conclave, disposizione]
 description: "Terzo bollettino. Le quattro file di martedì sono sparite e al loro posto c'è un perimetro con due fagioli dentro. Della radice, per ora, nessuna traccia."
 ---
