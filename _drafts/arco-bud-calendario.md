@@ -245,3 +245,51 @@ averli venduti. E' il rumore dentro la prova. Qualunque spostamento rilevato
 dopo il suo germoglio diventa ambiguo, e l'anomalia del bollettino del 10
 ("un solo esemplare fuori allineamento all'estremita' orientale") non si
 potra' mai piu' attribuire con certezza. Non spenderlo subito.
+
+
+=====================================================================
+IL SOGNO DI ONOFRIO — sab 14 e dom 15, proposto dall'autore l'11 novembre
+=====================================================================
+
+IDEA: Onofrio sogna due notti di fila il numero 934. Il 90034 e' il CAP di
+Corleone, da cui proviene il Custode. VERIFICATO: Corleone (PA), CAP 90034.
+
+Corre nel Taccuino, accanto all'articolo sulle bustine: non ruba la scena a
+Meri Poppins e rima con lei. Tutti cercano una scorciatoia, chi comprando
+acqua e chi giocando un sogno.
+
+SAB 14 — prima notte
+  Onofrio sogna 934. Lo racconta al pozzo, vuole giocarlo, e specifica la
+  ruota senza che nessuno gliel'abbia chiesta: PALERMO. Alla domanda perche'
+  Palermo, risponde che non lo sa. (Corleone e' in provincia di Palermo:
+  secondo innesco, indipendente dal CAP, e piu' divertente.)
+
+DOM 15 — seconda notte, numero identico
+  Il sogno torna uguale. Per chiunque sia cresciuto in Italia, questo e' il
+  segno che il numero va giocato.
+  TOTO' INTERPRETA. La smorfia e' napoletana e il napoletano e' lui: Onofrio
+  e' romano, sogna e basta. Totoqui si incaglia: la smorfia arriva a 90, e
+  934 non e' un numero, sono tre. A meno che non manchi uno zero che Onofrio
+  non ha visto perche' dormiva. Allora diventa 90 e 34:
+      90 = 'a paura      34 = 'a capa
+  La paura e la testa. Totoqui dichiara il sogno MAL RIUSCITO e torna a dormire.
+  Nessuno nota che il numero intero, con lo zero, fa 90034.
+
+LA NOTA DEL CUSTODE — e' qui che si gioca tutto
+  Resta super partes e scrive una cosa sola, con la sua solita pedanteria:
+  che il numero, nella forma con lo zero su cui Onofrio ha insistito,
+  corrisponde a un codice di avviamento postale italiano esistente, e che
+  IL REGISTRO SI E' FERMATO LI'.
+  Non dice quale comune. E' l'unico che potrebbe verificarlo in un secondo,
+  ed e' l'unico che non lo fa. Riletta la settimana dopo, questa e' la riga
+  piu' compromettente di tutto l'archivio.
+
+OPZIONE DA VALUTARE (annoda i due fili del fine settimana): Onofrio non ha
+niente da puntare e prova a scommettere MILLIMETRI DI POSIZIONE, che e' la
+valuta delle bustine. La ruota di Palermo e il mercato delle bustine
+finiscono per usare la stessa moneta.
+
+NON FARE: nessuno deve pronunciare "Corleone" prima della settimana del 16.
+Il Custode non reagisce, non si schermisce e non aggiunge smentite: ne ha
+gia' fatta una non richiesta il 12 ed e' il massimo che il personaggio puo'
+permettersi prima che il lettore insospettisca.
