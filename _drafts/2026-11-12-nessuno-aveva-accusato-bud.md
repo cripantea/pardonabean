@@ -3,55 +3,37 @@ layout: post
 title: "Nessuno aveva accusato Bud"
 date: 2026-11-12 10:00:00 +0100
 tags: [posta, memoria, istruttoria]
-description: "Tre lettere non firmate, un ricordo di seconda mano e una risposta che nessuno aveva chiesto. Il registro non cambia una riga."
+description: "Tre lettere non firmate, un ricordo detto ad alta voce e una risposta che nessuno aveva chiesto. Il registro non cambia una riga."
 ---
 
 Per quattro giorni questo sito ha sostenuto una cosa sola: che la selezione dell'8 novembre
 è stata cieca. Sacchetto da 400 grammi, due scosse, mano dentro senza guardare. Lo ha scritto
-nella nota metodologica, lo ha ripetuto in due bollettini e lo ha riassunto in una frase che
+nella nota metodologica, lo ha ripetuto in tre bollettini e lo ha riassunto in una frase che
 il Custode considera tuttora la più onesta mai pubblicata qui: **la grazia non premia, capita.**
 
-Mercoledì mattina il pozzo di Ugo Fantocci ha restituito due frasi, e da allora il registro
-è costretto a fare una cosa che non aveva previsto di fare: istruire.
+Mercoledì mattina il registro ha pubblicato un'ammissione. Il Custode non è più in grado di
+dire quale fagiolo sia quale: li conta, sono dieci, e di quale sia quale non sa rispondere.
+L'ha scritto perché era vero e perché tacerlo sarebbe stato peggio.
 
-## Il ricordo
-
-Mercoledì 11 novembre, ore 07:06. Il Custode cala il secchio nel pozzo del più piccolo dei
-Dieci, come ogni mattina, e tira su questo:
-
-> «C'era un fagiolo grasso che parlava col cuoco. Io ero sotto, nel sacchetto, e non ho
-> visto niente.»
->
-> «Delle parole non mi ricordo. Del tono sì: era un tono fra due che si conoscono.»
-
-Il Custode ha trascritto senza commentare, come è suo obbligo, e ha archiviato la raccolta
-alle 07:09. Alle 07:11 ha riletto quello che aveva scritto.
-
-Vanno dette due cose, e vanno dette subito. La prima è che Ugo quella mattina era dentro il
-sacchetto insieme agli altri trecentonovantanove, e che un fagiolo dentro un sacchetto di
-carta non vede niente: sente. La seconda è che martedì, al Taccuino, Ugo aveva già detto
-*«io me lo ricordo, nessuno me lo chiede, ma io me lo ricordo»*, e il Custode lo aveva
-archiviato come un ricordo di seconda mano senza domandargli di cosa stesse parlando.
-
-Non glielo aveva domandato nessuno per due giorni.
+Nel giro di dodici ore sono arrivate tre lettere prive di firma.
 
 ## Tre lettere non firmate
 
-Dalla sera di mercoledì sono arrivate tre lettere prive di firma. Vengono riportate
-integralmente, nell'ordine di arrivo, perché il registro non ha facoltà di selezionarle.
+Vengono riportate integralmente, nell'ordine di arrivo, perché il registro non ha facoltà di
+selezionarle.
 
-> Ho letto il taccuino di mercoledì. Una domanda soltanto, e non è polemica: quanti
-> fagioli grassi c'erano, nel sacchetto?
+> Avete scritto stamattina che non sapete più chi sia quale. Vi faccio allora una domanda
+> sola, e scusate la brutalità: quando è stato deciso chi sta al centro, lo sapevate?
 
-> Non voglio sapere chi. Voglio sapere se la redazione ha verificato dove si trovasse
-> il cuoco alle undici del mattino di domenica, e se qualcuno dei Dieci lo avesse mai
-> visto prima di quel momento.
+> Non voglio sapere chi. Voglio sapere se la redazione ha verificato dove si trovasse il
+> cuoco alle undici del mattino di domenica, e se qualcuno dei Dieci lo avesse mai visto
+> prima di quel momento.
 
 > Il vostro registro dice che nessuno dei dieci è stato scelto per una qualità propria.
 > Vi chiedo di rileggere quella frase ad alta voce e di dirmi se ci credete ancora.
 
-Nessuna delle tre fa un nome. Il registro lo mette a verbale perché è l'unico dato
-oggettivo di tutta questa vicenda: **nessuno, finora, ha accusato nessuno.**
+Nessuna delle tre fa un nome. Il registro lo mette a verbale perché è l'unico dato oggettivo
+di tutta questa vicenda: **nessuno, finora, ha accusato nessuno.**
 
 ## La lettura al conclave
 
@@ -59,20 +41,39 @@ Giovedì mattina, ore 09:38, il Custode ha letto le tre lettere ad alta voce dav
 riuniti, come prevede la procedura quando la corrispondenza riguarda il conclave nel suo
 insieme. Ha letto senza inflessione e senza aggiungere niente di proprio.
 
-Alla terza lettera, prima che la lettura fosse conclusa, ha parlato Ugo Fantocci.
+Alla terza lettera, prima che la lettura fosse conclusa, ha parlato Ugo Fantocci. Erano le
+09:41. È la prima dichiarazione raccolta da martedì: ieri il secchio era tornato su vuoto da
+tutti e dieci i pozzi.
 
-> «Non sono stato io.»
+> «C'era un fagiolo grasso che parlava col cuoco. Non ho visto niente, ero nel sacchetto come
+> tutti. Del tono mi ricordo: era un tono fra due che si conoscono.»
 
 E dopo circa quattro secondi:
 
 > «Comunque chiedo scusa.»
 
-Il Custode mette a verbale di non avere rivolto domande a nessuno, di non avere fatto nomi
-e di non avere nutrito, fino a quel momento, il minimo sospetto nei confronti di Ugo. Lo
-mette a verbale perché da quel momento in poi il conclave ne ha avuto uno.
+Il Custode mette a verbale di non avere rivolto domande a nessuno, di non avere fatto nomi e
+di non avere nutrito, fino a quel momento, il minimo sospetto nei confronti di Ugo. Lo mette
+a verbale perché da quel momento in poi il conclave ne ha avuto uno.
+
+Va aggiunto, per completezza e senza attribuirgli peso, che martedì Ugo aveva già dettato
+*«io me lo ricordo, nessuno me lo chiede, ma io me lo ricordo»*, e che il registro lo aveva
+archiviato come ricordo di seconda mano senza domandargli di cosa stesse parlando. Non glielo
+ha domandato per due giorni.
 
 Mata Hari ha dettato una frase sola, alle 09:52: *«Chi si scusa per primo non è mai il primo
 ad avere fatto qualcosa.»* È l'unica difesa che Ugo abbia ricevuto e Ugo non se n'è accorto.
+
+## Un'assenza che il registro è tenuto a segnalare
+
+Lunedì mattina Josef, richiesto di una seconda frase, aveva risposto che la seconda frase era
+**prevista per il mercoledì**. Il registro l'aveva trascritto come una stranezza di carattere.
+
+Mercoledì Josef non ha detto niente.
+
+È l'unico dei Dieci che tenga un calendario, ed è l'unico ad aver mancato un appuntamento che
+si era fissato da solo. Il registro non ne trae conclusioni e si limita a osservare che un
+programma che salta una data è un programma che è stato rivisto.
 
 ## Una precisazione che non serve a niente
 
@@ -89,9 +90,9 @@ due volte. Il Custode si rende conto che non serve a niente.
 A Bud non è stata posta nessuna domanda. Non compare nelle lettere, non è stato nominato
 durante la lettura, non è stato convocato.
 
-Mercoledì il suo pozzo non ha dato niente: è la prima volta da quando il Taccuino esiste.
-Giovedì mattina ha dettato, e non al Taccuino. Ha dettato alla Posta, in risposta a una
-lettera non firmata che non lo nominava.
+Mercoledì il suo pozzo non ha dato niente, come quello di tutti gli altri. Giovedì mattina ha
+dettato, e non al Taccuino. Ha dettato alla Posta, in risposta a una lettera non firmata che
+poneva una domanda di metodo sulla mattina dell'8 novembre e che non lo nominava.
 
 > **«Non sono grasso. È muscolo.»**
 
@@ -103,9 +104,10 @@ redazione contò le frasi e decise di non farlo notare a nessuno.
 Sono due. È la seconda volta. Questa volta lo facciamo notare.
 
 C'è però un secondo dato, e il registro lo annota per scrupolo e senza trarne conclusioni.
-L'aggettivo **grasso** compare nel Taccuino di mercoledì e compare in una delle tre lettere.
-Non compare in nessuna domanda rivolta a Bud, perché a Bud non è stata rivolta nessuna
-domanda.
+L'aggettivo **grasso** è stato pronunciato una volta sola in tutta questa vicenda: alle 09:41
+di giovedì, da Ugo Fantocci, davanti al conclave riunito. Non compare in nessuna delle tre
+lettere. Non compare nella lettera a cui Bud ha risposto. Non compare in nessuna domanda
+rivolta a Bud, perché a Bud non è stata rivolta nessuna domanda.
 
 Compare nella sua risposta.
 
