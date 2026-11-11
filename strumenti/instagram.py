@@ -83,18 +83,23 @@ def piede(d, x, larg, y):
 
 # ----------------------------------------------------------- immagine profilo
 def tondo():
+    """Instagram ritaglia un cerchio dal centro e lo mostra a 40 pixel: il
+    fagiolo deve riempire il quadro, non posarci dentro."""
     lato = 1080
+    f = Image.open("assets/img/ritratti/bud.jpg").convert("RGB")
+    # riquadro effettivo del fagiolo: tutto cio' che non e' fondo chiaro
+    g = f.convert("L"); w, h = g.size; px = g.load()
+    xs = [x for x in range(w) for y in range(0, h, 3) if px[x, y] < 215]
+    ys = [y for y in range(h) for x in range(0, w, 3) if px[x, y] < 215]
+    x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys)
+    m = int(max(x1 - x0, y1 - y0) * 0.06)
+    f = f.crop((max(0, x0 - m), max(0, y0 - m), min(w, x1 + m), min(h, y1 + m)))
+
+    # largo 860: resta dentro il cerchio perche' il fagiolo e' piu' basso che largo
+    largo = 860
+    f = f.resize((largo, max(1, round(f.height * largo / f.width))), Image.LANCZOS)
     tela = Image.new("RGB", (lato, lato), CARTA)
-    d = ImageDraw.Draw(tela)
-    fagiolo = Image.open("assets/img/ritratti/bud.jpg").convert("RGB")
-    dim = 620
-    fagiolo = riempi(fagiolo, dim, dim)
-    # maschera tonda, cosi' il fagiolo non ha spigoli dentro il cerchio di IG
-    m = Image.new("L", (dim, dim), 0)
-    ImageDraw.Draw(m).ellipse([0, 0, dim, dim], fill=255)
-    tela.paste(fagiolo, ((lato - dim) // 2, (lato - dim) // 2 - 10), m)
-    d.ellipse([(lato - dim) // 2, (lato - dim) // 2 - 10,
-               (lato + dim) // 2, (lato + dim) // 2 - 10], outline=BORDO, width=4)
+    tela.paste(f, ((lato - f.width) // 2, (lato - f.height) // 2))
     os.makedirs(FUORI, exist_ok=True)
     tela.save(FUORI + "/profilo-tondo.jpg", quality=92)
     return FUORI + "/profilo-tondo.jpg"
