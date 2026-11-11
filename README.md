@@ -263,3 +263,17 @@ aver convertito la foto:
 Lo script stampa la riga `immagine: /assets/img/og/<slug>.jpg` da incollare nel
 front matter del post, subito sotto `date:`. Le pagine che non hanno il campo
 `immagine` usano `assets/img/og-copertina.jpg`.
+
+## Instagram
+
+Profilo `@pardonabean`. Il materiale si genera con:
+
+    python3 strumenti/instagram.py tondo      # immagine del profilo
+    python3 strumenti/instagram.py apertura   # i nove post d'apertura
+    python3 strumenti/instagram.py giorno assets/img/<foto>.jpg \
+      "<Occhiello>" "<Titolo>" <nome-file>    # il post del giorno
+
+Esce tutto in `social/`, che e' escluso dal sito e non viene mai pubblicato.
+Le didascalie pronte stanno in `social/didascalie.md`. Lo script toglie dalle
+fotografie la fascia con i dati dello scatto che stampa il telefono; sul sito
+quella fascia resta, perche' riporta data e ora e fa da documento.

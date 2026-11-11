@@ -95,6 +95,9 @@
       <p class="footer-meta">
         Redatto dal <em>{{ site.author }}</em> su tovagliolo umido &middot;
         <a href="{{ '/diario/' | relative_url }}">Archivio del Diario</a>
+        {%- if site.instagram %}
+        &middot; <a href="https://www.instagram.com/{{ site.instagram }}/" rel="me noopener">Instagram</a>
+        {%- endif %}
         &middot; <a href="{{ '/privacy/' | relative_url }}">Privacy e cookie</a>
         {%- if site.analytics.provider != "" and site.analytics.code != "" and site.analytics.nota_privacy and site.analytics.provider != "google" %}
         &middot; Statistiche anonime, senza cookie

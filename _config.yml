@@ -53,9 +53,13 @@ author: "Il Custode del Tovagliolo"
 lang: it
 
 # Esclusioni dal build
+instagram: pardonabean
+
 exclude:
   - README.md
   - tools
+  - strumenti
+  - social
   - Gemfile
   - Gemfile.lock
   - vendor
