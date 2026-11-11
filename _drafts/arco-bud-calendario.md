@@ -97,21 +97,38 @@ GIO 12 NOV   "Nessuno aveva accusato Bud". Tre lettere non firmate, Ugo si
              Chiusura: il Custode smentisce legami territoriali che nessuno
              gli aveva contestato.
 
-VEN 13 - DOM 15   Le bustine. Contrappeso comico, tono leggero.
-             - Meri Poppins scrive alla redazione per sapere se IDROGERMINA
-               sia un prodotto serio, senza ammettere di averne gia' comprate
-               tre bustine. Il bisogno e' gia' pubblicato nella sua biografia:
-               "in parte per mancanza di zucchero".
-             - Venditori: lenticchie della dispensa, mai graziate. La satira
-               sta sul prodotto e sulle testimonianze false, mai sul venditore.
-             - Concessione sull'acqua venduta da Toto', che non la possiede e
-               che e' gratis (la fontana di Trevi).
-             - Pagamento in millimetri di posizione. L'anomalia e' gia' agli
-               atti: bollettino del 10, "un solo esemplare fuori allineamento
-               all'estremita' orientale", mai attribuito.
-             - Chiude l'AVVERTENZA del Custode: l'acqua la porta lui, gratis,
-               ogni mattina, e non ha mai chiesto niente a nessuno.
-               Nessuno gli crede. Piantato per la settimana dopo.
+VEN 13 - DOM 15   LE BUSTINE. Contrappeso comico, tono leggero.
+             Tre giorni, tre tempi: la pubblicita', la scoperta, la smentita.
+
+ VEN 13 — compare IDROGERMINA
+   - Il prodotto: bustine di acqua con sali minerali e zucchero, prezzi
+     stracciati, indicate per via extramitida.
+   - Venditori: lenticchie della dispensa, mai graziate. La satira sta sul
+     prodotto e sulle testimonianze false, mai sul venditore.
+   - Concessione sull'acqua venduta da Toto', che non la possiede e che e'
+     gratis.
+   - Nessun nome fra i dieci. Agli atti, nessuno ha ancora comprato niente.
+
+ SAB 14 — MERI POPPINS VIENE TROVATA CON LE BUSTINE   <-- il giorno chiesto
+   - Non viene accusata e non viene perquisita: si denuncia da sola, come Bud.
+     Deposita una richiesta di parere ufficiale per sapere se la posologia di
+     IDROGERMINA sia compatibile con la regola dei quattro millimetri, e nel
+     farlo cita le istruzioni stampate sulla bustina. Quelle istruzioni si
+     leggono solo avendone una in mano. Ne ha tre.
+   - Il pagamento era in millimetri di posizione. Lei e' l'unica che i
+     millimetri li assegna. Lo scandalo non sono le bustine: e' il custode
+     della regola che vende la regola.
+   - Prova gia' agli atti dal bollettino del 10: "un solo esemplare fuori
+     allineamento all'estremita' orientale", mai attribuito. Adesso ha un
+     prezzo.
+   - Movente gia' pubblicato nella sua biografia: "in parte per mancanza di
+     zucchero". Depositato da settimane, mai speso.
+
+ DOM 15 — l'avvertenza che non serve a niente
+   - AVVERTENZA del Custode: l'acqua la porta lui, gratis, ogni mattina, e
+     non ha mai chiesto niente a nessuno. Nessuno gli crede.
+   - E' la seconda smentita non richiesta in quattro giorni, dopo quella del
+     12 sui legami territoriali. Piantato per la settimana dopo: Corleone.
 
 SETT 16 NOV  COLPO DI SCENA: il Custode e' originario del comune di Corleone.
              Rilegge all'indietro ogni sua nota premurosa e la smentita del 12.
