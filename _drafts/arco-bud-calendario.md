@@ -323,3 +323,29 @@ dentro un pezzo. Si esprime SOLO in fatti:
   - nessuno dei Dieci chiede cosa ci fosse dentro, tranne per curiosita'.
 Regola: il sito non accusa nessuno di dimenticare. Mostra quanto e'
 ragionevole, comodo e veloce dimenticare. L'accusa la tira il lettore.
+
+-----------------------------------------------------------------
+IL PROCEDIMENTO CONTRO LA PENTOLA (12 nov, memoriale) — meccanica
+riutilizzabile
+-----------------------------------------------------------------
+Idea dell'autore: "forse e' una pentola di dubbi valori morali?"
+Resa cosi': il conclave apre davvero un processo all'oggetto.
+  - capi 1 e 3 (ha scaldato, si e' fatta riempire di nuovo):
+    assolta per DIFETTO DI VOLONTA'.
+  - capo 2 (e' tornata a sembrare se stessa): il registro si
+    dichiara INCOMPETENTE, perche' una pentola non si lava da sola.
+    L'ora e' gia' pubblicata dal 9 nov: "07:20 pentola in ammollo
+    con bicarbonato", archiviata sotto Bonifica. L'atto di
+    cancellazione era agli atti da tre giorni e nessuno lo aveva
+    letto come tale.
+  - chiusura: "un processo che non si puo' perdere non e' un
+    processo, e' un sollievo". Contro chi dormiva sul divano
+    nessuno ha aperto niente in quattro giorni: non per indulgenza,
+    perche' quello verrebbe ricevuto.
+  - Patrocle si gira verso il tavolo. Unica difesa, da chi non
+    parla. Mai dichiararlo: solo la direzione a verbale.
+
+REGOLA GENERALE: ogni volta che il sito ha la tentazione di
+processare un oggetto, lo fa, lo porta fino in fondo e poi mostra
+perche' era cosi' facile. Il colpevole comodo e' sempre quello che
+non puo' rispondere.

@@ -238,6 +238,48 @@ pentola non si contesta niente, ha dichiarato che allora la questione non esiste
 la frase che è stata raccolta nel suo [Taccuino]({{ '/fagioli/josef/' | relative_url }}). Non ha
 chiesto cosa ci fosse dentro.
 
+### Il procedimento contro la pentola
+
+Nel pomeriggio è stata sollevata una questione ulteriore, che il registro riporta nella forma
+esatta in cui gli è arrivata: se non si tratti, tutto sommato, di **una pentola di dubbi valori
+morali**.
+
+La questione è stata istruita. Don Matteo ha impartito l'assoluzione prima dell'apertura del
+procedimento e ha chiesto che il verbale ne desse atto nell'ordine corretto; il Custode ha
+accolto la richiesta e ha formulato tre capi d'imputazione.
+
+1. **Avere condotto calore per ottantasei minuti senza segnalare nulla.** Agli atti, dalle 21:35
+   alle 23:01, la pentola non ha emesso alcun avviso diverso da quelli previsti dalla fisica.
+2. **Avere cambiato colore due volte.** Da rosso a nero nella notte dell'8, da nero a rosso la
+   mattina del 9. Il capo d'imputazione non riguarda il primo mutamento: riguarda il secondo.
+3. **Avere accettato un reimpiego** a settantadue ore dalla bonifica, senza condizioni e senza
+   domande.
+
+Sul punto 1 e sul punto 3 il procedimento si è chiuso in pochi minuti. **Difetto di volontà.**
+Una pentola non delibera di scaldare e non delibera di accogliere: fa l'una e l'altra cosa
+perché le viene messa sotto una fiamma e dentro degli spaghetti. Don Matteo ha osservato, e il
+registro trascrive volentieri, che accusare una pentola è l'unico modo di farle un complimento:
+le si riconosce che avrebbe potuto fare diversamente.
+
+Durante l'istruttoria Patrocle si è girato verso il tavolo. Il Custode registra la direzione,
+come fa dal 9 novembre, e non sostiene che significhi qualcosa. Agli atti resta che l'unico
+elemento somigliante a una difesa è arrivato da chi non parla.
+
+Sul punto 2 il registro si è dichiarato **incompetente**, e qui il procedimento è finito male
+per tutti. Una pentola non si lava da sola. L'addebito di essere tornata a sembrare se stessa
+non è un addebito alla pentola: è un addebito a chi l'ha riportata a quello stato, e l'ora è
+agli atti di questa stessa pagina da tre giorni. **Lunedì 9 novembre, ore 07:20**, alla voce
+*Bonifica*: «Pentola lasciata in ammollo con bicarbonato». Nessuno l'aveva notata, perché era
+archiviata come una faccenda di pulizie.
+
+Il procedimento è stato quindi dichiarato chiuso, e il registro mette a verbale la ragione per
+cui era stato aperto con tanta facilità. Un imputato che non può rispondere, non può soffrire e
+non può essere condannato a niente che costi qualcosa a qualcuno è un imputato comodo. **Un
+processo che non si può perdere non è un processo: è un sollievo.**
+
+Contro la persona che quella notte dormiva sul divano non è stato aperto alcun procedimento, in
+quattro giorni, da nessuno. Non per indulgenza. Perché quello verrebbe ricevuto.
+
 ### Quello che il registro è tenuto ad aggiungere
 
 Il fondo è stato strofinato con il bicarbonato la mattina del 9 e da allora è di nuovo grigio.
