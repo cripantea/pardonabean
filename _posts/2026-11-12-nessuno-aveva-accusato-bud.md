@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Nessuno aveva accusato Bud"
-date: 2026-11-12 10:00:00 +0100
+date: 2026-11-12 07:56:00 +0100
 tags: [posta, memoria, istruttoria]
+immagine: /assets/img/og/nessuno-aveva-accusato-bud.jpg
 description: "Tre lettere non firmate, un ricordo detto ad alta voce e una risposta che nessuno aveva chiesto. Il registro non cambia una riga."
 ---
 
@@ -37,12 +38,12 @@ di tutta questa vicenda: **nessuno, finora, ha accusato nessuno.**
 
 ## La lettura al conclave
 
-Giovedì mattina, ore 09:38, il Custode ha letto le tre lettere ad alta voce davanti ai Dieci
+Giovedì mattina, ore 07:38, il Custode ha letto le tre lettere ad alta voce davanti ai Dieci
 riuniti, come prevede la procedura quando la corrispondenza riguarda il conclave nel suo
 insieme. Ha letto senza inflessione e senza aggiungere niente di proprio.
 
 Alla terza lettera, prima che la lettura fosse conclusa, ha parlato Ugo Fantocci. Erano le
-09:41. È la prima dichiarazione raccolta da martedì: ieri il secchio era tornato su vuoto da
+07:41. È la prima dichiarazione raccolta da martedì: ieri il secchio era tornato su vuoto da
 tutti e dieci i pozzi.
 
 > «C'era un fagiolo grasso che parlava col cuoco. Non ho visto niente, ero nel sacchetto come
@@ -61,7 +62,7 @@ Va aggiunto, per completezza e senza attribuirgli peso, che martedì Ugo aveva g
 archiviato come ricordo di seconda mano senza domandargli di cosa stesse parlando. Non glielo
 ha domandato per due giorni.
 
-Mata Hari ha dettato una frase sola, alle 09:52: *«Chi si scusa per primo non è mai il primo
+Mata Hari ha dettato una frase sola, alle 07:52: *«Chi si scusa per primo non è mai il primo
 ad avere fatto qualcosa.»* È l'unica difesa che Ugo abbia ricevuto e Ugo non se n'è accorto.
 
 ## Un'assenza che il registro è tenuto a segnalare
@@ -104,7 +105,7 @@ redazione contò le frasi e decise di non farlo notare a nessuno.
 Sono due. È la seconda volta. Questa volta lo facciamo notare.
 
 C'è però un secondo dato, e il registro lo annota per scrupolo e senza trarne conclusioni.
-L'aggettivo **grasso** è stato pronunciato una volta sola in tutta questa vicenda: alle 09:41
+L'aggettivo **grasso** è stato pronunciato una volta sola in tutta questa vicenda: alle 07:41
 di giovedì, da Ugo Fantocci, davanti al conclave riunito. Non compare in nessuna delle tre
 lettere. Non compare nella lettera a cui Bud ha risposto. Non compare in nessuna domanda
 rivolta a Bud, perché a Bud non è stata rivolta nessuna domanda.
@@ -113,7 +114,50 @@ Compare nella sua risposta.
 
 ## Stato della missione
 
-[DA COMPILARE GIOVEDÌ MATTINA CON LA FOTOGRAFIA E LO STATO REALE DELLA GERMINAZIONE.]
+<figure class="figure-ritratto">
+  <img src="{{ '/assets/img/conclave-giovedi.jpg' | relative_url }}"
+       alt="I dieci fagioli borlotti fotografati giovedì 12 novembre: due esemplari hanno emesso una radichetta bianca, il più avanzato all'estremità orientale del gruppo, staccato dagli altri."
+       width="1080" height="1920" loading="lazy" decoding="async">
+  <figcaption>Giovedì 12 novembre, mattina. Quarto giorno. Due radichette.</figcaption>
+</figure>
+
+Quarto giorno. I Dieci sono dieci: il conteggio è stato eseguito tre volte, con lo stesso esito.
+
+Per la prima volta dall'8 novembre il tovagliolo ha qualcosa da mostrare. **Due esemplari hanno
+emesso la radichetta.**
+
+Il primo si trova all'estremità orientale del gruppo, staccato dagli altri. La radichetta è
+uscita interamente dal seme, è bianca, curva verso il basso e misura all'incirca un centimetro:
+è l'unica, allo stato, che poggi sulla carta per la propria lunghezza. Accanto a essa il
+tovagliolo presenta l'unica chiazza di umidità ancora visibile a occhio nudo.
+
+Il registro è tenuto a segnalare una coincidenza, e a non commentarla. Il bollettino di martedì
+annotava, fra le anomalie della disposizione, *«un solo esemplare fuori allineamento
+all'estremità orientale»*. L'anomalia non fu attribuita a nessuno e nessuno la rivendicò.
+L'esemplare fuori allineamento è il primo ad avere messo radice.
+
+Il secondo si trova nella fascia alta, verso il centro. La radichetta è emersa dall'ilo ma corre
+ancora lungo il corpo del seme e non ne ha oltrepassato il profilo. In termini di registro: è
+uscita, non è partita.
+
+Degli altri otto, almeno due presentano il tegumento visibilmente aperto in corrispondenza
+dell'ilo, senza radichetta. I rimanenti sono integri.
+
+Il Custode non è in grado di dire chi siano. Vale quanto scritto ieri: le bucce si sono
+gonfiate, le striature si sono allargate e i segni particolari depositati nell'albo descrivevano
+fagioli asciutti. Può dichiarare una posizione, non un nome. La posizione dell'esemplare
+orientale corrisponde a quella che l'albo assegnava a **Ugo Fantocci** &mdash; e il registro è
+tenuto ad aggiungere, nella stessa frase, che le posizioni dell'albo valgono fino a martedì
+mattina e che da martedì mattina non valgono più.
+
+La disposizione di ieri, otto lungo il perimetro e due all'interno, non è più leggibile. Il
+gruppo si è allentato su tre fasce irregolari e non se ne ricava nessuna gerarchia. Chi stava al
+centro mercoledì, oggi non sta al centro di niente.
+
+Resta un dato di cronologia, che il registro riporta perché è l'unico di cui disponga. Una
+radichetta di un centimetro non esce in un'ora: era già fuori quando il conclave si è riunito.
+Alle 07:41, quando ha chiesto scusa, l'unico dei Dieci ad avere fatto qualcosa aveva già
+cominciato a farla da un pezzo.
 
 ## Quello che il registro continua a sostenere
 

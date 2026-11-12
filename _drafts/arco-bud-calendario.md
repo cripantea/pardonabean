@@ -23,7 +23,7 @@ CONSEGUENZE sull'articolo del 12, gia' applicate alla bozza:
    Un cronista che dichiara di non distinguere piu' i suoi dieci soggetti
    invita da solo le domande scomode. Se l'e' tirata addosso lui.
  - La testimonianza di Ugo esce DAL VIVO alla lettura delle lettere, alle
-   09:41, non dal pozzo. Testimonianza e scusa nella stessa battuta.
+   07:41, non dal pozzo. Testimonianza e scusa nella stessa battuta.
  - "GRASSO" NON COMPARE PIU' IN NESSUNA LETTERA. E' pronunciato una volta
    sola, a voce, in presenza del conclave. Bud lo raccoglie e lo usa
    rispondendo per iscritto a una lettera che non lo contiene: era nella
@@ -66,7 +66,7 @@ ugo-fantocci:
       - C'era un fagiolo grasso che parlava col cuoco. Non ho visto niente, ero nel sacchetto come tutti. Del tono mi ricordo: era un tono fra due che si conoscono.
       - Comunque chiedo scusa.
     nota: >
-      Detta alle 09:41, ad alta voce, durante la lettura delle tre lettere. Il
+      Detta alle 07:41, ad alta voce, durante la lettura delle tre lettere. Il
       Custode non aveva rivolto domande a nessuno e non aveva fatto nomi. Ugo ha
       parlato per primo.
 
@@ -75,7 +75,7 @@ mata-hari:
     frasi:
       - Chi si scusa per primo non è mai il primo ad avere fatto qualcosa.
     nota: >
-      Raccolta alle 09:52. È l'unica difesa che Ugo abbia ricevuto e il Custode
+      Raccolta alle 07:52. È l'unica difesa che Ugo abbia ricevuto e il Custode
       osserva che Ugo non se n'è accorto.
 
 Bud: NIENTE nemmeno giovedi'. Ha parlato alla Posta, non al pozzo.
@@ -225,7 +225,7 @@ PATROCLE — tre fasi, confermate dall'autore:
  2. Da allora e' muto. Si presenta al pozzo ogni mattina, in anticipo, aspetta
     in piedi, e non esce niente. E' l'abbaiare silenzioso: il Custode registra
     l'ora, la presenza e la DIREZIONE in cui e' rivolto. Virgolette vuote.
-    Prima voce muta: 12 nov, ore 09:38, rivolto alla porta della cucina.
+    Prima voce muta: 12 nov, ore 07:38, rivolto alla porta della cucina.
     Tre minuti prima che parli Ugo. Nessuno se n'e' accorto.
  3. SOLO QUANDO GLI SPUNTA IL GERMOGLIO ha una coda, e da li' in poi comunica
     scodinzolando. Il Custode smette di trascrivere e comincia a misurare:
