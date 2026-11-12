@@ -555,150 +555,91 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 }
 
 /* --------------------------------------------------------------
-   10-ter. Striscia del giorno
+   10-bis. Apertura: la notizia del giorno
    -------------------------------------------------------------- */
-.striscia {
-  display: block;
-  background: var(--carta-scura);
-  border-bottom: 1px solid var(--bordo);
-  text-decoration: none;
-  color: inherit;
-  transition: background var(--transizione);
+.apertura {
+  display: grid;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, .88fr);
+  gap: 3.25rem;
+  align-items: center;
 }
-.striscia:hover, .striscia:focus-visible { background: #ece6da; color: inherit; }
 
-.striscia-inner {
+.apertura-occhiello {
   display: flex;
-  align-items: baseline;
-  gap: .9rem;
-  padding-top: .72rem;
-  padding-bottom: .72rem;
+  align-items: center;
+  gap: .7rem;
   font-family: var(--sans);
-  font-size: .85rem;
-  line-height: 1.4;
+  font-size: .78rem;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--salvia-scura);
+  margin: 0 0 1.1rem;
 }
-
-.striscia-tag {
-  flex: none;
+.apertura-tag {
   font-size: .68rem;
   letter-spacing: .14em;
-  text-transform: uppercase;
   font-weight: 700;
   color: var(--carta);
   background: var(--borlotto);
   border-radius: 2px;
-  padding: .24rem .5rem;
-  position: relative;
-  top: -1px;
+  padding: .26rem .52rem;
 }
 
-.striscia-testo {
-  font-weight: 600;
-  color: var(--inchiostro);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+.apertura-titolo {
+  font-size: clamp(2.1rem, 1.25rem + 3.3vw, 3.5rem);
+  line-height: 1.06;
+  letter-spacing: -.026em;
+  margin: 0 0 1.1rem;
 }
-
-.striscia-data {
-  margin-left: auto;
-  flex: none;
-  font-size: .76rem;
-  letter-spacing: .06em;
-  text-transform: uppercase;
-  color: var(--grigio-tenue);
-}
-.striscia-freccia { flex: none; color: var(--salvia-scura); font-weight: 700; }
-.striscia:hover .striscia-freccia { color: var(--borlotto); }
-
-@media (max-width: 640px) {
-  .striscia-inner { gap: .6rem; font-size: .8rem; }
-  .striscia-data { display: none; }
-  .striscia-freccia { margin-left: auto; }
-}
-
-/* --------------------------------------------------------------
-   10-bis. Ultimo bollettino in home
-   -------------------------------------------------------------- */
-.hero-aggiornato { color: var(--terra); }
-
-.ultimo {
-  display: grid;
-  grid-template-columns: minmax(0, 310px) minmax(0, 1fr);
-  gap: 0;
-  align-items: stretch;
-  background: var(--carta);
-  border: 1px solid var(--bordo);
-  border-radius: 4px;
-  overflow: hidden;
+.apertura-titolo a {
+  color: inherit;
   text-decoration: none;
-  color: inherit;
-  transition: box-shadow var(--transizione), transform var(--transizione),
-              border-color var(--transizione);
+  background-image: linear-gradient(var(--borlotto), var(--borlotto));
+  background-size: 0 2px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  transition: background-size var(--transizione), color var(--transizione);
 }
-.ultimo:hover, .ultimo:focus-visible {
-  color: inherit;
-  border-color: var(--salvia-scura);
-  box-shadow: 0 10px 26px rgba(35, 37, 31, .09);
-  transform: translateY(-2px);
+.apertura-titolo a:hover, .apertura-titolo a:focus-visible {
+  color: var(--borlotto);
+  background-size: 100% 2px;
 }
 
-.ultimo-foto {
-  position: relative;
-  display: block;
-  min-height: 270px;
-  background: var(--carta-scura);
-  border-right: 1px solid var(--bordo);
+.apertura-sommario {
+  font-size: 1.1rem;
+  line-height: 1.68;
+  color: var(--inchiostro-soft);
+  margin: 0 0 1.8rem;
+  max-width: 46ch;
 }
-.ultimo-foto img {
-  position: absolute;
-  inset: 0;
+
+.apertura-foto { margin: 0; }
+.apertura-foto img {
   display: block;
   width: 100%;
-  height: 100%;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center 45%;
+  border: 1px solid var(--bordo);
+  border-radius: 4px;
+  background: var(--carta-scura);
 }
-
-.ultimo-testo {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: .55rem;
-  padding: 2rem 2.1rem;
-}
-
-.ultimo-eyebrow {
+.apertura-foto figcaption {
   font-family: var(--sans);
-  font-size: .74rem;
-  letter-spacing: .15em;
-  text-transform: uppercase;
-  font-weight: 700;
-  color: var(--borlotto);
-}
-
-.ultimo-titolo {
-  font-size: clamp(1.35rem, 1.1rem + 1vw, 1.85rem);
-  font-weight: 700;
-  line-height: 1.22;
-}
-
-.ultimo-sommario {
-  font-size: .97rem;
-  line-height: 1.65;
-  color: var(--inchiostro-soft);
-}
-
-.ultimo-cta {
-  font-family: var(--sans);
-  font-size: .82rem;
-  font-weight: 700;
+  font-size: .76rem;
   letter-spacing: .04em;
-  color: var(--salvia-scura);
-  margin-top: .35rem;
+  color: var(--grigio-tenue);
+  margin-top: .6rem;
+  text-align: right;
 }
-.ultimo-cta::after { content: " \2192"; }
-.ultimo:hover .ultimo-cta { color: var(--borlotto); }
+
+.hero-title-medio {
+  font-size: clamp(1.9rem, 1.3rem + 2vw, 2.7rem);
+  margin-bottom: 1.1rem;
+}
+.presentazione { max-width: 820px; }
+.section-stretta { padding-top: 3.25rem; padding-bottom: 3.25rem; }
 
 .ultimo-prima {
   font-family: var(--sans);
@@ -707,22 +648,15 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
   text-transform: uppercase;
   font-weight: 600;
   color: var(--grigio-tenue);
-  margin: 2.75rem 0 .4rem;
+  margin: 0 0 .4rem;
 }
 
-@media (max-width: 760px) {
-  .ultimo { grid-template-columns: 1fr; }
-  .ultimo-foto {
-    min-height: 0;
-    aspect-ratio: 4 / 3;
-    border-right: 0;
-    border-bottom: 1px solid var(--bordo);
-  }
-  .ultimo-testo { padding: 1.5rem 1.35rem 1.7rem; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .ultimo:hover, .ultimo:focus-visible { transform: none; }
+@media (max-width: 860px) {
+  .apertura { grid-template-columns: 1fr; gap: 2rem; }
+  .apertura-foto { order: -1; }
+  .apertura-foto img { aspect-ratio: 3 / 2; }
+  .apertura-foto figcaption { text-align: left; }
+  .apertura-sommario { max-width: none; }
 }
 
 /* --------------------------------------------------------------

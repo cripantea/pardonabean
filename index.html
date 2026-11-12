@@ -8,34 +8,94 @@ description: "Come il tacchino del Ringraziamento, dieci fagioli borlotti sono s
 {%- assign inizio = "2026-11-08" | date: "%s" | plus: 0 -%}
 {%- if ultimo -%}
   {%- assign giorno = ultimo.date | date: "%s" | minus: inizio | divided_by: 86400 -%}
+  {%- assign copertina = ultimo.foto | default: ultimo.immagine -%}
 {%- endif -%}
 
-<!-- ====================== STRISCIA DEL GIORNO ========================= -->
-{%- if ultimo %}
-<a class="striscia" href="{{ ultimo.url | relative_url }}">
-  <span class="wrap striscia-inner">
-    <span class="striscia-tag">{% if giorno > 0 %}Giorno {{ giorno }}{% else %}Bollettino{% endif %}</span>
-    <span class="striscia-testo">{{ ultimo.title }}</span>
-    <span class="striscia-data">{% include data-it.html date=ultimo.date %}</span>
-    <span class="striscia-freccia" aria-hidden="true">&rarr;</span>
-  </span>
-</a>
+<!-- ============================ L'APERTURA ============================ -->
+<section class="hero">
+  <div class="wrap">
+    {%- if ultimo %}
+    <div class="apertura">
+
+      <div class="apertura-testo">
+        <p class="apertura-occhiello">
+          {%- if giorno > 0 %}<span class="apertura-tag">Giorno {{ giorno }}</span>{% endif %}
+          <span>Bollettino di {% include data-it.html date=ultimo.date %}</span>
+        </p>
+        <h1 class="apertura-titolo">
+          <a href="{{ ultimo.url | relative_url }}">{{ ultimo.title }}</a>
+        </h1>
+        <p class="apertura-sommario">
+          {{ ultimo.description | default: ultimo.excerpt | strip_html | truncate: 300 }}
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="{{ ultimo.url | relative_url }}">Leggi il bollettino di oggi</a>
+          <a class="btn btn-ghost" href="{{ '/diario/' | relative_url }}">Tutto il Diario</a>
+        </div>
+      </div>
+
+      {%- if copertina %}
+      <figure class="apertura-foto">
+        <img src="{{ copertina | relative_url }}"
+             alt="La fotografia del tovagliolo scattata il {% include data-it.html date=ultimo.date %}, a corredo del bollettino di giornata."
+             decoding="async">
+        <figcaption>Il tovagliolo, {% include data-it.html date=ultimo.date %}.</figcaption>
+      </figure>
+      {%- endif %}
+
+    </div>
+    {%- else %}
+    <div class="apertura-testo">
+      <p class="apertura-occhiello"><span>Cronaca ufficiale &middot; Anno I della Grazia</span></p>
+      <h1 class="apertura-titolo">La Grande Fuga dal <em>Lavandino</em></h1>
+      <p class="apertura-sommario">Il diario &egrave; ancora asciutto: nessun bollettino pubblicato.</p>
+    </div>
+    {%- endif %}
+  </div>
+</section>
+
+<!-- ======================= PUNTATE PRECEDENTI ========================= -->
+{%- assign quanti = site.posts | size %}
+{%- if quanti > 1 %}
+<section class="section section-stretta">
+  <div class="wrap">
+    <p class="ultimo-prima">Le puntate precedenti</p>
+    <ul class="post-list">
+      {%- for post in site.posts offset:1 limit:4 %}
+      <li>
+        <a class="post-item" href="{{ post.url | relative_url }}">
+          <span class="post-item-date">{% include data-it.html date=post.date %}</span>
+          <span>
+            <span class="post-item-title">{{ post.title }}</span>
+            <span class="post-item-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 170 }}</span>
+          </span>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+    <p style="margin-top:1.75rem">
+      <a class="btn btn-ghost" href="{{ '/diario/' | relative_url }}">Apri l&rsquo;archivio completo</a>
+    </p>
+  </div>
+</section>
 {%- endif %}
 
-<!-- =============================== HERO =============================== -->
-<section class="hero">
-  <div class="wrap hero-inner">
-    <p class="hero-eyebrow">
-      Cronaca ufficiale &middot; Anno I della Grazia
-      {%- if ultimo %} &middot; <span class="hero-aggiornato">aggiornata il {% include data-it.html date=ultimo.date %}</span>{% endif -%}
-    </p>
-    <h1 class="hero-title">La Grande Fuga<br>dal <em>Lavandino</em></h1>
+<!-- ======================= DI CHE COSA SI TRATTA ====================== -->
+<section class="section section-alt">
+  <div class="wrap presentazione">
+    <p class="section-eyebrow">Di che cosa si tratta &middot; Anno I della Grazia</p>
+    <h2 class="hero-title hero-title-medio">La Grande Fuga dal <em>Lavandino</em></h2>
     <p class="hero-sub">
       Come il Presidente degli Stati Uniti grazia un tacchino alla vigilia del Ringraziamento,
       domenica 8 novembre 2026, alle 11:15, dieci fagioli borlotti sono stati <em>graziati</em>:
       estratti dal sacchetto prima dell&rsquo;ammollo, senza alcun merito, e deposti su un tovagliolo umido.
       Agli altri 390 grammi spettava il destino di un normale fagiolo, che si chiama cena.
       Dodici ore dopo, mentre il cuoco dormiva, non hanno avuto n&eacute; la grazia n&eacute; la cena.
+    </p>
+    <p class="hero-sub">
+      Questa parte della storia &egrave; chiusa e non cambier&agrave; pi&ugrave;. Quello che cambia
+      &egrave; il tovagliolo, ogni mattina, ed &egrave; il motivo per cui questa pagina si apre con la
+      fotografia di oggi e non con l&rsquo;8 novembre.
     </p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="{{ '/fagioli/' | relative_url }}">Conosci i Dieci Guardiani</a>
@@ -60,68 +120,6 @@ description: "Come il tacchino del Ringraziamento, dieci fagioli borlotti sono s
         <span>Fra la grazia e il rogo</span>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- ========================= A CHE PUNTO SIAMO ======================== -->
-<section class="section section-alt">
-  <div class="wrap">
-    <div class="section-head">
-      <p class="section-eyebrow">Diario di germinazione &middot; bollettino quotidiano</p>
-      <h2 class="section-title">A che punto siamo</h2>
-      <p class="section-sub">
-        La grazia &egrave; dell&rsquo;8 novembre e non cambier&agrave; pi&ugrave;. Quello che cambia
-        &egrave; il tovagliolo: ogni mattina una fotografia, lo stato dell&rsquo;umidit&agrave;, le
-        posizioni, e da gioved&igrave; le prime radichette. Qui c&rsquo;&egrave; l&rsquo;ultima
-        rilevazione; la storia da cui tutto discende sta subito sotto e vi si arriva con calma.
-      </p>
-    </div>
-
-    {%- if ultimo %}
-    <a class="ultimo" href="{{ ultimo.url | relative_url }}">
-      {%- assign copertina = ultimo.foto | default: ultimo.immagine %}
-      {%- if copertina %}
-      <span class="ultimo-foto">
-        <img src="{{ copertina | relative_url }}" alt="" aria-hidden="true"
-             loading="lazy" decoding="async">
-      </span>
-      {%- endif %}
-      <span class="ultimo-testo">
-        <span class="ultimo-eyebrow">
-          Ultimo bollettino
-          {%- if giorno and giorno > 0 %} &middot; giorno {{ giorno }}{% endif %}
-          &middot; {% include data-it.html date=ultimo.date %}
-        </span>
-        <span class="ultimo-titolo">{{ ultimo.title }}</span>
-        <span class="ultimo-sommario">{{ ultimo.description | default: ultimo.excerpt | strip_html | truncate: 240 }}</span>
-        <span class="ultimo-cta">Leggi il bollettino di oggi</span>
-      </span>
-    </a>
-
-    {%- assign precedenti = site.posts | size %}
-    {%- if precedenti > 1 %}
-    <p class="ultimo-prima">Le puntate precedenti</p>
-    <ul class="post-list">
-      {%- for post in site.posts offset:1 limit:4 %}
-      <li>
-        <a class="post-item" href="{{ post.url | relative_url }}">
-          <span class="post-item-date">{% include data-it.html date=post.date %}</span>
-          <span>
-            <span class="post-item-title">{{ post.title }}</span>
-            <span class="post-item-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 170 }}</span>
-          </span>
-        </a>
-      </li>
-      {%- endfor %}
-    </ul>
-    {%- endif %}
-
-    <p style="margin-top:2rem">
-      <a class="btn btn-ghost" href="{{ '/diario/' | relative_url }}">Apri l&rsquo;archivio completo</a>
-    </p>
-    {%- else %}
-    <p class="post-list-empty">Il diario &egrave; ancora asciutto: nessun aggiornamento pubblicato.</p>
-    {%- endif %}
   </div>
 </section>
 
