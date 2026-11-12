@@ -193,6 +193,71 @@ Da quella notte la cucina osserva tre regole, affisse all'anta del pensile:
 2. Batteria del rilevatore di fumo sostituita ogni sei mesi, in data fissa.
 3. Il divano non è un luogo di sorveglianza.
 
+## Aggiornamento al memoriale — giovedì 12 novembre
+
+Tre giorni dopo la bonifica, la pentola rossa è rientrata in servizio.
+
+<figure class="figure-ritratto">
+  <img src="{{ '/assets/img/pentola-carbonara.jpg' | relative_url }}"
+       alt="La pentola rossa appoggiata su una tovaglia, con dentro una porzione di spaghetti alla carbonara e qualche dado di pancetta, e un mestolo di legno appoggiato sul bordo."
+       width="1080" height="1920" loading="lazy" decoding="async">
+  <figcaption>Giovedì 12 novembre, ore 13:10. La stessa pentola della notte dell&rsquo;8, fotografata a cottura conclusa. Il fondo è grigio e pulito. Non c&rsquo;è niente, nella fotografia, che permetta di sapere cosa ci sia stato dentro quattro giorni fa.</figcaption>
+</figure>
+
+Conteneva spaghetti alla carbonara. Il registro lo annota per dovere d'archivio e non per
+polemica: questa pagina riguarda un luogo, e quando il luogo torna a essere usato la pagina è
+tenuta a dirlo.
+
+Vanno dati atto di due fatti favorevoli. **La pentola è stata sorvegliata**, dall'accensione
+allo spegnimento, e non si è bruciato niente. E — circostanza che il registro non attribuisce
+a nessuna intenzione, ma che segnala ugualmente — fra tutte le preparazioni possibili, il
+rientro in servizio è avvenuto con l'unica che impone di togliere la pentola dal fuoco prima
+di finirla. La regola numero 1 affissa all'anta del pensile non è stata applicata perché non
+serviva. È il modo più fortunato possibile di rispettare una regola.
+
+Dentro non c'erano legumi. Il registro lo verifica ogni volta e lo scrive ogni volta.
+
+### I rilievi del conclave
+
+La notizia è arrivata al tovagliolo nel primo pomeriggio e ha prodotto tre reazioni, due delle
+quali meritano di stare agli atti.
+
+**Totò** ha sollevato una questione di titoli. La preparazione risulta eseguita con pancetta
+in luogo del guanciale e con grattugiato di reggiano in luogo del pecorino: due sostituzioni,
+entrambe dichiarate, nessuna delle due contestabile sul piano del gusto. Totò ha contestato il
+piano del casato. Il Custode trascrive e si limita a osservare, con rispetto, che il rilievo
+proviene dall'unico membro del conclave che rivendica una discendenza da un baccello di
+Posillipo mai verificata da nessuno.
+
+**Meri Poppins** ha depositato un parere di non conformità in tre punti, numerati, e ha chiesto
+che fosse protocollato. Il Custode lo ha protocollato. Il parere non riguarda la notte dell'8:
+riguarda il pecorino.
+
+**Josef** ha chiesto se alla pentola fosse stato contestato qualcosa. Informato che a una
+pentola non si contesta niente, ha dichiarato che allora la questione non esiste, e ha aggiunto
+la frase che è stata raccolta nel suo [Taccuino]({{ '/fagioli/josef/' | relative_url }}). Non ha
+chiesto cosa ci fosse dentro.
+
+### Quello che il registro è tenuto ad aggiungere
+
+Il fondo è stato strofinato con il bicarbonato la mattina del 9 e da allora è di nuovo grigio.
+Non conserva traccia. Una pentola lavata non ricorda, e questo non è un difetto della pentola:
+è la sua funzione.
+
+Il difetto sta altrove. In questa cucina la memoria dell'8 novembre esiste in un solo luogo
+fisico, ed è un foglio attaccato con lo scotch all'anta di un pensile, con sopra tre regole.
+Di una regola scritta si può dire la cosa peggiore che si possa dire di una regola: che è stata
+scritta perché nessuno si fidava di ricordarsene. Finché il foglio resta attaccato, la cucina
+ricorda. Il giorno in cui si stacca, la cucina ha dimenticato, e non se ne accorgerà.
+
+Una casa con memoria avrebbe tenuto la pentola nell'armadio per una settimana. Nessuno lo ha
+proposto. Il registro, con la stessa franchezza che usa per il cuoco, dichiara che non lo
+avrebbe proposto nemmeno lui: era l'unica pentola grande.
+
+Dei 390 grammi, a quattro giorni dalla notte, non resta niente in nessun luogo di questa casa.
+Non un residuo, non un odore, non un segno sul metallo. Resta questa pagina, ed è il motivo per
+cui questa pagina non si chiude.
+
 ## Perché questo sito esiste
 
 Perché 390 grammi non si archiviano. Perché i Dieci, estratti per un esperimento e diventati per

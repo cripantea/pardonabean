@@ -123,6 +123,18 @@ VEN 13 - DOM 15   LE BUSTINE. Contrappeso comico, tono leggero.
      prezzo.
    - Movente gia' pubblicato nella sua biografia: "in parte per mancanza di
      zucchero". Depositato da settimane, mai speso.
+   - PIANTATO GIOVEDI' 12 (memoriale, rientro in servizio della pentola):
+     Meri Poppins deposita un parere di non conformita' in tre punti sulla
+     carbonara del cuoco e detta "il pecorino e' una misura, non un'opinione.
+     Chi sostituisce una misura e' tenuto a dichiararlo PRIMA, non dopo".
+     Sabato fa esattamente quello che ha prescritto: dichiara prima. La regola
+     con cui si salva se l'e' scritta da sola due giorni prima, in pubblico,
+     parlando di formaggio. Non commentare il collegamento: il lettore lo fa.
+   - COMPLICAZIONE NUOVA (dalla foto di giovedi'): l'esemplare orientale fuori
+     allineamento e' anche il primo ad avere messo radice. Due letture possibili
+     della stessa posizione: si era spostato perche' pagato, o perche' stava
+     gia' lavorando. NON RISOLVERE. Il registro espone le due letture e
+     dichiara di non sapere quale valga.
 
  DOM 15 — l'avvertenza che non serve a niente
    - AVVERTENZA del Custode: l'acqua la porta lui, gratis, ogni mattina, e
@@ -293,3 +305,21 @@ NON FARE: nessuno deve pronunciare "Corleone" prima della settimana del 16.
 Il Custode non reagisce, non si schermisce e non aggiunge smentite: ne ha
 gia' fatta una non richiesta il 12 ed e' il massimo che il personaggio puo'
 permettersi prima che il lettore insospettisca.
+
+
+=================================================================
+MOTIVO DI FONDO (dichiarato dall'autore, 12 nov)
+=================================================================
+"Viviamo in una societa' priva di memoria collettiva."
+
+E' la chiave del memoriale e va tenuta sotto, mai enunciata come tesi
+dentro un pezzo. Si esprime SOLO in fatti:
+  - la pentola rientra in servizio dopo tre giorni e non si vede niente;
+  - la memoria dell'8 novembre esiste in un foglio con lo scotch;
+  - il registro ammette che non avrebbe proposto di tenere la pentola
+    nell'armadio, perche' era l'unica pentola grande;
+  - Josef: "il programma in corso non prevede luoghi del ricordo";
+  - Toto' protesta sui titoli del formaggio e non sulla pentola;
+  - nessuno dei Dieci chiede cosa ci fosse dentro, tranne per curiosita'.
+Regola: il sito non accusa nessuno di dimenticare. Mostra quanto e'
+ragionevole, comodo e veloce dimenticare. L'accusa la tira il lettore.
