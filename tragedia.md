@@ -300,6 +300,65 @@ Dei 390 grammi, a quattro giorni dalla notte, non resta niente in nessun luogo d
 Non un residuo, non un odore, non un segno sul metallo. Resta questa pagina, ed è il motivo per
 cui questa pagina non si chiude.
 
+## La proposta
+
+Il 12 novembre il registro ha redatto una **proposta di legge di iniziativa popolare**.
+
+La strada è quella dell'articolo 71 della Costituzione: il popolo esercita l'iniziativa delle
+leggi mediante la proposta, da parte di almeno cinquantamila elettori, di un progetto redatto
+in articoli. Il progetto è redatto in articoli. Sono tre.
+
+<div class="callout">
+  <p><strong>Art. 1 &mdash; (Istituzione)</strong><br>
+  &Egrave; istituita la <strong>Giornata nazionale dei 390 grammi</strong>, celebrata l&rsquo;8 novembre
+  di ogni anno.</p>
+
+  <p><strong>Art. 2 &mdash; (Finalit&agrave; e celebrazioni)</strong><br>
+  La Giornata &egrave; dedicata agli alimenti che non hanno raggiunto la tavola per fatto del cuoco.
+  Nella giornata dell&rsquo;8 novembre &egrave; raccomandata la sorveglianza integrale delle pentole
+  in cottura dalle ore 21:00 alle ore 24:00. Non sono previste cerimonie, cortei, n&eacute;
+  l&rsquo;esposizione di alcunch&eacute;.</p>
+
+  <p><strong>Art. 3 &mdash; (Clausola di invarianza finanziaria)</strong><br>
+  Dall&rsquo;attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico
+  della finanza pubblica.</p>
+</div>
+
+L'articolo 3 è quello su cui il Custode ha riflettuto più a lungo, e lo ha scritto per scrupolo.
+La legge non chiede denaro. Chiede che qualcuno resti in cucina.
+
+La fascia oraria dell'articolo 2 non è stata scelta per comodità: le 21:10, le 23:05 e le 23:36
+sono gli orari della cronistoria qui sopra. L'intervallo proposto è esattamente quello in cui il
+fatto è avvenuto.
+
+### Stato della procedura
+
+Il testo è stato **depositato presso il registro del Programma di Germinazione**, che è l'unico
+ufficio competente ad accoglierlo e l'unico che l'abbia accolto. Chi cercasse questa proposta
+altrove non la troverà, e il registro preferisce dirlo prima.
+
+| Adempimento | Stato |
+|:---|:---|
+| Progetto redatto in articoli | Fatto. Tre. |
+| Firme necessarie | 50.000, di elettori iscritti nelle liste elettorali |
+| Firme raccolte | 0 |
+| Esame parlamentare in caso di raggiungimento della soglia | Non dovuto |
+
+Le prime tre righe della tabella parlano da sole. Sulla quarta il registro è tenuto a essere
+preciso, perché è il punto che ha trattenuto la mano del Custode più a lungo: raggiunte le
+cinquantamila firme, **né la Camera né il Senato hanno l'obbligo di esaminare la proposta**. Non
+è un'opinione sul Parlamento, è come funziona l'iniziativa popolare.
+
+Il Custode lo ha verificato prima di scrivere, e ha scritto lo stesso.
+
+Va aggiunta una coincidenza che il registro non commenta. Alla stessa data, il contatore della
+[Posta del Tovagliolo]({{ '/posta/' | relative_url }}) segnala *zero lettere scritte da lettori
+veri*. Le firme raccolte sono zero. Sono la stessa cifra e sono la stessa cosa: nessuno è ancora
+passato di qui.
+
+Una società priva di memoria collettiva non è una società che dimentica. È una società che si dà
+delle ricorrenze e non è tenuta a presentarsi.
+
 ## Perché questo sito esiste
 
 Perché 390 grammi non si archiviano. Perché i Dieci, estratti per un esperimento e diventati per

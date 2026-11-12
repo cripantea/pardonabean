@@ -349,3 +349,32 @@ REGOLA GENERALE: ogni volta che il sito ha la tentazione di
 processare un oggetto, lo fa, lo porta fino in fondo e poi mostra
 perche' era cosi' facile. Il colpevole comodo e' sempre quello che
 non puo' rispondere.
+
+-----------------------------------------------------------------
+GIORNATA NAZIONALE DEI 390 GRAMMI (12 nov, memoriale)
+-----------------------------------------------------------------
+Nata da: "possiamo fare una finta proposta al governo".
+Regola che mi sono dato e che resta: SI SCRIVE LA PROPOSTA, MAI LA
+RISPOSTA. Nessun decreto finto, nessuna firma di ministri, nessuna
+dichiarazione messa in bocca a persone reali. Il testo e' depositato
+"presso il registro del Programma di Germinazione", e il registro
+dichiara da solo che altrove non lo si trova.
+
+Fatti veri usati (verificati):
+  - art. 71 Cost.: iniziativa popolare, 50.000 elettori, progetto
+    REDATTO IN ARTICOLI.
+  - raggiunta la soglia, nessuna delle due Camere e' obbligata a
+    esaminarla. E' il colpo finale e non e' inventato.
+  - "clausola di invarianza finanziaria": formula reale, presente
+    anche nella legge che istituisce una giornata nazionale
+    (l. 35/2021, art. 6).
+Il nostro art. 3 e' la clausola di invarianza: la legge non chiede
+denaro, chiede che qualcuno resti in cucina.
+L'orario dell'art. 2 (21:00-24:00) e' la finestra esatta del rogo.
+Firme raccolte 0 = lettere di lettori veri 0. Stessa cifra, stessa
+cosa.
+
+SCARTATO: "Giorno della Memoria" (e' il 27 gennaio, istituito per
+legge, e' la Shoah: su dieci fagioli diventa dissacrazione e si
+perde il lettore). Scartato anche "Memory Day 390": sicuro ma
+inglese, unica parola straniera nell'arredamento, suona da campagna.
