@@ -4,6 +4,7 @@ title: "Nessuno aveva accusato Bud"
 date: 2026-11-12 07:56:00 +0100
 tags: [posta, memoria, istruttoria]
 immagine: /assets/img/og/nessuno-aveva-accusato-bud.jpg
+foto: /assets/img/conclave-giovedi.jpg
 description: "Tre lettere non firmate, un ricordo detto ad alta voce e una risposta che nessuno aveva chiesto. Il registro non cambia una riga."
 ---
 

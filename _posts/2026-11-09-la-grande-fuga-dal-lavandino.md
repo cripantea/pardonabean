@@ -3,6 +3,7 @@ layout: post
 title: "La Grande Fuga dal Lavandino"
 date: 2026-11-09 01:00:00 +0100
 immagine: /assets/img/og/la-grande-fuga-dal-lavandino.jpg
+foto: /assets/img/conclave-11-15.jpg
 author: "Il Custode del Tovagliolo"
 tags: [grazia, conclave, germinazione]
 description: "Domenica mattina dieci fagioli sono stati graziati. Agli altri 390 grammi spettava il destino di un normale fagiolo, e nemmeno quello hanno avuto."
