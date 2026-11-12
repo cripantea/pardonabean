@@ -342,6 +342,7 @@ altrove non la troverà, e il registro preferisce dirlo prima.
 | Progetto redatto in articoli | Fatto. Tre. |
 | Firme necessarie | 50.000, di elettori iscritti nelle liste elettorali |
 | Firme raccolte | 0 |
+| Manifestazioni di consenso prive di valore | {{ site.data.proposta.consensi }} |
 | Esame parlamentare in caso di raggiungimento della soglia | Non dovuto |
 
 Le prime tre righe della tabella parlano da sole. Sulla quarta il registro è tenuto a essere
@@ -350,6 +351,24 @@ cinquantamila firme, **né la Camera né il Senato hanno l'obbligo di esaminare 
 è un'opinione sul Parlamento, è come funziona l'iniziativa popolare.
 
 Il Custode lo ha verificato prima di scrivere, e ha scritto lo stesso.
+
+### La quarta riga della tabella
+
+Il registro ha aperto una colonna che nessun ufficio dello Stato aprirebbe mai.
+
+La proposta è stata pubblicata su Instagram, e sotto la pubblicazione si possono lasciare
+commenti. Un commento non è una firma: l'articolo 71 vuole elettori iscritti nelle liste
+elettorali e firme autenticate, e nessuna delle due cose passa da un telefono. Chi commenta non
+sta firmando niente, non sta aderendo a niente e non sta lasciando a questo registro alcun dato:
+il commento resta dove è stato scritto.
+
+Il Custode li conta lo stesso. Li conta sapendo che non valgono, li tiene separati dalle firme e
+dà alla colonna il nome che le spetta: **manifestazioni di consenso prive di valore**. È la terza
+voce di questo sito che conta una cosa che non conta, dopo la lettera recapitata al Guardiano
+sbagliato e quella archiviata dove è arrivata la risposta.
+
+Il registro non si nasconde il motivo per cui la colonna esiste. Una proposta con zero firme e
+quattrocento consensi privi di valore descrive il paese meglio di una proposta approvata.
 
 Va aggiunta una coincidenza che il registro non commenta. Alla stessa data, il contatore della
 [Posta del Tovagliolo]({{ '/posta/' | relative_url }}) segnala *zero lettere scritte da lettori

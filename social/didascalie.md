@@ -132,3 +132,35 @@ centro geometrico. Le distanze non sono piu' uguali.
 E' la prima disposizione da cui si legge una gerarchia.
 
 #giorno3 #germinazione #fagioli #borlotti #semi #beans #germination #seedlings #pardonabean
+
+---
+
+## 11-15 · Carosello: Giornata nazionale dei 390 grammi
+
+Cinque schede, in ordine: `11-giornata-390` → `12-articolo-1` → `13-articolo-2` →
+`14-articolo-3` → `15-firma`.
+
+**Didascalia**
+
+> Proponiamo l'istituzione della Giornata nazionale dei 390 grammi, l'8 novembre.
+>
+> Redatta in tre articoli, come vuole l'articolo 71 della Costituzione. L'articolo 2 raccomanda
+> la sorveglianza integrale delle pentole dalle 21 alle 24: la fascia oraria non è di comodo, è
+> quella in cui il fatto è avvenuto. L'articolo 3 è la clausola di invarianza finanziaria. La
+> legge non chiede denaro: chiede che qualcuno resti in cucina.
+>
+> Per arrivare in Parlamento servirebbero cinquantamila elettori iscritti nelle liste, con firma
+> autenticata. E anche arrivandoci, né la Camera né il Senato sarebbero obbligati a esaminarla.
+> Abbiamo verificato prima di scrivere e abbiamo scritto lo stesso.
+>
+> Quindi: firma nei commenti. Non vale niente, e lo sappiamo tutti e due. Il registro le conta
+> lo stesso, in una colonna a parte, e si chiama manifestazioni di consenso prive di valore.
+>
+> Il testo integrale è sul memoriale, link in bio.
+>
+> #giornatadei390 #390grammi #propostadilegge #articolo71 #burocrazia #satira #fagioli
+> #borlotti #pardonabean
+
+**Nota di regia.** Si pubblica la proposta, mai la risposta: nessun organo dello Stato, nessuna
+persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
+`_data/proposta.yml`, campo `consensi`.

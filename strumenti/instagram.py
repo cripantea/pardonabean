@@ -4,6 +4,7 @@
     python3 strumenti/instagram.py tondo
     python3 strumenti/instagram.py apertura
     python3 strumenti/instagram.py giorno <foto.jpg> "<Occhiello>" "<Titolo>" <nome-file>
+    python3 strumenti/instagram.py giornata
 
 Tutto finisce in social/, che non viene pubblicato dal sito.
 """
@@ -209,12 +210,48 @@ def apertura():
     return fatti
 
 
+# -------------------------------------------- Giornata dei 390 grammi
+def giornata():
+    """Carosello di cinque schede sulla proposta di legge.
+
+    Regola fissa: si pubblica la proposta, mai la risposta. Nessun
+    organo dello Stato, nessuna persona reale, nessun esito.
+    """
+    f = []
+    f.append(manifesto("Proposta di legge",
+        "Giornata nazionale dei 390 grammi.",
+        "Redatta in tre articoli, come prescrive l’articolo 71 della Costituzione. "
+        "Data proposta: 8 novembre, la notte in cui la pentola è rimasta sul fuoco.",
+        "11-giornata-390", cifra="8 nov"))
+    f.append(manifesto("Articolo 1 · Istituzione",
+        "È istituita la Giornata nazionale dei 390 grammi.",
+        "Celebrata l’8 novembre di ogni anno.", "12-articolo-1"))
+    f.append(manifesto("Articolo 2 · Celebrazioni",
+        "Sorveglianza integrale delle pentole dalle 21 alle 24.",
+        "Non sono previste cerimonie, cortei, né l’esposizione di alcunché. "
+        "La fascia oraria non è di comodo: è quella in cui il fatto è avvenuto.",
+        "13-articolo-2"))
+    f.append(manifesto("Articolo 3 · Invarianza finanziaria",
+        "La legge non chiede denaro. Chiede che qualcuno resti in cucina.",
+        "«Dall’attuazione della presente legge non devono derivare nuovi o maggiori "
+        "oneri a carico della finanza pubblica.»", "14-articolo-3"))
+    f.append(manifesto("Come si firma",
+        "Firma nei commenti. Non vale niente.",
+        "Servono cinquantamila elettori iscritti nelle liste, con firma autenticata: "
+        "un commento non è una firma e non lo diventerà. Il registro le conta lo stesso, "
+        "in una colonna a parte, e si chiama così: manifestazioni di consenso prive di valore.",
+        "15-firma", cifra="0"))
+    return f
+
+
 if __name__ == "__main__":
     c = sys.argv[1] if len(sys.argv) > 1 else ""
     if c == "tondo":
         print(tondo())
     elif c == "apertura":
         for p in apertura(): print(p)
+    elif c == "giornata":
+        for p in giornata(): print(p)
     elif c == "giorno":
         foto, occhiello, titolo, nome = sys.argv[2:6]
         print(con_foto(foto, occhiello, titolo, nome))
