@@ -345,10 +345,10 @@ altrove non la troverà, e il registro preferisce dirlo prima.
 | Manifestazioni di consenso prive di valore | {{ site.data.proposta.consensi }} |
 | Esame parlamentare in caso di raggiungimento della soglia | Non dovuto |
 
-Le prime tre righe della tabella parlano da sole. Sulla quarta il registro è tenuto a essere
-preciso, perché è il punto che ha trattenuto la mano del Custode più a lungo: raggiunte le
-cinquantamila firme, **né la Camera né il Senato hanno l'obbligo di esaminare la proposta**. Non
-è un'opinione sul Parlamento, è come funziona l'iniziativa popolare.
+Le prime tre righe parlano da sole; sulla quarta il registro si spiega qui sotto. Sull'ultima è
+tenuto a essere preciso, perché è il punto che ha trattenuto la mano del Custode più a lungo:
+raggiunte le cinquantamila firme, **né la Camera né il Senato hanno l'obbligo di esaminare la
+proposta**. Non è un'opinione sul Parlamento, è come funziona l'iniziativa popolare.
 
 Il Custode lo ha verificato prima di scrivere, e ha scritto lo stesso.
 
