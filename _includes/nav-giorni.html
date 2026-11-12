@@ -15,10 +15,13 @@
     </span>
   </a>
   {%- else %}
-  <span class="nav-giorno nav-giorno-vuoto nav-giorno-prec">
+  <a class="nav-giorno nav-giorno-prec nav-giorno-memoria" href="{{ '/tragedia/' | relative_url }}">
     <span class="nav-giorno-freccia" aria-hidden="true">&larr;</span>
-    <span class="nav-giorno-corpo"><span class="nav-giorno-et">Qui comincia tutto</span></span>
-  </span>
+    <span class="nav-giorno-corpo">
+      <span class="nav-giorno-et">Prima del Diario</span>
+      <span class="nav-giorno-tit">La notte dell&rsquo;8 novembre</span>
+    </span>
+  </a>
   {%- endif %}
 
   {%- if include.succ %}

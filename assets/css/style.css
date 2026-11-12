@@ -631,6 +631,9 @@ a.nav-giorno:hover .nav-giorno-freccia { color: var(--borlotto); }
 .nav-giorno-vuoto .nav-giorno-freccia,
 .nav-giorno-vuoto .nav-giorno-et { color: var(--bordo-forte, var(--grigio-tenue)); opacity: .65; }
 
+.nav-giorno-memoria { border-color: rgba(158, 59, 59, .3); }
+.nav-giorno-memoria .nav-giorno-freccia { color: var(--borlotto); }
+
 .post .nav-giorni { margin-bottom: 2.25rem; }
 
 /* in home il domani non esiste per definizione: niente segnaposto */
