@@ -18,6 +18,7 @@ description: "Come il tacchino del Ringraziamento, dieci fagioli borlotti sono s
     <div class="apertura">
 
       <div class="apertura-testo">
+        {% include nav-giorni.html prec=ultimo.previous succ=ultimo.next %}
         <p class="apertura-occhiello">
           {%- if giorno > 0 %}<span class="apertura-tag">Giorno {{ giorno }}</span>{% endif %}
           <span>Bollettino di {% include data-it.html date=ultimo.date %}</span>

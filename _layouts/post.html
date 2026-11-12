@@ -3,6 +3,8 @@ layout: default
 ---
 <article class="post wrap-narrow" itemscope itemtype="https://schema.org/BlogPosting">
 
+  {% include nav-giorni.html prec=page.previous succ=page.next %}
+
   <header class="post-header">
     <p class="post-kicker">Diario di germinazione</p>
     <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>

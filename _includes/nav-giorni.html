@@ -1,0 +1,39 @@
+{%- comment -%}
+  Navigatore fra i bollettini.
+  Parametri:  prec = post piu' vecchio   succ = post piu' recente
+  Il numero del giorno si conta dall'8 novembre 2026, giorno della grazia.
+{%- endcomment -%}
+{%- assign zero = "2026-11-08" | date: "%s" | plus: 0 -%}
+<nav class="nav-giorni" aria-label="Navigazione fra i bollettini">
+  {%- if include.prec %}
+  {%- assign gp = include.prec.date | date: "%s" | minus: zero | divided_by: 86400 %}
+  <a class="nav-giorno nav-giorno-prec" href="{{ include.prec.url | relative_url }}" rel="prev">
+    <span class="nav-giorno-freccia" aria-hidden="true">&larr;</span>
+    <span class="nav-giorno-corpo">
+      <span class="nav-giorno-et">{% if gp > 0 %}Giorno {{ gp }}{% else %}Il giorno prima{% endif %}</span>
+      <span class="nav-giorno-tit">{{ include.prec.title }}</span>
+    </span>
+  </a>
+  {%- else %}
+  <span class="nav-giorno nav-giorno-vuoto nav-giorno-prec">
+    <span class="nav-giorno-freccia" aria-hidden="true">&larr;</span>
+    <span class="nav-giorno-corpo"><span class="nav-giorno-et">Qui comincia tutto</span></span>
+  </span>
+  {%- endif %}
+
+  {%- if include.succ %}
+  {%- assign gs = include.succ.date | date: "%s" | minus: zero | divided_by: 86400 %}
+  <a class="nav-giorno nav-giorno-succ" href="{{ include.succ.url | relative_url }}" rel="next">
+    <span class="nav-giorno-freccia" aria-hidden="true">&rarr;</span>
+    <span class="nav-giorno-corpo">
+      <span class="nav-giorno-et">{% if gs > 0 %}Giorno {{ gs }}{% else %}Il giorno dopo{% endif %}</span>
+      <span class="nav-giorno-tit">{{ include.succ.title }}</span>
+    </span>
+  </a>
+  {%- else %}
+  <span class="nav-giorno nav-giorno-vuoto nav-giorno-succ">
+    <span class="nav-giorno-freccia" aria-hidden="true">&rarr;</span>
+    <span class="nav-giorno-corpo"><span class="nav-giorno-et">Non c&rsquo;&egrave; ancora domani</span></span>
+  </span>
+  {%- endif %}
+</nav>

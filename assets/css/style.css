@@ -555,6 +555,94 @@ tbody tr:nth-child(even) { background: var(--carta-scura); }
 }
 
 /* --------------------------------------------------------------
+   10-quater. Navigatore fra i giorni
+   -------------------------------------------------------------- */
+.nav-giorni {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: .75rem;
+  margin: 0 0 1.5rem;
+}
+
+.nav-giorno {
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
+  max-width: 100%;
+  min-width: 0;
+  padding: .45rem .9rem .5rem;
+  border: 1px solid var(--bordo);
+  border-radius: 999px;
+  background: var(--carta);
+  text-decoration: none;
+  color: inherit;
+  justify-self: start;
+  transition: background var(--transizione), border-color var(--transizione);
+}
+.nav-giorno-succ {
+  justify-self: end;
+  flex-direction: row-reverse;
+  text-align: right;
+}
+a.nav-giorno:hover, a.nav-giorno:focus-visible {
+  color: inherit;
+  background: var(--carta-scura);
+  border-color: var(--salvia-scura);
+}
+
+.nav-giorno-freccia {
+  flex: none;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--salvia-scura);
+  font-weight: 700;
+}
+a.nav-giorno:hover .nav-giorno-freccia { color: var(--borlotto); }
+
+.nav-giorno-corpo {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.nav-giorno-et {
+  font-family: var(--sans);
+  font-size: .64rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--grigio-tenue);
+}
+.nav-giorno-tit {
+  font-family: var(--sans);
+  font-size: .85rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--inchiostro-soft);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-giorno-vuoto {
+  border-style: dashed;
+  background: transparent;
+  cursor: default;
+}
+.nav-giorno-vuoto .nav-giorno-freccia,
+.nav-giorno-vuoto .nav-giorno-et { color: var(--bordo-forte, var(--grigio-tenue)); opacity: .65; }
+
+.post .nav-giorni { margin-bottom: 2.25rem; }
+
+/* in home il domani non esiste per definizione: niente segnaposto */
+.apertura-testo .nav-giorno-vuoto { display: none; }
+
+@media (max-width: 640px) {
+  .nav-giorni { gap: .5rem; }
+  .nav-giorno { padding: .4rem .7rem .45rem; }
+  .nav-giorno-tit { display: none; }
+}
+
+/* --------------------------------------------------------------
    10-bis. Apertura: la notizia del giorno
    -------------------------------------------------------------- */
 .apertura {
