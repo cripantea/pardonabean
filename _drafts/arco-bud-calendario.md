@@ -426,3 +426,37 @@ SABATO 14 — quello che adesso e' gia' carico:
      a zero. MOVENTE COMPLETO, MAI DICHIARATO.
   3. Patrocle e' rivolto verso l'interno, dove non e' uscita
      nessuna radice. Non commentare mai.
+
+
+=================================================================
+RUBRICA: CONSIGLI DI GIARDINAGGIO  (/giardinaggio/, _data/consigli.yml)
+=================================================================
+Idea dell'autore: consigli "stupidi" tipo "non sdraiatevi sul divano
+se i fagioli bollono".
+
+REGOLA DI SCRITTURA, non negoziabile: il consiglio e' inutile perche'
+e' OVVIO, o perche' arriva TARDI. Mai perche' e' assurdo. Qui dentro
+la fisica funziona: i fagioli non si muovono, non hanno arti, il piu'
+grande misura 11 mm. Il giorno in cui uno va in palestra crolla tutto
+il resto.
+  -> la battuta della palestra NON si butta: si gira. Il consiglio
+     non lo da' il Custode, lo CHIEDE un lettore, e il Custode
+     risponde con letteralita' mortale (consiglio n. 8). Bud ha gia'
+     risposto per conto suo nella Posta, e la redazione non ci torna
+     sopra.
+
+Campi: numero / consiglio / testo / appreso (facoltativo) / nota.
+"appreso" porta un'ora precisa della cronistoria: il consiglio
+diventa un rendiconto scritto all'imperativo.
+
+USO NARRATIVO GIA' PRONTO:
+  - n. 9 "non comprate niente che prometta la germinazione" e'
+    entrato OGGI, con IDROGERMINA. Serve a DOM 15: l'avvertenza del
+    Custode che non serve a niente esce come consiglio numerato, e la
+    rubrica diventa lo strumento di chi da' consigli che nessuno
+    segue. Non serve inventare un formato: c'e'.
+  - n. 7 "non date un nome ai semi prima di sapere se domani li
+    distinguerete" e' la tragedia del sito ridotta a consiglio di
+    giardinaggio. Dichiarato inapplicabile in questa casa.
+  - n. 10 "contate ogni mattina" e' carico e non e' ancora esploso.
+    Resta li'.

@@ -1,0 +1,120 @@
+# ---------------------------------------------------------------
+#  Consigli di giardinaggio — rubrica del Custode
+# ---------------------------------------------------------------
+#  Nessuno li ha chiesti. Vengono pubblicati lo stesso.
+#
+#    numero   -> progressivo, non si riusa mai
+#    consiglio-> l'imperativo, breve. E' il titolo.
+#    testo    -> la spiegazione, in tono da registro
+#    appreso  -> facoltativo: dove e quando si e' imparato
+#    nota     -> facoltativo: la precisazione che peggiora tutto
+#
+#  REGOLA DI SCRITTURA: il consiglio e' inutile perche' e' ovvio, o
+#  perche' arriva tardi. Mai perche' e' assurdo. Qui dentro la
+#  fisica funziona: i fagioli non si muovono, non hanno arti e il
+#  piu' grande misura undici millimetri.
+# ---------------------------------------------------------------
+
+- numero: 1
+  consiglio: Non sdraiatevi sul divano mentre i legumi sono sul fuoco.
+  testo: >
+    Il divano non è un luogo di sorveglianza. Da lì la pentola non si vede, non si
+    sente e non si raggiunge, e la posizione sdraiata riduce in modo documentabile
+    la probabilità di rialzarsi. Cinque minuti sul divano sono un'unità di misura
+    che non corrisponde a cinque minuti.
+  appreso: Domenica 8 novembre 2026, ore 21:50.
+  nota: >
+    È la terza delle tre regole affisse all'anta del pensile di questa cucina. Le
+    altre due sono il consiglio n. 2 e il consiglio n. 3. Sono state scritte tutte
+    e tre la mattina dopo.
+
+- numero: 2
+  consiglio: Controllate la batteria del rilevatore di fumo.
+  testo: >
+    Un rilevatore di fumo con la batteria scarica non è un rilevatore di fumo
+    guasto: è un oggetto bianco attaccato al soffitto. Continua a somigliare a un
+    sistema di sicurezza per mesi, e la somiglianza è l'unico servizio che rende.
+  appreso: Domenica 8 novembre 2026, ore 23:31.
+  nota: >
+    La sostituzione va fatta in data fissa, non quando ci si ricorda. Chi se ne
+    ricorda non ha il problema.
+
+- numero: 3
+  consiglio: Impostate un timer.
+  testo: >
+    Il timer non serve a chi si ricorda della pentola. Serve a chi se ne
+    dimenticherà, e quella persona, nel momento in cui imposta il timer, non sa
+    ancora di essere quella persona.
+  nota: >
+    È una distinzione che si capisce una volta sola.
+
+- numero: 4
+  consiglio: Inumidite la carta in modo uniforme, non a chiazze.
+  testo: >
+    La carta assorbente non distribuisce l'acqua da sola. Dove è satura il seme
+    lavora, dove si è asciugata il seme aspetta, e chi guarda il piattino dall'alto
+    non vede la differenza finché non è passata una settimana.
+  nota: >
+    Dove la carta è asciutta non succede niente, e non è colpa del seme. Questo
+    registro ha avuto bisogno di cinque giorni per scriverlo in questa forma.
+
+- numero: 5
+  consiglio: Non tirate la radichetta per vedere quanto è lunga.
+  testo: >
+    Si spezza. Non ricresce. L'esemplare non muore e non dà segno di niente, il che
+    rende il danno invisibile e definitivo nello stesso momento.
+  nota: >
+    Nessuno vi chiederà di farlo. Non fatelo lo stesso.
+
+- numero: 6
+  consiglio: Non misurate quello che non avete strumenti per misurare.
+  testo: >
+    Dichiarare un valore «conforme a vista» è una misurazione soltanto finché
+    nessuno contesta. Al primo che contesta non è più niente, e l'intero registro
+    che vi si appoggia viene giù con lei.
+  appreso: Domenica 8 novembre 2026, ore 11:23. Prima misurazione dell'umidità.
+
+- numero: 7
+  consiglio: Non date un nome ai semi prima di sapere se domani li distinguerete.
+  testo: >
+    Un fagiolo asciutto ha segni particolari: una macchia, una striatura, un
+    profilo. Un fagiolo che ha assorbito acqua ha gli stessi segni più grandi, più
+    chiari e in un'altra posizione. I nomi restano, i segni no, e quello che resta
+    è un elenco di nomi che non si sa più a chi appartengano.
+  nota: >
+    Il consiglio è inapplicabile in questa casa, dove i nomi sono stati dati alle
+    11:19 di domenica. Viene pubblicato per i posteri.
+
+- numero: 8
+  consiglio: Se un esemplare sembra ingrossato, non è ingrassato.
+  testo: >
+    Ha assorbito acqua. È quello che deve fare, è il motivo per cui è stato messo
+    sulla carta umida, ed è il primo segnale che il programma sta funzionando. Il
+    volume è idratazione e non ha alcun rapporto con la massa dell'individuo.
+  nota: >
+    Il consiglio nasce da una domanda ricevuta dalla redazione, che chiedeva se un
+    esemplare troppo grosso debba essere sottoposto a esercizio fisico. La risposta
+    è no, per due motivi: il soggetto non si sposta e non ha arti. Sulla questione
+    di merito ha già risposto l'interessato, in due parole, nella
+    <a href="/posta/">Posta del Tovagliolo</a>, e la redazione non intende tornarci sopra.
+
+- numero: 9
+  consiglio: Non comprate niente che prometta la germinazione.
+  testo: >
+    Un seme vivo, su carta umida, a temperatura di stanza, germina da solo. Non
+    esiste un prodotto che acceleri questo processo e che valga quello che costa,
+    e dove il prezzo non è espresso in denaro conviene chiedersi in che cosa sia
+    espresso.
+  nota: >
+    L'acqua la porta il Custode, a mano, tutte le mattine, e non è in vendita. Che
+    qualcuno ne abbia ceduto la concessione non la rende sua.
+
+- numero: 10
+  consiglio: Contate ogni mattina.
+  testo: >
+    Il conteggio non serve a niente per tutto il tempo in cui il numero torna. È
+    una formalità, si fa in quattro secondi e sembra una perdita di tempo a chi
+    guarda.
+  nota: >
+    Serve a una cosa sola, una volta sola, e in quell'occasione non c'è altro modo
+    di saperlo.

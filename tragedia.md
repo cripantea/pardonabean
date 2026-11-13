@@ -193,6 +193,10 @@ Da quella notte la cucina osserva tre regole, affisse all'anta del pensile:
 2. Batteria del rilevatore di fumo sostituita ogni sei mesi, in data fissa.
 3. Il divano non è un luogo di sorveglianza.
 
+Da quelle tre righe è nata una rubrica, che il Custode aggiorna man mano che impara qualcosa, il
+che significa man mano che qualcosa va storto: i
+[consigli di giardinaggio]({{ '/giardinaggio/' | relative_url }}). Nessuno li ha chiesti.
+
 ## Aggiornamento al memoriale — giovedì 12 novembre
 
 Tre giorni dopo la bonifica, la pentola rossa è rientrata in servizio.
