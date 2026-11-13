@@ -164,3 +164,23 @@ Cinque schede, in ordine: `11-giornata-390` → `12-articolo-1` → `13-articolo
 **Nota di regia.** Si pubblica la proposta, mai la risposta: nessun organo dello Stato, nessuna
 persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
 `_data/proposta.yml`, campo `consensi`.
+
+---
+
+## 16-venerdi · Il centro non ha messo radice
+
+**Didascalia**
+
+> Venerdì 13 novembre, quinto giorno. Ieri le radichette erano due. Stamattina sono cinque.
+>
+> Il fatto non è il numero: è dove stanno. Tutte e cinque sul perimetro del gruppo. Gli
+> esemplari senza radichetta occupano, senza eccezioni, la parte interna.
+>
+> Mercoledì avevamo scritto che per la prima volta si leggeva qualcosa che somigliava a una
+> gerarchia. Non avevamo scritto in quale verso andasse letta.
+>
+> Nello stesso quarto d'ora, sul lato occidentale del piattino, è comparso un prodotto in
+> bustina. Il prezzo non è in denaro: è in millimetri di posizione.
+>
+> #giorno5 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
+> #pardonabean

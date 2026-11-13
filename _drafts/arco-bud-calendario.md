@@ -378,3 +378,51 @@ SCARTATO: "Giorno della Memoria" (e' il 27 gennaio, istituito per
 legge, e' la Shoah: su dieci fagioli diventa dissacrazione e si
 perde il lettore). Scartato anche "Memory Day 390": sicuro ma
 inglese, unica parola straniera nell'arredamento, suona da campagna.
+
+
+=================================================================
+VEN 13 — FATTO. "Il centro non ha messo radice"
+=================================================================
+La foto ha dato molto piu' di quello che il calendario prevedeva:
+da 2 radichette a 5, e tutte e cinque SUL PERIMETRO. I cinque senza
+radice stanno all'interno e sul lato destro.
+
+Incastro arrivato da solo: mercoledi' il bollettino aveva scritto
+"la prima disposizione da cui si legge qualcosa che somigli a una
+gerarchia". Non aveva scritto in quale verso. Oggi il fuori ha messo
+radice e il dentro no. Titolo di mercoledi' e titolo di venerdi'
+sono una coppia:
+   "Adesso si vede chi sta al centro"  ->  "Il centro non ha messo radice"
+
+Cautela tenuta: il Custode NON afferma che siano gli stessi
+esemplari di mercoledi'. Rilievo di posizioni, non di individui.
+Questo e' il punto che tiene in piedi tutta l'epistemologia del sito.
+
+IDROGERMINA e' entrata oggi e funziona meglio di quanto previsto,
+perche' la foto ha CREATO IL MERCATO: cinque esemplari senza radice
+sono cinque clienti. Il prodotto arriva il giorno in cui serve.
+  - posologia "per via extra-ilare": l'ilo e' la porta vera del
+    fagiolo, quindi la via inventata e' una via che gira intorno
+    all'unico ingresso che esiste.
+  - tre testimonianze firmate con iniziali, nessuna corrisponde ai
+    Dieci. Gli esemplari citati non stanno su questo tovagliolo.
+  - prezzo in MILLIMETRI DI POSIZIONE, listino pubblicato, e il
+    registro chiede "chi e' che i millimetri li emette?" senza
+    rispondere. La zecca si rivela sabato.
+  - concessione idrica venduta da Toto'. L'acqua e' gratis e la
+    porta il Custode.
+  - lenticchie della dispensa: mai graziate, mai contate. La satira
+    resta sul prodotto.
+
+SABATO 14 — quello che adesso e' gia' carico:
+  1. Meri Poppins ha promesso IERI (12) un parere per iscritto sul
+     pecorino e OGGI (13) un parere per iscritto sulle direzioni.
+     Nessuno dei due e' arrivato. Sabato ne deposita uno di sua
+     iniziativa su IDROGERMINA: deposita sempre, tranne quando
+     servirebbe.
+  2. La sua valuta si sta svalutando sotto i suoi occhi: i
+     millimetri di posizione valgono solo finche' la posizione
+     conta. Da oggi conta la radice. Vende prima che il prezzo vada
+     a zero. MOVENTE COMPLETO, MAI DICHIARATO.
+  3. Patrocle e' rivolto verso l'interno, dove non e' uscita
+     nessuna radice. Non commentare mai.
