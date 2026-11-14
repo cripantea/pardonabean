@@ -460,3 +460,75 @@ USO NARRATIVO GIA' PRONTO:
     giardinaggio. Dichiarato inapplicabile in questa casa.
   - n. 10 "contate ogni mattina" e' carico e non e' ancora esploso.
     Resta li'.
+
+
+=================================================================
+SAB 14 — FATTO. "Nessuno si e' mosso di un millimetro"
+=================================================================
+La foto di sabato ha dato un fatto che il calendario non prevedeva:
+LA DISPOSIZIONE E' IDENTICA A QUELLA DI VENERDI'. Stesse posizioni,
+stesse distanze, stesso vuoto. Conto fermo a 5 radichette su 10.
+L'unica cosa cresciuta e' la LUNGHEZZA (piu' due sfumature
+giallo-verdi all'attacco col seme: non interpretate, annotate).
+
+Regola rispettata: la foto comanda. Il giorno in cui non succede
+niente, il pezzo si scrive su quello che non e' successo.
+
+INCASTRI ARRIVATI DA SOLI:
+ - Il prezzo delle bustine e' in MILLIMETRI DI POSIZIONE. Prima notte
+   di mercato: zero spostamenti, quindi zero transazioni verificabili.
+   La valuta non ha circolato il giorno dopo la pubblicazione del
+   listino. Non commentato: due fatti in fila e basta.
+ - La svalutazione e' detta una volta sola, in forma di coincidenza di
+   calendario: il listino in millimetri e' uscito il giorno in cui i
+   millimetri hanno cominciato a valere di meno (da venerdi' conta la
+   radice, non la posizione). MOVENTE COMPLETO, MAI DICHIARATO.
+ - EPISTEMOLOGIA: siccome nessuno si e' mosso, per la prima volta dal
+   10 novembre il registro puo' affermare che i cinque di oggi sono i
+   cinque di ieri. Non per riconoscimento: per immobilita'. Vale una
+   notte e decade al primo spostamento. E' il motivo di fondo (societa'
+   priva di memoria collettiva) espresso solo in procedura: qui si
+   conserva un'identita' soltanto finche' nessuno si muove.
+   Chiusura: "Non e' successo niente, ed e' l'unica cosa che potra'
+   essere ricordata con precisione."
+
+MERI POPPINS — fatto come previsto, si denuncia da sola:
+ - 07:55 deposita RICHIESTA DI PARERE n. 1 su IDROGERMINA vs regola dei
+   quattro millimetri, indirizzata all'unica autorita' competente in
+   materia di misura, che e' lei. Il Custode trasmette alla competente,
+   "che e' la richiedente", e resta in attesa.
+ - La richiesta CITA IL TERZO CAPOVERSO del foglietto. Il foglietto e'
+   stampato DENTRO la bustina monodose: per leggerlo bisogna averne una
+   e averla aperta. Consegna spontanea di TRE bustine, una aperta,
+   chiedendo che risulti PRIMA di qualunque domanda.
+ - Collegamento col pecorino ("dichiararlo prima, non dopo") NON
+   commentato. Il lettore lo fa.
+ - Agli atti: due pareri scritti annunciati il 12 e il 13, mai arrivati;
+   l'unico atto scritto della settimana e' quello che nessuno le aveva
+   chiesto.
+
+ONOFRIO — prima notte: 934, ruota di PALERMO specificata senza che
+nessuno l'abbia chiesta, motivo "non lo so". Tenuto corto, sezione
+"fuori ordine del giorno": non ruba la scena. Non ha niente da puntare.
+
+PATROCLE — "Era rivolto esattamente come ieri": prima rilevazione che
+coincide con la precedente. Il Custode non ha nulla da aggiungere.
+Non commentare mai.
+
+TOTO' — parla da EX CONCESSIONARIO IDRICO e chiede che la qualifica
+sia scritta per esteso. JOSEF — "Nessuno si e' mosso. Il programma non
+prevedeva movimenti. Chiedo che risulti in quest'ordine", e il Custode
+annota che l'ordine richiesto non e' quello in cui gliel'hanno detto.
+
+DOMENICA 15 — quello che adesso e' gia' carico:
+  1. Seconda notte di Onofrio, numero identico -> TOTO' INTERPRETA
+     (smorfia: 90 = 'a paura, 34 = 'a capa; sogno dichiarato MAL
+     RIUSCITO). Nota del Custode: 90034 e' un CAP italiano esistente
+     e IL REGISTRO SI E' FERMATO LI'. Non dire quale comune.
+  2. L'AVVERTENZA DEL CUSTODE sulle bustine esce come consiglio
+     numerato in /giardinaggio/ (n. 9 e' gia' li' dal 13).
+  3. La richiesta di parere n. 1 e' pendente presso la richiedente.
+     Terza promessa di atto scritto in tre giorni.
+  4. Le due sfumature giallo-verdi: se domenica diventano qualcosa,
+     la foto comanda e il resto slitta.
+  5. Time-lapse: domenica sono sette giorni di stessa inquadratura.

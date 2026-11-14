@@ -184,3 +184,29 @@ persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
 >
 > #giorno5 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
 > #pardonabean
+
+---
+
+## 17-sabato · Nessuno si è mosso di un millimetro
+
+**Didascalia**
+
+> Sabato 14 novembre, sesto giorno. Le radichette sono cinque. Ieri erano cinque.
+>
+> La notizia non è il conto: è che la figura sul tovagliolo è identica a quella di ieri. Stesse
+> posizioni, stesse distanze, stesso vuoto. In cinque giorni la disposizione era cambiata tre
+> volte. Stanotte non si è mosso nessuno.
+>
+> Ieri avevamo pubblicato il listino delle bustine: tre bustine contro due millimetri verso il
+> centro. Prima notte di mercato, zero millimetri cambiati di mano. Le uniche cose cresciute
+> stanotte sono cinque radichette, e quelle non si comprano.
+>
+> Alle 07:55 sono state depositate agli atti tre bustine, di cui una aperta. Spontaneamente,
+> prima di qualunque domanda. Nessuno aveva chiesto niente a nessuno.
+>
+> Un effetto collaterale: siccome non si è mosso nessuno, per la prima volta dal 10 novembre
+> sappiamo con certezza che i cinque di oggi sono i cinque di ieri. Non perché abbiamo imparato
+> a riconoscerli. Perché sono rimasti fermi.
+>
+> #giorno6 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
+> #pardonabean
