@@ -3,7 +3,7 @@ layout: page
 title: La Tragedia dei 390 Grammi
 permalink: /tragedia/
 kicker: Memoriale
-description: "Cronistoria dell'olocausto culinario dei 390 grammi caduti nella pentola rossa."
+description: "Cronistoria della notte in cui 390 grammi di fagioli borlotti sono stati lasciati sul fuoco e non hanno avuto né la grazia né la cena."
 ---
 
 Questa pagina è un memoriale. Non contiene ricette, non contiene consigli di cottura e non

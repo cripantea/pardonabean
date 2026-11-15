@@ -147,3 +147,15 @@ chi. Il Custode lo scrive qui perché gli serva come regola di mestiere, e perch
 giusto che risulti scritto il giorno in cui gli è venuta comoda.
 
 Non è successo niente, ed è l'unica cosa che potrà essere ricordata con precisione.
+
+<div class="callout callout-warning" id="rettifica">
+  <p>
+    <strong>Rettifica del 15 novembre 2026.</strong> La disposizione descritta in questo bollettino
+    non era identica a quella del giorno precedente: nella fotografia pubblicata qui sopra un
+    esemplare senza radichetta si trova sul margine occidentale del gruppo, fuori dalla posizione
+    che occupava venerdì. La prima notte di listino non è stata senza spostamenti, e l'identità
+    «per immobilità» affermata in chiusura non ha fondamento. Il testo resta com'è stato
+    pubblicato. I dettagli sono nel
+    <a href="{{ '/diario/2026/11/15/ieri-si-era-mosso-qualcuno/' | relative_url }}">bollettino del 15 novembre</a>.
+  </p>
+</div>

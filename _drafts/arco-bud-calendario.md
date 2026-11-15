@@ -532,3 +532,67 @@ DOMENICA 15 — quello che adesso e' gia' carico:
   4. Le due sfumature giallo-verdi: se domenica diventano qualcosa,
      la foto comanda e il resto slitta.
   5. Time-lapse: domenica sono sette giorni di stessa inquadratura.
+
+
+=================================================================
+DOM 15 — FATTO. "Ieri si era mosso qualcuno"
+=================================================================
+LA FOTO HA SMENTITO IL BOLLETTINO DI IERI. Confronto domenica/sabato:
+un esemplare SENZA radichetta e' cambiato di posto (ieri sul margine
+occidentale, coricato di traverso; oggi all'interno, fra i due del lato
+sinistro). Confronto domenica/venerdi': sovrapponibili. Quindi la foto
+fuori posto era quella di SABATO, e il testo di sabato ("nessuno si e'
+mosso") era sbagliato. Verificato mettendo le tre foto affiancate.
+
+Resa: RETTIFICA formale in tre punti nel pezzo di oggi + callout di
+rettifica in calce al post del 14 (testo originale NON toccato: "il
+registro non corregge, rettifica; un testo corretto non ricorda di
+essere stato sbagliato"). L'identita' "per immobilita'" cade dopo 24 ore.
+Chiusura: "Ieri non era vero che non fosse successo niente. Era vero
+soltanto che nessuno lo aveva visto, e per ventiquattro ore le due cose
+sono state la stessa." E' il motivo di fondo, solo in procedura.
+
+ANDATA E RITORNO: ven->sab dall'interno al margine (lontano dal centro),
+sab->dom ritorno (verso il centro). Saldo zero. Listino: tre bustine
+contro due millimetri VERSO IL CENTRO. Meri ha consegnato tre bustine
+sab 07:55 "prima di qualunque domanda": il registro conferma che lo era
+"con un margine piu' largo di quanto sapesse". NON congiunto.
+
+CONDIZIONI DI RIPRESA annotate senza commento: tre superfici in tre
+giorni (ven tovagliolo, sab tessuto grigio, dom piattino bianco su
+tovaglia a fogliame) e due lembi di carta ripiegati mai visti prima.
+"Il piattino ha cambiato tavolo due volte in due giorni." L'unico con
+le mani e' il Custode: carica per Corleone, MAI dirlo.
+
+Fatti come previsto:
+ - Onofrio seconda notte: 934 "con due zeri tondi" fra il 9 e il 34.
+   Toto' tiene uno zero, scarta l'altro ("lo zero in piu' e' sonno"),
+   90 'a paura / 34 'a capa, MAL RIUSCITO. Custode: "il numero, scritto
+   per intero con i due zeri su cui Onofrio ha insistito, corrisponde a
+   un CAP italiano esistente. Il registro si e' fermato li'."
+ - Avvertenza del Custode -> consiglio n. 11 "Non pagate l'acqua a chi
+   non la porta". Josef: verbalizzata "ricevuta", non "accolta".
+ - Meri Poppins: parere "in corso di stesura". Terzo atto annunciato
+   da giovedi'.
+ - Patrocle rivolto verso il margine occidentale, dove stamattina non
+   c'e' nessuno. Non commentato.
+ - Taccuino: Toto', Josef, Onofrio, Meri Poppins, Patrocle.
+
+Botanica: 5 radichette, stesse posizioni; due in allungamento; sfumatura
+giallo-verde persistente, piu' netta su una (luce diversa, non separabile).
+Tegumento aperto invariato. Nessuna nuova radice.
+
+TIME-LAPSE: NON fatto. Oggi l'inquadratura e' diversa (altro tavolo,
+piattino visibile, lembi ripiegati): la serie "stessa inquadratura" si
+interrompe. Va deciso con l'autore se montarlo comunque (ven-sab-dom e'
+proprio la sequenza dell'andata e ritorno: potrebbe essere il Reel).
+
+LUNEDI' 16 — gia' carico:
+  1. Settimana di Corleone. Il materiale che lo rilegge e' tutto agli
+     atti: smentita del 12, CAP 90034 non verificato, avvertenza
+     sull'acqua "ricevuta", piattino che cambia tavolo, rettifica.
+  2. Dopo la rettifica il registro ha un precedente: ha sbagliato una
+     volta guardando la propria foto. Ogni affermazione futura di
+     "immobilita'" va fatta col confronto a due giorni.
+  3. Meri: il parere scritto non arriva. Quarta volta, se serve.
+  4. Il margine occidentale e' di nuovo vuoto: Patrocle lo guarda.

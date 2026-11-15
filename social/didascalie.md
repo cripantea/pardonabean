@@ -210,3 +210,29 @@ persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
 >
 > #giorno6 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
 > #pardonabean
+
+---
+
+## 18-domenica · Ieri si era mosso qualcuno
+
+**Didascalia**
+
+> Domenica 15 novembre, settimo giorno. Le radichette sono cinque. Ieri erano cinque.
+>
+> Stamattina, confrontando la foto di oggi con quella di ieri, uno dei cinque senza radichetta
+> non era più al suo posto. Confrontandola con quella di venerdì, era esattamente al suo posto.
+>
+> A essere fuori posto era la foto di ieri. L'esemplare è lì, sul margine sinistro, sopra un
+> testo che diceva che non si era mosso nessuno. Lo avevamo pubblicato. Non lo avevamo visto.
+>
+> Il bollettino di ieri è rettificato in tre punti. Il testo resta com'era: un testo corretto
+> non ricorda di essere stato sbagliato.
+>
+> Andata verso il bordo venerdì notte, ritorno verso il centro sabato notte. Saldo zero. Il
+> listino delle bustine dice: tre bustine contro due millimetri verso il centro.
+>
+> Ieri avevamo scritto: «Non è successo niente, ed è l'unica cosa che potrà essere ricordata con
+> precisione». È stata ricordata con precisione per ventiquattro ore.
+>
+> #giorno7 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
+> #pardonabean
