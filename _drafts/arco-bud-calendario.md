@@ -596,3 +596,41 @@ LUNEDI' 16 — gia' carico:
      "immobilita'" va fatta col confronto a due giorni.
   3. Meri: il parere scritto non arriva. Quarta volta, se serve.
   4. Il margine occidentale e' di nuovo vuoto: Patrocle lo guarda.
+
+
+=================================================================
+LUN 16 — FATTO. "Agli atti manca la fotografia"
+=================================================================
+L'autore NON ha scattato la foto di lunedi' (ha prima rimandato per
+errore la foto di domenica: stesso file, verificato con SHA-1). Su sua
+indicazione: bollettino senza foto, con "imprevisto del fotografo" e
+garanzia di incolumita' dei Dieci "sorvegliati di continuo".
+
+Resa: la comunicazione della redazione e' riportata quasi alla lettera;
+il registro aggiunge tre precisazioni: (1) il fotografo e' il Custode,
+l'imprevisto non e' descritto; (2) la garanzia e' agli atti "come
+garanzia, non come rilievo"; (3) "la sorveglianza continua e' avvenuta.
+Non e' stata fotografata." NESSUNO STATO BOTANICO SCRITTO: solo conto a
+vista (dieci), reinumidito 07:36. Immagine al posto della foto: riquadro
+d'archivio "Rilievo fotografico non eseguito" (assets/img/conclave-lunedi.jpg).
+Nuovo campo facoltativo `foto_alt:` nel front matter, letto dalla home.
+
+Chiusura: "Il registro garantisce che lunedi' 16 novembre e' esistito.
+Non e' in grado di dire com'era." Motivo di fondo, solo in procedura.
+
+Al pozzo: Josef chiede che risulti che la giornata "non e' avvenuta"
+(il Custode annota che e' avvenuta lo stesso). Meri si offre di
+certificare le posizioni "a vista" col suo timbro -> declinato col
+consiglio n. 6; quarto atto scritto annunciato da giovedi'. Onofrio:
+"Stanotte niente". Patrocle: RIVOLTO VERSO IL CUSTODE (07:31). Mai
+commentato: nella settimana di Corleone e' carico.
+
+L'IMPREVISTO DEL CUSTODE NON E' SPIEGATO: il giorno senza documento,
+nella settimana in cui si scopre da dove viene, e' il giorno in cui
+l'unico con le mani non ha lasciato traccia. NON dirlo mai.
+
+MARTEDI' 17 — gia' carico:
+  1. Confronto a 48 ore con domenica. Se coincide: "coincide", MAI
+     "nessuno si e' mosso" (scritto nel pezzo di lunedi').
+  2. Corleone: ancora da decidere con l'autore il giorno.
+  3. Meri: quinto atto annunciato? Solo se la foto lo regge.

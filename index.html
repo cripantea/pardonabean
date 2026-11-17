@@ -38,7 +38,7 @@ description: "Come il tacchino del Ringraziamento, dieci fagioli borlotti sono s
       {%- if copertina %}
       <figure class="apertura-foto">
         <img src="{{ copertina | relative_url }}"
-             alt="La fotografia del tovagliolo scattata il {% include data-it.html date=ultimo.date %}, a corredo del bollettino di giornata."
+             alt="{% if ultimo.foto_alt %}{{ ultimo.foto_alt }}{% else %}La fotografia del tovagliolo scattata il {% include data-it.html date=ultimo.date %}, a corredo del bollettino di giornata.{% endif %}"
              decoding="async">
         <figcaption>Il tovagliolo, {% include data-it.html date=ultimo.date %}.</figcaption>
       </figure>

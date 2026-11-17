@@ -236,3 +236,25 @@ persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
 >
 > #giorno7 #germinazione #radice #fagioli #borlotti #semi #beans #germination #seedlings
 > #pardonabean
+
+---
+
+## 19-lunedi · Agli atti manca la fotografia
+
+**Didascalia**
+
+> Lunedì 16 novembre, ottavo giorno. Oggi niente fotografia.
+>
+> Il nostro fotografo ha avuto un imprevisto e lo scatto di lunedì non è stato fatto. Ce ne
+> scusiamo. Garantiamo l'incolumità dei Dieci, sorvegliati di continuo per tutta la giornata.
+>
+> Il registro ha messo la garanzia agli atti come garanzia, non come rilievo. Il conto è stato
+> fatto a vista: dieci. Sulle radichette e sulle posizioni non scriviamo niente, perché non
+> abbiamo niente da guardare. Ieri abbiamo imparato quanto costa scrivere senza guardare.
+>
+> Domani il confronto sarà a quarantotto ore. Domenica abbiamo visto che in quarantotto ore un
+> fagiolo può andarsene e tornare al suo posto, e che a vederlo era solo la foto di mezzo.
+>
+> Il registro garantisce che lunedì 16 novembre è esistito. Non è in grado di dire com'era.
+>
+> #giorno8 #germinazione #fagioli #borlotti #semi #beans #germination #pardonabean

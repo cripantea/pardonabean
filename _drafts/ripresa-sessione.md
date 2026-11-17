@@ -2,8 +2,8 @@
 title: "Ripresa: passaggio di consegne a una nuova sessione"
 ---
 
-PASSAGGIO DI CONSEGNE — aggiornato domenica 15 novembre 2026, dopo la pubblicazione
-del settimo bollettino.
+PASSAGGIO DI CONSEGNE — aggiornato martedi' 17 novembre 2026, dopo la pubblicazione
+dell'ottavo bollettino (lunedi' 16, uscito senza foto).
 
 Questo file sta in _drafts/ e non viene mai pubblicato. Serve a una sessione nuova
 che riprenda il lavoro senza avere la cronologia della chat precedente.
@@ -84,13 +84,14 @@ Pubblicati sei bollettini in _posts/ (permalink /diario/AAAA/MM/GG/titolo/):
   12/11  Nessuno aveva accusato Bud
   13/11  Il centro non ha messo radice
   14/11  Nessuno si e' mosso di un millimetro      (RETTIFICATO il 15: callout in calce)
-  15/11  Ieri si era mosso qualcuno                <- ultimo
+  15/11  Ieri si era mosso qualcuno
+  16/11  Agli atti manca la fotografia             <- ultimo (nessuna foto: riquadro d'archivio)
 
 Pagine: / (home) · /fagioli/ (albo + 10 schede) · /posta/ · /diario/ · /giardinaggio/
         · /tragedia/ (il memoriale, con il processo alla pentola e la proposta di
         legge) · /privacy/
 
-Numerazione dei giorni: giorno N = data - 8 novembre 2026. Il 15/11 e' il Giorno 7.
+Numerazione dei giorni: giorno N = data - 8 novembre 2026. Il 16/11 e' il Giorno 8.
 Il calcolo e' in Liquid, in index.html e in _includes/nav-giorni.html, con
   {%- assign zero = "2026-11-08" | date: "%s" | plus: 0 -%}
 
@@ -99,6 +100,9 @@ disposizione identica a quella del 13/11. Quella del 14/11 NON era identica: un
 esemplare senza radice era sul margine occidentale (il post del 14 lo negava ed e'
 stato rettificato il 15). Sfumatura giallo-verde persistente. Il piattino e' stato
 fotografato su tre superfici diverse in tre giorni.
+Il 16/11 NON c'e' foto: il prossimo confronto e' con domenica 15 (48 ore).
+Se l'autore manda una foto, verificare con shasum che non sia una gia' usata
+(il 17/11 ha rimandato per errore quella del 15).
 CONFRONTO OBBLIGATORIO: foto del giorno contro QUELLA DI IERI e QUELLA DI DUE GIORNI
 FA, affiancate. Il 14 un solo confronto a occhio ha prodotto un errore pubblicato.
 
@@ -126,7 +130,10 @@ Card OG di un articolo:
 Card Instagram del giorno:
   python3 strumenti/instagram.py giorno assets/img/conclave-<giorno>.jpg \
       "Giorno N — <giorno> <data>" "<Titolo>" <NN>-<giorno>
-  (ultimo file prodotto: social/18-domenica.jpg)
+  (ultimo file prodotto: social/19-lunedi.jpg)
+  Su un'immagine chiara e uniforme (es. il riquadro senza foto) taglia_barra
+  scambia il fondo per la fascia del telefono: generare importando il modulo e
+  sostituendo ig.taglia_barra con l'identita' (fatto il 17/11).
   Il ritaglio e' centrato: se i fagioli stanno in alto nella foto, pre-ritagliare
   il fondo in scratchpad e passare quel file (fatto il 15/11).
 
@@ -197,7 +204,7 @@ CARTA MAI SPESA: l'undicesimo fagiolo, rimesso nel sacchetto.
  - Instagram @pardonabean: riordinare la bio, mettere social/profilo-tondo.jpg come
    immagine del profilo, seguire il profilo da cristi72095, poi caricare in ordine
    i post 01->09, 10-giovedi, 11-15 (carosello della Giornata dei 390), 16-venerdi,
-   17-sabato, 18-domenica. Le didascalie sono tutte in social/didascalie.md.
+   17-sabato, 18-domenica, 19-lunedi. Le didascalie sono tutte in social/didascalie.md.
  - _data/proposta.yml, campo `consensi`: si aggiorna A MANO man mano che arrivano
    commenti su Instagram. Oggi e' 0.
  - "olocausto culinario" in tragedia.md: SOSTITUITO il 15/11 con via libera
