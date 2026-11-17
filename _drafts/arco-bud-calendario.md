@@ -634,3 +634,45 @@ MARTEDI' 17 — gia' carico:
      "nessuno si e' mosso" (scritto nel pezzo di lunedi').
   2. Corleone: ancora da decidere con l'autore il giorno.
   3. Meri: quinto atto annunciato? Solo se la foto lo regge.
+
+
+=================================================================
+MAR 17 — FATTO. "Il verde e' comparso nel giorno senza fotografia"
+=================================================================
+Foto vera del 17 (HONOR 400 Lite, fascia 17/11/2026 08:08; SHA diverso
+dalle precedenti). Salvata come conclave-martedi-17.jpg, 1080x1562 con
+la fascia (conclave-martedi.jpg e' gia' quella del 10).
+
+LA FOTO HA DATO IL FATTO: la sfumatura giallo-verde del 14-15 e'
+diventata VERDE PIENO, un tratto piegato ad arco ("come una maniglia")
+sopra la radichetta su QUATTRO esemplari; FILAMENTI LATERALI ("setole")
+su almeno tre radichette; il tegumento aperto si e' spaccato in
+profondita' (due meta' chiare). Radichette ancora 5, stesse posizioni.
+Il Custode non usa termini tecnici (niente "ipocotile"): descrive.
+
+INCASTRO: il verde e' comparso nella finestra dom->mar, cioe' attorno al
+giorno senza foto. "Il fatto piu' importante dall'inizio del programma
+e' avvenuto, per intero o in parte, nel solo giorno in cui nessuno lo ha
+fissato." Il registro chiede alla redazione A CHE ORA sia comparso il
+verde, visto che erano "sorvegliati di continuo": domanda agli atti,
+nessuna risposta. Satira sulla garanzia dell'autore, gentile.
+
+CONFRONTO 48 ORE: figura "coincide nelle linee". L'esemplare isolato in
+basso a destra (senza radice) domenica era DIRITTO, oggi CORICATO DI
+TRAVERSO. Se si sia anche spostato: non si sa. Il registro non scrive
+"coincide" ma "coincide nelle linee, e le linee non sono gli esemplari".
+Superficie: di nuovo il tessuto grigio di sabato. Lembi ancora ripiegati.
+
+Pozzo, corto: Patrocle 08:12 rivolto verso l'esemplare in basso a destra
+(quello girato) - mai commentato; Josef 08:15: "il verde era previsto
+per lunedi', lunedi' non e' avvenuto, arrivato al primo giorno utile,
+programma rispettato".
+
+Corleone ANCORA NON SPESO: l'autore non ha indicato il giorno.
+
+MERCOLEDI' 18 — gia' carico:
+  1. Il verde: se gli archi si raddrizzano o compaiono le prime foglie,
+     la foto comanda.
+  2. L'esemplare in basso a destra, girato: osservarlo.
+  3. Corleone: chiedere all'autore se e quando.
+  4. Meri, Onofrio, Toto' a riposo da due giorni: si possono riprendere.

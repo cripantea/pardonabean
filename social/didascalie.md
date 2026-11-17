@@ -258,3 +258,26 @@ persona reale, nessun esito. Il conteggio dei commenti si aggiorna a mano in
 > Il registro garantisce che lunedì 16 novembre è esistito. Non è in grado di dire com'era.
 >
 > #giorno8 #germinazione #fagioli #borlotti #semi #beans #germination #pardonabean
+
+---
+
+## 20-martedi · Il verde è comparso nel giorno senza fotografia
+
+**Didascalia**
+
+> Martedì 17 novembre, nono giorno. Le radichette sono cinque, come domenica. Quattro sono verdi.
+>
+> Domenica c'era una sfumatura giallo-verde che non sapevamo distinguere dalla luce. Stamattina è
+> un colore: un arco verde pieno, subito sopra la radichetta, su quattro esemplari. E sulle
+> radichette sono comparsi filamenti laterali sottili, come setole.
+>
+> È il primo colore sul tovagliolo dall'8 novembre che non sia quello dei fagioli o della carta.
+>
+> Quando è comparso? Non lo sappiamo. Non c'era domenica, c'è oggi. In mezzo c'è lunedì: il giorno
+> senza fotografia, in cui i Dieci erano sorvegliati di continuo.
+>
+> Abbiamo chiesto alla redazione a che ora sia comparso il verde. La domanda è agli atti. La
+> risposta no.
+>
+> #giorno9 #germinazione #germoglio #radice #fagioli #borlotti #semi #beans #germination
+> #seedlings #pardonabean
