@@ -156,6 +156,9 @@ TRAPPOLE NOTE:
    ?v={{ site.github.build_revision | default: site.time | date: '%s' | slice: -8, 8 }}
    Se l'autore manda uno screenshot "senza stile", e' cache del browser, non il sito.
  - jekyll serve staccato a volte non rigenera: lanciare jekyll build esplicito.
+ - L'orario in `date:` NON deve essere nel futuro rispetto al momento del push:
+   Jekyll salta i post futuri senza errore (successo il 17/11). Verificare che
+   la pagina esista in _site/ dopo il build.
  - Ogni post vuole DUE immagini nel front matter: `immagine:` (card OG, col titolo
    gia' stampato sopra) e `foto:` (la fotografia nuda, usata in home). Senza `foto:`
    la home mostra il titolo due volte.

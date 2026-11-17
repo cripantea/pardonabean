@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il verde è comparso nel giorno senza fotografia"
-date: 2026-11-17 08:40:00 +0100
+date: 2026-11-17 08:25:00 +0100
 immagine: /assets/img/og/il-verde-e-comparso-nel-giorno-senza-fotografia.jpg
 foto: /assets/img/conclave-martedi-17.jpg
 tags: [germinazione, verde, radice, disposizione]
