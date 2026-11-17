@@ -668,11 +668,21 @@ Pozzo, corto: Patrocle 08:12 rivolto verso l'esemplare in basso a destra
 per lunedi', lunedi' non e' avvenuto, arrivato al primo giorno utile,
 programma rispettato".
 
-Corleone ANCORA NON SPESO: l'autore non ha indicato il giorno.
+Corleone ANCORA NON SPESO. Il 17 sera l'autore ha deciso: MERCOLEDI' 18.
 
 MERCOLEDI' 18 — gia' carico:
   1. Il verde: se gli archi si raddrizzano o compaiono le prime foglie,
      la foto comanda.
   2. L'esemplare in basso a destra, girato: osservarlo.
-  3. Corleone: chiedere all'autore se e quando.
-  4. Meri, Onofrio, Toto' a riposo da due giorni: si possono riprendere.
+  3. CORLEONE SI SPENDE MERCOLEDI' 18. Deciso dall'autore il 17/11
+     ("facciamo domani corleone"). E' il colpo di scena della settimana:
+     il bollettino lo porta, la foto resta comunque il fatto botanico
+     (non inventare stato). Rilegge all'indietro: smentita del 12, CAP
+     90034 "il registro si e' fermato li'", ruota di Palermo, avvertenza
+     sull'acqua "ricevuta", lunedi' senza foto con imprevisto non
+     descritto, Patrocle rivolto verso il Custode. Il Custode non si
+     schermisce e non aggiunge smentite. Rispetto per il comune reale:
+     si ride del Custode e dei sospetti, mai del paese ne' dei suoi
+     abitanti; nessun riferimento a fatti o persone reali.
+  4. Meri, Onofrio, Toto' a riposo da due giorni: si possono riprendere
+     (Onofrio e Toto' sono i naturali testimoni del CAP).

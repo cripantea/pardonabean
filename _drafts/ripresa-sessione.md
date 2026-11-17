@@ -197,6 +197,8 @@ DOMENICA 15 — FATTO (vedi arco-bud-calendario.md, blocco DOM 15).
   Time-lapse NON montato: inquadratura cambiata. Chiedere all'autore.
 
 SETTIMANA DEL 16
+  - DECISO DALL'AUTORE IL 17: CORLEONE SI SPENDE MERCOLEDI' 18 (dettagli
+    nel blocco MAR 17 di arco-bud-calendario.md).
   - Si scopre che il Custode e' originario di Corleone. NESSUNO deve pronunciare
     "Corleone" prima di allora. Il Custode non si schermisce e non aggiunge
     smentite: ne ha gia' fatta una non richiesta il 12 novembre.
